@@ -19,7 +19,7 @@
 - [Todas as pessoas](/cadastros/pessoa.md)
 - [Unidades de Medida](/cadastros/unidademedida.md)
 
-***Relatórios/Consultas***
+  ***Relatórios/Consultas***
 - [Clientes](/cadastros/relatorios/clientes.md)
 - [Clientes Analítico](/cadastros/relatorios/clientesanalitico.md)
 - [Fornecedores](/cadastros/relatorios/fornecedores.md)
