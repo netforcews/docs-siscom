@@ -19,6 +19,7 @@
 - [Tipos de produção](/cadastros/tipoproducao.md)
 - [Todas as pessoas](/cadastros/pessoa.md)
 - [Unidades de Medida](/cadastros/unidademedida.md)
+<br>
 ***Relatórios/Consultas***
 - [Clientes](/cadastros/relatorios/clientes.md)
 - [Clientes Analítico](/cadastros/relatorios/clientesanalitico.md)
@@ -30,6 +31,7 @@
 <br>
 **CRM**
 - [Interações](/crm/interacoes.md)
+<br>
 ***Relatórios/Consultas***
 - [Interações](/crm/relatorios/interacoes.md)
 <br>
@@ -46,7 +48,6 @@
 - [Configurações](/financeiro/configuracoes.md)
 - [Conta corrente](/financeiro/contacorrente.md)
 - [Contas a Pagar](/financeiro/contaspagar.md)
-<br>
 <br>
 ***Relatórios/Consultas***
 - [Comissões a pagar](/financeiro/relatorios/comissoespagar.md)
@@ -77,6 +78,7 @@
 <br>
 <br>
 **SALDOS**
+<br>
 ***Relatórios/Consultas***
 - [Saldos](/saldos/saldos.md)
 <br>
@@ -86,6 +88,7 @@
 - [Pedidos](/vendas/pedido.md)
 - [Pré-pedido](/vendas/prepedido.md)
 - [Propostas](/vendas/proposta.md)
+<br>
 ***Relatórios/Consultas***
 - [Total de vendas](/vendas/relatorios/totalvendas.md)
 - [Total de vendas por fornecedor](/vendas/relatorios/totalvendasfornecedor.md)
