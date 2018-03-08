@@ -26,13 +26,15 @@
 - [Prestadores de serviço](/cadastros/relatorios/prestadoresservico.md)
 - [Transportadoras](/cadastros/relatorios/transportadoras.md)
 - [Pessoas](/cadastros/relatorios/pessoas.md)
-
+<br>
+<br>
 **CRM**
 - [Interações](/crm/interacoes.md)
 
 ***Relatórios/Consultas***
 - [Interações](/crm/relatorios/interacoes.md)
-
+<br>
+<br>
 **E-MAILS**
 - [Contas](/emails/contas.md)
 - [Modelo de e-mails](/emails/modeloemails.md)
@@ -58,7 +60,8 @@
 - [Resumo a pagar por conta](/financeiro/relatorios/resumopagarconta.md)
 - [Resumo a receber por fornecedor](/financeiro/relatorios/resumoreceberfornecedor.md)
 - [Resumo por conta corrente](/financeiro/relatorios/resumocontacorrente.md)
-
+<br>
+<br>
 **MARKETING**
 - [Campanhas](/marketing/campanhas.md)
 - [Contas](/marketing/contas.md)
@@ -74,7 +77,8 @@
 
 ***Relatórios/Consultas***
 - [Saldos](/saldos/saldos.md)
-
+<br>
+<br>
 **VENDAS**
 - [Configurações](/vendas/configuracoes.md)
 - [Pedidos](/vendas/pedido.md)
