@@ -66,7 +66,7 @@ Relatórios/Consultas
 - [Estilos](/marketing/estilos.md)
 
 **PRODUTOS**
-- [Importar lista de produtos][/produtos/importarlistaprodutos.md)
+- [Importar lista de produtos](/produtos/importarlistaprodutos.md)
 - [Lista de produtos](/produtos/listaprodutos.md)
 - [Produtos](/produtos/produtos.md)
 
