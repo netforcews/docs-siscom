@@ -1,6 +1,5 @@
 - [**F.A.Q.**](/faq/faq.md)
-<br>
-<br>
+
 **CADASTROS**
 - [Bancos](/cadastros/banco.md)
 - [Certificados](/cadastros/certificado.md)
@@ -19,7 +18,7 @@
 - [Tipos de produção](/cadastros/tipoproducao.md)
 - [Todas as pessoas](/cadastros/pessoa.md)
 - [Unidades de Medida](/cadastros/unidademedida.md)
-<br>
+
 ***Relatórios/Consultas***
 - [Clientes](/cadastros/relatorios/clientes.md)
 - [Clientes Analítico](/cadastros/relatorios/clientesanalitico.md)
@@ -27,28 +26,25 @@
 - [Prestadores de serviço](/cadastros/relatorios/prestadoresservico.md)
 - [Transportadoras](/cadastros/relatorios/transportadoras.md)
 - [Pessoas](/cadastros/relatorios/pessoas.md)
-<br>
-<br>
+
 **CRM**
 - [Interações](/crm/interacoes.md)
-<br>
+
 ***Relatórios/Consultas***
 - [Interações](/crm/relatorios/interacoes.md)
-<br>
-<br>
+
 **E-MAILS**
 - [Contas](/emails/contas.md)
 - [Modelo de e-mails](/emails/modeloemails.md)
 - [Saída](/emails/saidas.md)
-<br>
-<br>
+
 **FINANCEIRO**
 - [Comissões a Pagar](/financeiro/comissoespagar.md)
 - [Comissões a Receber](/financeiro/comissoesreceber.md)
 - [Configurações](/financeiro/configuracoes.md)
 - [Conta corrente](/financeiro/contacorrente.md)
 - [Contas a Pagar](/financeiro/contaspagar.md)
-<br>
+
 ***Relatórios/Consultas***
 - [Comissões a pagar](/financeiro/relatorios/comissoespagar.md)
 - [Comissões a pagar #2](/financeiro/relatorios/comissoespgar2.md)
@@ -62,33 +58,29 @@
 - [Resumo a pagar por conta](/financeiro/relatorios/resumopagarconta.md)
 - [Resumo a receber por fornecedor](/financeiro/relatorios/resumoreceberfornecedor.md)
 - [Resumo por conta corrente](/financeiro/relatorios/resumocontacorrente.md)
-<br>
-<br>
+
 **MARKETING**
 - [Campanhas](/marketing/campanhas.md)
 - [Contas](/marketing/contas.md)
 - [Contextos](/marketing/contextos.md)
 - [Estilos](/marketing/estilos.md)
-<br>
-<br>
+
 **PRODUTOS**
 - [Importar lista de produtos](/produtos/importarlistaprodutos.md)
 - [Lista de produtos](/produtos/listaprodutos.md)
 - [Produtos](/produtos/produtos.md)
-<br>
-<br>
+
 **SALDOS**
-<br>
+
 ***Relatórios/Consultas***
 - [Saldos](/saldos/saldos.md)
-<br>
-<br>
+
 **VENDAS**
 - [Configurações](/vendas/configuracoes.md)
 - [Pedidos](/vendas/pedido.md)
 - [Pré-pedido](/vendas/prepedido.md)
 - [Propostas](/vendas/proposta.md)
-<br>
+
 ***Relatórios/Consultas***
 - [Total de vendas](/vendas/relatorios/totalvendas.md)
 - [Total de vendas por fornecedor](/vendas/relatorios/totalvendasfornecedor.md)
