@@ -25,7 +25,7 @@ Relatórios/Consultas
 - [Fornecedores](/cadastros/relatorios/fornecedores.md)
 - [Prestadores de serviço](/cadastros/relatorios/prestadoresservico.md)
 - [Transportadoras](/cadastros/relatorios/transportadoras.md)
-- [Pessoas] (/cadastros/relatorios/pessoas.md)
+- [Pessoas](/cadastros/relatorios/pessoas.md)
 
 **CRM**
 - [Interações](/crm/interacoes.md)
