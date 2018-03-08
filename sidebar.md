@@ -5,7 +5,7 @@
 - [Certificados](/cadastros/certificado.md)
 - [Cond.Pagamento](/cadastros/condicaopagamento.md)
 - [Empresas usuárias](/cadastros/empresa.md)
-- [Estados e Municípios](/cadastros/estadomunicipio.md]
+- [Estados e Municípios](/cadastros/estadomunicipio.md)
 - [Exportar e-mails](/cadastros/exportaremail.md)
 - [Grades de distribuição](/cadastros/gradedistribuicao.md)
 - [Grupo de clientes](/cadastros/clientegrupo.md)
@@ -71,6 +71,7 @@ Relatórios/Consultas
 - [Produtos](/produtos/produtos.md)
 
 **SALDOS**
+
 Relatórios/Consultas
 - [Saldos](/saldos/saldos.md)
 
