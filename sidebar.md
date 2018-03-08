@@ -20,17 +20,17 @@
 - [Unidades de Medida](/cadastros/unidademedida.md)
 
 ***Relatórios/Consultas***
-  - [Clientes](/cadastros/relatorios/clientes.md)
-  - [Clientes Analítico](/cadastros/relatorios/clientesanalitico.md)
-  - [Fornecedores](/cadastros/relatorios/fornecedores.md)
-  - [Prestadores de serviço](/cadastros/relatorios/prestadoresservico.md)
-  - [Transportadoras](/cadastros/relatorios/transportadoras.md)
-  - [Pessoas](/cadastros/relatorios/pessoas.md)
+- [Clientes](/cadastros/relatorios/clientes.md)
+- [Clientes Analítico](/cadastros/relatorios/clientesanalitico.md)
+- [Fornecedores](/cadastros/relatorios/fornecedores.md)
+- [Prestadores de serviço](/cadastros/relatorios/prestadoresservico.md)
+- [Transportadoras](/cadastros/relatorios/transportadoras.md)
+- [Pessoas](/cadastros/relatorios/pessoas.md)
 
 **CRM**
 - [Interações](/crm/interacoes.md)
 
-Relatórios/Consultas
+***Relatórios/Consultas***
 - [Interações](/crm/relatorios/interacoes.md)
 
 **E-MAILS**
@@ -45,7 +45,7 @@ Relatórios/Consultas
 - [Conta corrente](/financeiro/contacorrente.md)
 - [Contas a Pagar](/financeiro/contaspagar.md)
 
-Relatórios/Consultas
+***Relatórios/Consultas***
 - [Comissões a pagar](/financeiro/relatorios/comissoespagar.md)
 - [Comissões a pagar #2](/financeiro/relatorios/comissoespgar2.md)
 - [Comissões a receber](/financeiro/relatorios/comissoesreceber.md)
@@ -72,7 +72,7 @@ Relatórios/Consultas
 
 **SALDOS**
 
-Relatórios/Consultas
+***Relatórios/Consultas***
 - [Saldos](/saldos/saldos.md)
 
 **VENDAS**
@@ -81,7 +81,7 @@ Relatórios/Consultas
 - [Pré-pedido](/vendas/prepedido.md)
 - [Propostas](/vendas/proposta.md)
 
-Relatórios/Consultas
+***Relatórios/Consultas***
 - [Total de vendas](/vendas/relatorios/totalvendas.md)
 - [Total de vendas por fornecedor](/vendas/relatorios/totalvendasfornecedor.md)
 - [Vendas por clientes](/vendas/relatorios/vendasclientes.md)
