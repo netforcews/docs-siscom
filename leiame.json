@@ -1,0 +1,14 @@
+{
+    "path"       : "/",
+    "branch_name": "Beta",
+    "sidebar"    : "/sidebar.md",
+
+    "logo": "https://cdn.rawgit.com/netforcews/assets/master/imgs/logo_docs.png?up=2",
+    "favicon": "http://cdn.rawgit.com/brunogoncalves/docs/master/theme/favicon.png",
+
+    "modules": [
+        "auto_title_index",
+        "external_link_blank"
+    ]
+
+}
