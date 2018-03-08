@@ -19,13 +19,13 @@
 - [Todas as pessoas](/cadastros/pessoa.md)
 - [Unidades de Medida](/cadastros/unidademedida.md)
 
-  ***Relatórios/Consultas***
-- [Clientes](/cadastros/relatorios/clientes.md)
-- [Clientes Analítico](/cadastros/relatorios/clientesanalitico.md)
-- [Fornecedores](/cadastros/relatorios/fornecedores.md)
-- [Prestadores de serviço](/cadastros/relatorios/prestadoresservico.md)
-- [Transportadoras](/cadastros/relatorios/transportadoras.md)
-- [Pessoas](/cadastros/relatorios/pessoas.md)
+***Relatórios/Consultas***
+  - [Clientes](/cadastros/relatorios/clientes.md)
+  - [Clientes Analítico](/cadastros/relatorios/clientesanalitico.md)
+  - [Fornecedores](/cadastros/relatorios/fornecedores.md)
+  - [Prestadores de serviço](/cadastros/relatorios/prestadoresservico.md)
+  - [Transportadoras](/cadastros/relatorios/transportadoras.md)
+  - [Pessoas](/cadastros/relatorios/pessoas.md)
 
 **CRM**
 - [Interações](/crm/interacoes.md)
