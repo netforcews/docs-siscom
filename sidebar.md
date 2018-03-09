@@ -1,23 +1,23 @@
 - [**F.A.Q.**](/faq/faq.md)
 
 **CADASTROS**
-- [Bancos](/cadastros/banco.md)
-- [Certificados](/cadastros/certificado.md)
+- [Bancos](/cadastros/bancos.md)
+- [Certificados](/cadastros/certificados.md)
 - [Cond.Pagamento](/cadastros/condicaopagamento.md)
-- [Empresas usuárias](/cadastros/empresa.md)
-- [Estados e Municípios](/cadastros/estadomunicipio.md)
-- [Exportar e-mails](/cadastros/exportaremail.md)
-- [Grades de distribuição](/cadastros/gradedistribuicao.md)
-- [Grupo de clientes](/cadastros/clientegrupo.md)
-- [Linhas de produtos](/cadastros/linhaproduto.md)
-- [Ocorrências](/cadastros/ocorrencia.md)
+- [Empresas usuárias](/cadastros/empresapublico.md)
+- [Estados e Municípios](/cadastros/estado.md)
+- Exportar e-mails
+- [Grades de distribuição](/cadastros/grade.md)
+- [Grupo de clientes](/cadastros/grupoclientes.md)
+- [Linhas de produtos](/cadastros/linhasdeproduto.md)
+- [Ocorrências](/cadastros/ocorrencias.md)
 - [Planos de Contas](/cadastros/planoconta.md)
 - [Ramos de Atividade](/cadastros/ramoatividade.md)
 - [Regiões](/cadastros/regiao.md)
 - [Tipos de faturamento](/cadastros/tipofaturamento.md)
 - [Tipos de produção](/cadastros/tipoproducao.md)
 - [Todas as pessoas](/cadastros/pessoa.md)
-- [Unidades de Medida](/cadastros/unidademedida.md)
+- [Unidades de Medida](/cadastros/unidadesmedida.md)
 
 ***Relatórios/Consultas***
 - [Clientes](/cadastros/relatorios/clientes.md)
