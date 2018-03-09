@@ -15,7 +15,7 @@
 - [Ramos de Atividade](/cadastros/ramoatividade.md)
 - [Regiões](/cadastros/regiao.md)
 - [Tipos de faturamento](/cadastros/tipofaturamento.md)
-- [Tipos de produção](/cadastros/tipoproducao.md)
+- [Tipos de produção](/cadastros/tiposproducao.md)
 - [Todas as pessoas](/cadastros/pessoa.md)
 - [Unidades de Medida](/cadastros/unidadesmedida.md)
 
