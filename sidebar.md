@@ -34,9 +34,9 @@
 - [Interações](/crm/relatorios/interacoes.md)
 
 **E-MAILS**
-- [Contas](/emails/emailcontas.md)
-- [Modelo de e-mails](/emails/modeloemails.md)
-- [Saída](/emails/emailsaidas.md)
+- [Contas](/e-mails/emailcontas.md)
+- [Modelo de e-mails](/e-mails/modeloemails.md)
+- [Saída](/e-mails/emailsaidas.md)
 
 **FINANCEIRO**
 - [Comissões a Pagar](/financeiro/comissoesapagar.md)
