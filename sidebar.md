@@ -35,8 +35,8 @@
 
 **E-MAILS**
 - [Contas](/e-mails/emailcontas.md)
-- [Modelo de e-mails](/e-mails/modeloemails.md)
-- [Saída](/e-mails/emailsaidas.md)
+- [Modelo de e-mails](/e-mails/modeloemail.md)
+- [Saída](/e-mails/emailsaida.md)
 
 **FINANCEIRO**
 - [Comissões a Pagar](/financeiro/comissoesapagar.md)
