@@ -79,7 +79,7 @@
 - Configurações
 - [Pedidos](/vendas/pedidovenda.md)
 - [Pré-pedido](/vendas/prepedido.md)
-- [Propostas](/vendas/orcamentovendo.md)
+- [Propostas](/vendas/orcamentovenda.md)
 
 ***Relatórios/Consultas***
 - [Total de vendas](/vendas/relatorios/totalvendas.md)
