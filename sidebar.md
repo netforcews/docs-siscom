@@ -34,16 +34,16 @@
 - [Interações](/crm/relatorios/interacoes.md)
 
 **E-MAILS**
-- [Contas](/emails/contas.md)
+- [Contas](/emails/emailcontas.md)
 - [Modelo de e-mails](/emails/modeloemails.md)
-- [Saída](/emails/saidas.md)
+- [Saída](/emails/emailsaidas.md)
 
 **FINANCEIRO**
-- [Comissões a Pagar](/financeiro/comissoespagar.md)
-- [Comissões a Receber](/financeiro/comissoesreceber.md)
-- [Configurações](/financeiro/configuracoes.md)
-- [Conta corrente](/financeiro/contacorrente.md)
-- [Contas a Pagar](/financeiro/contaspagar.md)
+- [Comissões a Pagar](/financeiro/comissoesapagar.md)
+- [Comissões a Receber](/financeiro/comissoesareceber.md)
+- Configurações
+- [Conta corrente](/financeiro/ccmovimentos.md)
+- [Contas a Pagar](/financeiro/contasapagar.md)
 
 ***Relatórios/Consultas***
 - [Comissões a pagar](/financeiro/relatorios/comissoespagar.md)
@@ -60,26 +60,26 @@
 - [Resumo por conta corrente](/financeiro/relatorios/resumocontacorrente.md)
 
 **MARKETING**
-- [Campanhas](/marketing/campanhas.md)
-- [Contas](/marketing/contas.md)
-- [Contextos](/marketing/contextos.md)
-- [Estilos](/marketing/estilos.md)
+- [Campanhas](/marketing/emmcampanhas.md)
+- [Contas](/marketing/emailcontas.md)
+- [Contextos](/marketing/emmcontextos.md)
+- [Estilos](/marketing/emmestilos.md)
 
 **PRODUTOS**
-- [Importar lista de produtos](/produtos/importarlistaprodutos.md)
-- [Lista de produtos](/produtos/listaprodutos.md)
-- [Produtos](/produtos/produtos.md)
+- Importar lista de produtos
+- [Lista de produtos](/produtos/produtolista.md)
+- [Produtos](/produtos/produto.md)
 
 **SALDOS**
 
 ***Relatórios/Consultas***
-- [Saldos](/saldos/saldos.md)
+- Saldos
 
 **VENDAS**
-- [Configurações](/vendas/configuracoes.md)
-- [Pedidos](/vendas/pedido.md)
+- Configurações
+- [Pedidos](/vendas/pedidovenda.md)
 - [Pré-pedido](/vendas/prepedido.md)
-- [Propostas](/vendas/proposta.md)
+- [Propostas](/vendas/orcamentovendo.md)
 
 ***Relatórios/Consultas***
 - [Total de vendas](/vendas/relatorios/totalvendas.md)
