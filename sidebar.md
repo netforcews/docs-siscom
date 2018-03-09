@@ -28,7 +28,7 @@
 - [Pessoas](/cadastros/relatorios/pessoas.md)
 
 **CRM**
-- [Interações](/crm/interacoes.md)
+- [Interações](/crm/crminteracoes.md)
 
 ***Relatórios/Consultas***
 - [Interações](/crm/relatorios/interacoes.md)
