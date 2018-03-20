@@ -6,7 +6,7 @@
 - [Cond.Pagamento](/cadastros/condicaopagamento.md)
 - [Empresas usuárias](/cadastros/empresapublico.md)
 - [Estados e Municípios](/cadastros/estado.md)
-- [Exportar e-mails]
+- [Exportar e-mails]()
 - [Grades de distribuição](/cadastros/grade.md)
 - [Grupo de clientes](/cadastros/grupoclientes.md)
 - [Linhas de produtos](/cadastros/linhasdeproduto.md)
@@ -41,7 +41,7 @@
 **FINANCEIRO**
 - [Comissões a Pagar](/financeiro/comissoesapagar.md)
 - [Comissões a Receber](/financeiro/comissoesareceber.md)
-- [Configurações]
+- [Configurações]()
 - [Conta corrente](/financeiro/ccmovimentos.md)
 - [Contas a Pagar](/financeiro/contasapagar.md)
 
@@ -73,10 +73,10 @@
 **SALDOS**
 
 ***Relatórios/Consultas***
-- [Saldos]
+- [Saldos]()
 
 **VENDAS**
-- [Configurações]
+- [Configurações]()
 - [Pedidos](/vendas/pedidovenda.md)
 - [Pré-pedido](/vendas/prepedido.md)
 - [Propostas](/vendas/orcamentovenda.md)
