@@ -21,21 +21,21 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Conta** | Informe . Por padrão, este campo é obrigatório.
-**Usuário** | Informe . Por padrão, este campo é obrigatório.
-**Senha** | Informe . Por padrão, este campo é obrigatório.
-**Tipo de Envio** | Selecione . Por padrão, este campo é obrigatório.
-**Tipo de segurança** | Selecione .
-**Autenticar** | Informe se .
-**Enviar confirmação de recebimento** | Informe se .
-**SMTP Servidor** | Informe . Por padrão, este campo é obrigatório.
-**POP Servidor** | Informe . Por padrão, este campo é obrigatório.
-**SMTP Porta** | Informe . Por padrão, este campo é obrigatório.
-**POP Porta** | Informe . Por padrão, este campo é obrigatório.
-**Limite/Hora** | Informe . Por padrão, este campo é obrigatório.
-**Última Verificação** | .
-**Enviar pela conta do sistema** | Enviar pela conta de e-mail configurada para todo o sistema
+**Nome** | Informe o nome.
+**Conta** | Informe a conta.
+**Usuário** | Informe o usuário.
+**Senha** | Informe a senha.
+**Tipo de Envio** | Informe o tipo de envio.
+**Tipo de segurança** | Informe o tipo de segurança.
+**Autenticar** | Selecione se deve autenticar.
+**Enviar confirmação de recebimento** | Selecione se deve receber confirmação de recebimento.
+**SMTP Servidor** | Informe o SMTP.
+**POP Servidor** | Informe o POP.
+**SMTP Porta** | Informe a porta SMTP.
+**POP Porta** | Informe a porta POP.
+**Limite/Hora** | Informe o limite por hora.
+**Última Verificação** | Informa a data/hora da última verificação.
+**Enviar pela conta do sistema** | Selecione para enviar pela conta de e-mail configurada para todo o sistema.
 <br>
 <br>
 <br>
