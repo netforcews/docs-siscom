@@ -12,8 +12,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | Apresenta.
-**Conta** | Apresenta.
+**Nome** | Apresenta o nome.
+**Conta** | Apresenta a conta.
 <br>
 
 ## Geral
