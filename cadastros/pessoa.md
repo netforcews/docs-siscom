@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastro**, opção **Todas as pessoas**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,13 +11,13 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | Apresenta.
-**Razão Social/Nome** | Apresenta.
-**CNPJ/CPF** | Apresenta.
-**Telefone** | Apresenta.
-**Município** | Apresenta.
-**Sit** | Apresenta.
-**Código** | Apresenta.
+**Marca** | Informa o nome fantasia (apelido).
+**Razão Social/Nome** | Informa o nome.
+**CNPJ/CPF** | Informa o CNPJ ou CPF, conforme o tipo.
+**Telefone** | Informa o telefone.
+**Município** | Informa o município.
+**Sit** | Informa a situação.
+**Código** | Informa o código.
 <br>
 
 ## Geral
@@ -27,27 +26,27 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Marca** | Informe a marca (apelido). Por padrão, este campo é obrigatório.
+**Marca** | Informe o nome fantasia (apelido). Por padrão, este campo é obrigatório.
 **Grupo** | Informe o grupo.
-**Código** | Informe o código.
-**CNPJ/CPF** | Informe o CNPJ ou CPF.
-**Tipo** | Informe o tipo. Por padrão, este campo é obrigatório.
+**Código** | Informa o código.
+**CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo.
+**Tipo** | Informe o tipo, física ou jurídica. Por padrão, este campo é obrigatório.
 **IE** | Informe a Inscrição Estadual.
 **Ramo Atividade** | Informe o ramo de atividade.
 **Logradouro** | Informe o logradouro.
-**Número** | Informe o número.
-**Complemento** | Informe o complemento.
+**Número** | Informe o número do logradouro.
+**Complemento** | Informe o complemento do endenreço.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
-**Estado** | Informe o Estado.
+**Estado** | Informe o estado.
 **Município** | Informe o município.
 **Data Nasc.** | Informe a data de nascimento.
-**Data Cadastro** | Apresenta a data de cadastro.
+**Data Cadastro** | Informa a data de cadastro.
 **WebSite** | Informe o website.
 **DDD** | Informe o DDD.
 **Telefone** | Informe o telefone.
-**Fax** | Informe o Fax.
-**Contatos migrados para o novo formato** | Informe se.
+**Fax** | Informe o fax.
+**Contatos migrados para o novo formato** | Informe.
 <br>
 
 ## Configurações
@@ -56,37 +55,37 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Situação** | Informe a situação. Por padrão, este campo é obrigatório.
-**Data Situação** | Apresenta a data da situação.
+**Data Situação** | Informa a data da situação.
 **Responsável** | Informe o responsável.
-**Região Venda** | Selecione.
+**Região Venda** | Informe a região de venda.
 **Suframa** | Informe.
 **Crédito** | Informe.
-**Ultima Compra** | Apresenta.
-**Condição Pagto** | Selecione.
-**Forma Pagto** | Informe.
-**Frete** | Selecione.
+**Ultima Compra** | Informa data da última compra.
+**Condição Pagto** | Informe a condição de pagamento padrão.
+**Forma Pagto** | Informe a forma de pagamento padrão.
+**Frete** | Informe o frete padrão.
 **Tipo de Cliente** | Selecione.
-**Freq.Compra** | Frequência de compra (em dias)
-**Tipo Faturamento** | Selecione.
-**Melhor Dia Pagto** | Informe.
-**Pedido mínimo** | Valor de pedido mínimo para este fornecedor
-**Comissão Padrão** | Informe.
+**Freq.Compra** | Informa a frequência de compra.
+**Tipo Faturamento** | Informe o tipo de faturamento padrão.
+**Melhor Dia Pagto** | Informe o melhor dia para pagamento.
+**Pedido mínimo** | Informe.
+**Comissão Padrão** | Informe a comissão padrão.
 **Core** | Informe.
-**Meta.Fat.** | Valor que determina a meta mensal de faturamento deste atendente
-**Meta.Comiss.** | Valor que determina a meta mensal de comissão gerada deste atendente
-**Aviso de Faturamento** | Informe se.
-**Aviso de Pedidos Atrasados** | Informe se.
-**Aviso de previsão dos pedidos** | Informe se.
-**Avisos de administrador** | Informe se.
-**CC (Receita)** | Conta contábil quando for gerado receitas para/dessa pessoa
-**CC (Despesa)** | Conta contábil quando for gerado despesas para/dessa pessoa
-**Cliente** | Informe se.
-**Prestador de Serviço** | Informe se.
-**Fornecedor** | Fábrica/Fornecedor representada pela empresa
-**Transportadora** | Informe se.
-**Representante** | Informe se.
-**Banco** | Informe se.
-**Outros** | Informe se.
+**Meta.Fat.** | Informe.
+**Meta.Comiss.** | Informe.
+**Aviso de Faturamento** | Informe.
+**Aviso de Pedidos Atrasados** | Informe.
+**Aviso de previsão dos pedidos** | Informe.
+**Avisos de administrador** | Informe.
+**CC (Receita)** | Informe a conta contábil de receita.
+**CC (Despesa)** | Informe a conta contábil de despesa.
+**Cliente** | Selecione se a pessoa é um cliente.
+**Prestador de Serviço** | Selecione se a pessoa é um fornecedor.
+**Fornecedor** | Selecione se a pessoa é uma representada.
+**Transportadora** | Selecione se a pessoa é uma transportadora.
+**Representante** | Selecione se a pessoa é um representante.
+**Banco** | Selecione se a pessoa é um banco.
+**Outros** | Selecione se a pessoa é outros.
 <br>
 
 ## Perfil
@@ -94,15 +93,15 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Fundação** | Ano de fundação
-**Cap.Produtiva** | Capacidade produtiva
+**Fundação** | Informe o ano de fundação da empresa.
+**Cap.Produtiva** | Informe a capacidade produtiva da empresa.
 **Especialização** | Informe.
-**Núm.Colaboradores** | Número de colaboradores
+**Núm.Colaboradores** | Informe o número de colaboradores da empresa.
 **Estrutura Interna** | Informe.
-**Terceriza** | Áreas que é terecrizado com outras empresas e estruturas
-**Área total (m2)** | Informe.
-**Observações** | Informe.
-**Última alteração** | Apresenta.
+**Terceriza** | Informe.
+**Área total (m2)** | Informe a área total da empresa.
+**Observações** | Informe uma observação.
+**Última alteração** | Informa.
 **Linha de Produtos** | Informe. Por padrão, este campo é obrigatório.
 **Certificados** | Informe.
 **Tipos de produção** | Informe. Por padrão, este campo é obrigatório.
@@ -113,27 +112,27 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Logradouro** | Informe.
-**Número** | Informe.
-**Complemento** | Informe.
-**Bairro** | Informe.
-**CEP** | Informe.
-**Estado** | Selecione.
-**Município** | Selecione.
+**Logradouro** | Informe o logradouro.
+**Número** | Informe o número do logradouro.
+**Complemento** | Informe o complemento do endenreço.
+**Bairro** | Informe o bairro.
+**CEP** | Informe o CEP.
+**Estado** | Informe o estado.
+**Município** | Informe o município.
 **CNPJ** | Informe.
-**IE** | Informe.
-**Telefone** | Informe.
-**Fax** | Informe.
-**Observação** | Informe.
-**Logradouro** | Informe.
-**Número** | Informe.
-**Complemento** | Informe.
-**Bairro** | Informe.
-**CEP** | Informe.
-**Estado** | Selecione.
-**Município** | Selecione.
-**Telefone** | Informe.
-**Fax** | Informe.
+**IE** | Informe a Inscrição Estadual.
+**Telefone** | Informe o telefone.
+**Fax** | Informe o fax.
+**Observação** | Informe uma observação.
+**Logradouro** | Informe o logradouro.
+**Número** | Informe o número do logradouro.
+**Complemento** | Informe o complemento do endenreço.
+**Bairro** | Informe o bairro.
+**CEP** | Informe o CEP.
+**Estado** | Informe o estado.
+**Município** | Informe o município.
+**Telefone** | Informe o telefone.
+**Fax** | Informe o fax.
 <br>
 
 ## Observação
@@ -141,9 +140,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Observação** | Informe.
+**Observação** | Informe uma observação.
 **Informações** | Informe.
-**Obs. do Pedido** | Essa observação será utilizada como padrão para os pedidos desse cliente
+**Obs. do Pedido** | Informe uma observação.
 <br>
 
 ## Localização
@@ -159,7 +158,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Logo** | Informe.
+**Logo** | Informe a logo.
 <br>
 
 ## Links
