@@ -1,4 +1,4 @@
-﻿# MODELO DE E-MAILSx
+﻿# MODELO DE E-MAILS
 <br>
 
 ## Acesso
