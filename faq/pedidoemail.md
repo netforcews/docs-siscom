@@ -10,7 +10,7 @@ Veja [aqui](/e-mails/modeloemail.md) como configurar um modelo de e-mail que ser
 ## Passo 3 - Envio do pedido por e-mail de forma individual
 Veja [aqui](/vendas/pedidovenda.md) como enviar um pedido por e-mail de forma individual. 
 
-## Passo 4 - Envio de pedido por e-mail de forma automática, ...
+## Passo 4 - Envio de pedido por e-mail de forma automática
 Este processo esta sendo finalizado pela nossa equipe de desenvolvimento.
 
 ## Passo 5 - Visualizando a fila de sáida de e-mails de pedidos
