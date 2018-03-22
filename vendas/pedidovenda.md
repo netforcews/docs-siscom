@@ -115,14 +115,6 @@ Campo | Descrição
 **Motivo** | Informa.
 <br>
 
-## Comandos
-### Reabrir pedido
-### [Fechar pedido](/geral/ped-faturar.md)
-### [Cancelar pedido](/geral/venda-cancelar.md)
-### Gerar novo pedido deste
-### [Enviar pedido por e-mail](/geral/ped-enviar-email.md)
-### [Gerar lote de PDF](/geral/ped-gerar-pdf.md)
-<br>
 
 ## Links
 ### [Referencias](/geral/vendaitem2.md)
