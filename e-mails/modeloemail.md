@@ -11,9 +11,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Identificador** | Apresenta o identificador.
-**Assunto** | Apresenta o assunto.
-**Ativo** | Apresenta se o modelo está ativo.
+**Identificador** | Informa o identificador.
+**Assunto** | Informa o assunto.
+**Ativo** | Informa se o modelo está ativo.
 <br>
 
 ## Geral

@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **E-mails**, opção **Geral**, opção **Saída**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,12 +11,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**De** | .
-**Para** | .
-**Assunto** | .
-**Data** | .
-**U.Tentativa** | .
-**Env** | .
+**De** | Informa quem enviou.
+**Para** | Informa para quem foi enviado.
+**Assunto** | Informa o assunto.
+**Data** | Informa a data de cadastro..
+**U.Tentativa** | Informa a data e hora da última tentativa de envio.
+**Env** | Informa se foi enviado.
 <br>
 
 ## E-mail
@@ -25,13 +24,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Assunto** | . Por padrão, este campo é obrigatório.
-**De** | Informe .
-**Data** | .
-**Para** | Informe .
-**Para CC** | Informe .
-**Resp.Para** | Informe .
-**Texto** | .
+**Assunto** | Informa o assunto. Por padrão, este campo é obrigatório.
+**De** | Informa quem enviou.
+**Data** | Informa a data de cadastro..
+**Para** | Informa para quem foi enviado.
+**Para CC** | Informa para quem foi enviado com cópia.
+**Resp.Para** | Informa para quem será a resposta.
+**Texto** | Informa o texto.
 <br>
 
 ## Informações
@@ -39,11 +38,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Enviado** | .
-**Processo** | .
-**Qtd.Tentativas** | .
-**Última Tentativa** | .
-**Msg Erro** | .
+**Enviado** | Informa se foi enviado.
+**Processo** | Informa a data e hora do envio.
+**Qtd.Tentativas** | Informa a quantidade de tentativas de envio.
+**Última Tentativa** | Informa a data e hora da última tentativa de envio.
+**Msg Erro** | Informa as mensagens de erros ocorridas nas tentantivas de envio.
 <br>
 
 ## Comandos
