@@ -1,13 +1,8 @@
-# MODELO DE E-MAILS
+﻿# MODELO DE E-MAILS
 <br>
 
 ## Acesso
 Para acessar esta opção, selecione o módulo **E-mails**, opção **Geral**, opção **Modelo de E-mails**.
-<br>
-
-## Detalhes
-Observe que é possível informar campos chave  que serão substituídos no momento da geração das infoirmações.
-Você pode identificar estes campos chave [aqui](/geral/camposchave.md)
 <br>
 <br>
 
@@ -32,6 +27,11 @@ Campo | Descrição
 **Remetente** | Informe o remetente. Por padrão, este campo é obrigatório.
 **Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
 **Texto do E-mail** | Informe o texto. Por padrão, este campo é obrigatório.
+<br>
+
+## Detalhes
+Observe que é possível informar campos chave  que serão substituídos no momento da geração das infoirmações.
+Você pode identificar estes campos chave [aqui](/geral/camposchave.md)
 <br>
 <br>
 <br>
