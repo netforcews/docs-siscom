@@ -116,11 +116,11 @@ Campo | Descrição
 
 ## Comandos
 ### Reabrir pedido
-### [Fechar pedido](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/ped-faturar.md)
-### [Cancelar pedido](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/venda-cancelar.md)
+### [Fechar pedido](/geral/ped-faturar.md)
+### [Cancelar pedido](/geral/venda-cancelar.md)
 ### Gerar novo pedido deste
-### [Enviar pedido por e-mail](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/ped-enviar-email.md)
-### [Gerar lote de PDF](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/ped-gerar-pdf.md)
+### [Enviar pedido por e-mail](/geral/ped-enviar-email.md)
+### [Gerar lote de PDF](/geral/ped-gerar-pdf.md)
 <br>
 
 ## Links
