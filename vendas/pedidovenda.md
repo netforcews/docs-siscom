@@ -116,11 +116,11 @@ Campo | Descrição
 
 ## Comandos
 ### Reabrir pedido
-### [Fechar pedido](D:\MANUAIS\SISCOM/geral/ped-faturar.md)
-### [Cancelar pedido](D:\MANUAIS\SISCOM/geral/venda-cancelar.md)
+### [Fechar pedido](/geral/ped-faturar.md)
+### [Cancelar pedido](/geral/venda-cancelar.md)
 ### Gerar novo pedido deste
-### [Enviar pedido por e-mail](D:\MANUAIS\SISCOM/geral/ped-enviar-email.md)
-### [Gerar lote de PDF](D:\MANUAIS\SISCOM/geral/ped-gerar-pdf.md)
+### [Enviar pedido por e-mail](/geral/ped-enviar-email.md)
+### [Gerar lote de PDF](/geral/ped-gerar-pdf.md)
 <br>
 
 ## Links

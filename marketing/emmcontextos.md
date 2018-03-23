@@ -11,7 +11,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | Informa.
+**Nome** | Informa o nome.
 <br>
 
 ## Geral
@@ -19,7 +19,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
 <br>
 
 ## Links

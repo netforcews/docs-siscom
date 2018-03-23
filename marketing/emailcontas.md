@@ -24,7 +24,7 @@ Campo | Descrição
 **Conta** | Informe a conta. Por padrão, este campo é obrigatório.
 **Usuário** | Informe o usuário. Por padrão, este campo é obrigatório.
 **Senha** | Informe a senha. Por padrão, este campo é obrigatório.
-**Tipo de Envio** | Selecione o tipo de envio. Por padrão, este campo é obrigatório.
+**Tipo de Envio** | Selecione o tipo de envio. Opções: NetForce SES, SMTP. Por padrão, este campo é obrigatório.
 **Tipo de segurança** | Selecione o tipo de segurança.
 **Autenticar** | Selecione se deve autenticar.
 **Enviar confirmação de recebimento** | Selecione se deve receber confirmação de recebimento.
