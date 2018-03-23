@@ -1,6 +1,5 @@
 # INTERFACES
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,8 +7,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | .
-**Título** | .
+**Nome** | Informa o nome.
+**Título** | Informa o título.
 <br>
 
 ## Geral
@@ -17,8 +16,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | .
-**Título** | Informe .
+**Nome** | Informa o nome.
+**Título** | Informe o título.
 <br>
 <br>
 <br>

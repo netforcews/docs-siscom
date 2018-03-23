@@ -1,6 +1,5 @@
 # LIGAÇÕES
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Empresa** | .
-**Representante** | .
-**% Com** | .
+**Empresa** | Informa o empresa.
+**Representante** | Informa o representante.
+**% Com** | Informa o % comissao.
 <br>
 
 ## Geral
@@ -18,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Empresa** | Selecione . Por padrão, este campo é obrigatório.
-**Representante** | Selecione . Por padrão, este campo é obrigatório.
-**% Comissao** | Informe .
+**Empresa** | Informe o empresa. Por padrão, este campo é obrigatório.
+**Representante** | Informe o representante. Por padrão, este campo é obrigatório.
+**% Comissao** | Informe o % comissao.
 <br>
 <br>
 <br>

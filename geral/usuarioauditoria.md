@@ -1,6 +1,5 @@
 # LOG DA AUDITORIA
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | .
-**Objeto** | .
-**Operação** | .
-**IP** | .
+**Data** | Informa o data.
+**Objeto** | Informa o objeto.
+**Operação** | Informa o operação.
+**IP** | Informa o ip.
 <br>
 
 ## Log
@@ -19,12 +18,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Data** | .
-**Usuário** | .
-**Objeto** | . Por padrão, este campo é obrigatório.
-**Operação** | Informe . Por padrão, este campo é obrigatório.
-**Dados** | .
-**IP** | .
+**Data** | Informa o data.
+**Usuário** | Informa o usuário.
+**Objeto** | Informa o objeto. Por padrão, este campo é obrigatório.
+**Operação** | Informe o operação. Por padrão, este campo é obrigatório.
+**Dados** | Informa o dados.
+**IP** | Informa o ip.
 <br>
 <br>
 <br>

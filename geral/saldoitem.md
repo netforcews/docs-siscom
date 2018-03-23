@@ -1,6 +1,5 @@
 # ITENS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,12 +7,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | .
-**Linha** | .
-**Un** | .
-**Valor** | .
-**Qtdade** | .
-**Total** | .
+**Descrição** | Informa o descrição.
+**Linha** | Informa o linha.
+**Un** | Informa o unidade.
+**Valor** | Informa o valor.
+**Qtdade** | Informa o quantidade.
+**Total** | Informa o valor total.
 <br>
 
 ## Geral
@@ -21,14 +20,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Resumo** | Informe .
-**Unidade** | Selecione . Por padrão, este campo é obrigatório.
-**Qualidade** | Selecione . Por padrão, este campo é obrigatório.
-**Linha** | Selecione .
-**Qtdade** | Informe . Por padrão, este campo é obrigatório.
-**Valor** | Informe . Por padrão, este campo é obrigatório.
-**Valor Total** | .
+**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
+**Resumo** | Informe o resumo.
+**Unidade** | Informe o unidade. Por padrão, este campo é obrigatório.
+**Qualidade** | Informe o qualidade. Opções: Aproveitamento, Primeira, Segunda. Por padrão, este campo é obrigatório.
+**Linha** | Informe o linha.
+**Qtdade** | Informe o quantidade. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
+**Valor Total** | Informa o valor total.
 <br>
 <br>
 <br>

@@ -1,6 +1,5 @@
 # PORTAIS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,8 +7,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | .
-**Título** | .
+**Nome** | Informa o nome.
+**Título** | Informa o título.
 <br>
 
 ## Geral
@@ -17,10 +16,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | . Por padrão, este campo é obrigatório.
-**Título** | Informe . Por padrão, este campo é obrigatório.
-**Situação** | Selecione . Por padrão, este campo é obrigatório.
-**Autenticação** | Método de autenticação
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Título** | Informe o título. Por padrão, este campo é obrigatório.
+**Situação** | Informe o situação. Opções: Ativo, Desativado, Em Atualização. Por padrão, este campo é obrigatório.
+**Autenticação** | Informe o método de autenticação. Por padrão, este campo é obrigatório.
 <br>
 
 ## Links

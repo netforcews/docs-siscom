@@ -1,6 +1,5 @@
 # ENTREGAS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nota** | .
-**NF Emissão** | .
-**Valor** | .
+**Nota** | Informa o nota.
+**NF Emissão** | Informa o data.
+**Valor** | Informa o valor.
 <br>
 
 ## Entrega
@@ -18,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nota** | Informe . Por padrão, este campo é obrigatório.
-**NF Emissão** | Informe . Por padrão, este campo é obrigatório.
-**Valor** | Informe . Por padrão, este campo é obrigatório.
+**Nota** | Informe o nota. Por padrão, este campo é obrigatório.
+**NF Emissão** | Informe o data. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

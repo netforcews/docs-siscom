@@ -1,6 +1,5 @@
 # CONTATOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Atribuição** | .
-**Nome** | .
-**Telefone** | .
-**Email** | .
+**Atribuição** | Informa o resumo.
+**Nome** | Informa o nome.
+**Telefone** | Informa o telefone.
+**Email** | Informa o e-mail.
 <br>
 
 ## Geral
@@ -19,16 +18,16 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Atribuição** | Informe . Por padrão, este campo é obrigatório.
-**Especificação** | Especificação da sua atribuição. Ex. Compras - Infatil
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Data Nasc.** | Informe .
-**Sexo** | Selecione .
-**Telefone** | Informe .
-**Celular** | Informe .
-**E-mail** | Informe .
-**Observação** | Informe .
-**Exibe contato ficha (PDF)** | Informe se .
+**Atribuição** | Informe o atribuição. Opções: Cobr.Faturamento, Compras, Estilo, Faturamento, Financeiro, Geral, NFE, Proprietário, Vendas. Por padrão, este campo é obrigatório.
+**Especificação** | Informe o especificação.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Data Nasc.** | Informe o data nascimento.
+**Sexo** | Informe o sexo.
+**Telefone** | Informe o telefone.
+**Celular** | Informe o celular.
+**E-mail** | Informe o e-mail.
+**Observação** | Informe o observação.
+**Exibe contato ficha (PDF)** | Informe o exibe contato ficha.
 <br>
 <br>
 <br>

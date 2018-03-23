@@ -1,6 +1,5 @@
 # MÓDULOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ord** | .
-**Título** | .
-**Permissão** | .
-**Atv** | .
+**Ord** | Informa o ordem.
+**Título** | Informa o título.
+**Permissão** | Informa o permissão.
+**Atv** | Informa o ativo.
 <br>
 
 ## Geral
@@ -19,11 +18,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Ordem** | Informe . Por padrão, este campo é obrigatório.
-**Ativo** | Informe se .
-**Título** | Informe . Por padrão, este campo é obrigatório.
-**Permissão** | Selecione . Por padrão, este campo é obrigatório.
-**Leiaute** | Selecione . Por padrão, este campo é obrigatório.
+**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
+**Ativo** | Informe o ativo.
+**Título** | Informe o título. Por padrão, este campo é obrigatório.
+**Permissão** | Informe o permissão. Opções: Privado, Público. Por padrão, este campo é obrigatório.
+**Leiaute** | Informe o leiaute. Opções: 1 Coluna, 2 Colunas 20x80, 2 Colunas 50x50, 2 Colunas 80x20. Por padrão, este campo é obrigatório.
 <br>
 
 ## Comandos

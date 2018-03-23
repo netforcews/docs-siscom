@@ -1,6 +1,5 @@
 # CONFIGURAÇÕES
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | .
+**Nome** | Informa o nome.
 <br>
 
 ## Configurações
@@ -16,11 +15,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Usuário** | Informe . Por padrão, este campo é obrigatório.
-**E-mail** | . Por padrão, este campo é obrigatório.
-**Senha** | Informe . Por padrão, este campo é obrigatório.
-**Assinatura** | Informe .
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Usuário** | Informe o usuário. Por padrão, este campo é obrigatório.
+**E-mail** | Informa o e-mail. Por padrão, este campo é obrigatório.
+**Senha** | Informe o senha. Por padrão, este campo é obrigatório.
+**Assinatura** | Informe o assinatura de e-mail.
 <br>
 <br>
 <br>

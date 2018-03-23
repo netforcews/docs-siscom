@@ -1,6 +1,5 @@
 # REGRAS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ord** | .
-**Regra** | .
-**Atv** | .
+**Ord** | Informa o ordem.
+**Regra** | Informa o regra.
+**Atv** | Informa o ativo.
 <br>
 
 ## Geral
@@ -18,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Ordem** | Informe . Por padrão, este campo é obrigatório.
-**Ativo** | Informe se .
-**Regra** | . Por padrão, este campo é obrigatório.
+**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
+**Ativo** | Informe o ativo.
+**Regra** | Informe o regra. Por padrão, este campo é obrigatório.
 <br>
 
 ## Comandos

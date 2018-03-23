@@ -1,6 +1,5 @@
 # ANEXOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,8 +7,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Arquivo** | .
-**PDF** | .
+**Arquivo** | Informa o arquivo.
+**PDF** | Informa o incluir no pdf.
 <br>
 
 ## Geral
@@ -17,8 +16,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Arquivo** | Informe . Por padrão, este campo é obrigatório.
-**Incluir no PDF** | Informe se .
+**Arquivo** | Informe o arquivo. Por padrão, este campo é obrigatório.
+**Incluir no PDF** | Informe o incluir no pdf.
 <br>
 <br>
 <br>
