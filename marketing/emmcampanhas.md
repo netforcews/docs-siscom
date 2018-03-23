@@ -37,7 +37,7 @@ Campo | Descrição
 **Qtd.Lidos** | Informa.
 **Qtd.Clicados** | Informa.
 <br>
-
+ 
 ## Filtros
 ![emmcampanhas.filtros](https://raw.githubusercontent.com/netforcews/docs-siscom/master/marketing/imagens/emmcampanhas.filtros.png)
 
