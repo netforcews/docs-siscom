@@ -81,6 +81,7 @@
 - [Pré-pedido](/vendas/prepedido.md) 
 - [Propostas](/vendas/orcamentovenda.md) 
 - [Pedidos](/vendas/pedidovenda.md) 
+- [Pedidos](/vendas/pedidovenda) 
 
 ***Relatórios/Consultas***
 - [Total de vendas](/vendas/relatorios/totalvendas.md)
