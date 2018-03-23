@@ -11,12 +11,12 @@ Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, op
 Campo | Descrição
 --:|---
 **Info** | Informe.
-**Perfil** | Selecione. Por padrão, este campo é obrigatório.
+**Perfil** | Selecione. Opções: . Por padrão, este campo é obrigatório.
 **Info** | Informe.
-**Tipo** | Selecione. Por padrão, este campo é obrigatório.
+**Tipo** | Selecione. Opções: . Por padrão, este campo é obrigatório.
 **Repres.Empresa** | Selecione. Por padrão, este campo é obrigatório.
 **Faturamento** | Informe.
-**Opção** | Selecione. Por padrão, este campo é obrigatório.
+**Opção** | Selecione. Opções: . Por padrão, este campo é obrigatório.
 **Excluir itens do pedido ao alterar fornecedor** | Informe.
 <br>
 
@@ -35,7 +35,7 @@ Campo | Descrição
 **Exibir número do pedido no topo** | Informe.
 **Cor observação** | Informe. Por padrão, este campo é obrigatório.
 **Decimais QTD** | Informe. Por padrão, este campo é obrigatório.
-**Ordenar Itens** | Selecione. Por padrão, este campo é obrigatório.
+**Ordenar Itens** | Selecione. Opções: . Por padrão, este campo é obrigatório.
 **Leiaute do PDF** | Informe. Por padrão, este campo é obrigatório.
 <br>
 

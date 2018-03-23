@@ -11,13 +11,13 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Número** | Informa.
-**Emissão** | Informa.
-**Cliente** | Informa.
-**Fornecedor** | Informa.
-**Valor Total** | Informa.
-**Qtdade** | Informa.
-**Ped.Orig.** | Informa.
+**Número** | Informa o número.
+**Emissão** | Informa o emissão.
+**Cliente** | Informa o cliente.
+**Fornecedor** | Informa o fornecedor.
+**Valor Total** | Informa o valor total.
+**Qtdade** | Informa o qtdade total.
+**Ped.Orig.** | Informa o pedido original.
 <br>
 
 ## Geral
@@ -26,38 +26,38 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Info** | Informe.
-**Número** | Informa. Por padrão, este campo é obrigatório.
-**Pedido Original** | Informe.
-**Fornecedor** | Selecione. Por padrão, este campo é obrigatório.
-**Estado** | Informa. Por padrão, este campo é obrigatório.
-**Cliente** | Selecione. Por padrão, este campo é obrigatório.
-**Contato** | Informe.
-**Atendente** | Selecione. Por padrão, este campo é obrigatório.
-**Empresa** | Informa. Por padrão, este campo é obrigatório.
-**Emissão** | Informa.
-**Prev.Entrega** | Informe.
-**Cond.Pagto** | Selecione. Por padrão, este campo é obrigatório.
-**Forma Pagto** | Informe. Por padrão, este campo é obrigatório.
-**Tipo Venda** | Informe. Por padrão, este campo é obrigatório.
-**Tipo Faturamento** | Informe. Por padrão, este campo é obrigatório.
-**Validade** | Informe.
-**Transportadora** | Selecione.
-**Frete** | Selecione.
-**Redespacho** | Selecione.
-**Frete Red.** | Selecione.
-**Qtdade Total** | Informa.
-**Valor Itens** | Informa.
-**Valor Frete** | Informe.
-**% ICMS** | Informe.
-**Valor Total** | Informa.
-**Comissão Total** | Informa.
-**Valor total c/ IPI** | Informa.
-**% Comercial** | Informe.
-**Valor Comercial** | Informa.
-**% Financeiro** | Informe.
-**Valor Financeiro** | Informa.
-**% Geral** | Informe.
-**Valor Geral** | Informe.
+**Número** | Informa o número. Por padrão, este campo é obrigatório.
+**Pedido Original** | Informe o pedido original.
+**Fornecedor** | Informe o fornecedor. Por padrão, este campo é obrigatório.
+**Estado** | Informa o estado. Opções: Aberto, Cancelado, Faturado e Entregue, Fechado. Por padrão, este campo é obrigatório.
+**Cliente** | Informe o cliente. Por padrão, este campo é obrigatório.
+**Contato** | Informe o cliente contato.
+**Atendente** | Informe o atendente. Por padrão, este campo é obrigatório.
+**Empresa** | Informa o empresa. Por padrão, este campo é obrigatório.
+**Emissão** | Informa o emissão.
+**Prev.Entrega** | Informe o prev.entrega.
+**Cond.Pagto** | Informe o condição de pagamento. Por padrão, este campo é obrigatório.
+**Forma Pagto** | Informe o forma pagto. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
+**Tipo Venda** | Informe o tipo venda. Opções: Coleção, Desenvolvimento, Exportação, Saldo. Por padrão, este campo é obrigatório.
+**Tipo Faturamento** | Informe o tipo faturamento. Opções: Normal, VOL. Por padrão, este campo é obrigatório.
+**Validade** | Informe o validade.
+**Transportadora** | Informe o transportadora.
+**Frete** | Informe o frete.
+**Redespacho** | Informe o redespacho.
+**Frete Red.** | Informe o frete red..
+**Qtdade Total** | Informa o qtdade total.
+**Valor Itens** | Informa o valor itens.
+**Valor Frete** | Informe o valor frete.
+**% ICMS** | Informe o % icms.
+**Valor Total** | Informa o valor total.
+**Comissão Total** | Informa o comissão total.
+**Valor total c/ IPI** | Informa o valor total c/ ipi.
+**% Comercial** | Informe o % desc.comercial.
+**Valor Comercial** | Informa o val.desc.comercial.
+**% Financeiro** | Informe o % desc.financeiro.
+**Valor Financeiro** | Informa o val.desc.financeiro.
+**% Geral** | Informe o % desconto.
+**Valor Geral** | Informe o valor desconto.
 <br>
 
 ## Itens
@@ -73,8 +73,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Observação** | Informe.
-**Informações** | Informe.
+**Observação** | Informe o observação.
+**Informações** | Informe o informações.
 <br>
 
 ## Comandos

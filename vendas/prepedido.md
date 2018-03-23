@@ -11,12 +11,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Número** | Informa.
-**Emissão** | Informa.
-**Cliente** | Informa.
-**Fornecedor** | Informa.
-**Estado** | Informa.
-**Valor Total** | Informa.
+**Número** | Informa o número.
+**Emissão** | Informa o emissão.
+**Cliente** | Informa o cliente.
+**Fornecedor** | Informa o fornecedor.
+**Estado** | Informa o estado.
+**Valor Total** | Informa o valor total.
 <br>
 
 ## Pedido
@@ -25,19 +25,19 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **x** | Informe.
-**Número** | Informa. Por padrão, este campo é obrigatório.
-**Emissão** | Informe. Por padrão, este campo é obrigatório.
-**Cond.Pagto** | Informe. Por padrão, este campo é obrigatório.
-**Estado** | Informa. Por padrão, este campo é obrigatório.
-**Cliente** | Informe. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informe. Por padrão, este campo é obrigatório.
-**Representante** | Selecione. Por padrão, este campo é obrigatório.
-**% Comissão** | Informe. Por padrão, este campo é obrigatório.
-**Redespacho** | Informe.
-**Frete** | Selecione. Por padrão, este campo é obrigatório.
-**Itens** | Informe.
-**Valor Total** | Informa.
-**Observação** | Informe.
+**Número** | Informe o número. Por padrão, este campo é obrigatório.
+**Emissão** | Informe o emissão. Por padrão, este campo é obrigatório.
+**Cond.Pagto** | Informe o cond.pagto. Por padrão, este campo é obrigatório.
+**Estado** | Informa o estado. Opções: Aberto, Ag. Confirmação, Confirmado. Por padrão, este campo é obrigatório.
+**Cliente** | Informe o cliente. Por padrão, este campo é obrigatório.
+**Fornecedor** | Informe o fornecedor. Por padrão, este campo é obrigatório.
+**Representante** | Informe o representante. Por padrão, este campo é obrigatório.
+**% Comissão** | Informe o comissão. Por padrão, este campo é obrigatório.
+**Redespacho** | Informe o redespacho.
+**Frete** | Informe o frete. Opções: Destinatário (FOB) , Emitente (CIF) . Por padrão, este campo é obrigatório.
+**Itens** | Informe o itens.
+**Valor Total** | Informa o valor total.
+**Observação** | Informe o observação.
 <br>
 
 ## Confirmação
@@ -45,15 +45,15 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Empresa** | Selecione.
-**Prev.Entrega** | Informe.
-**Cliente** | Selecione.
-**Fornecedor** | Selecione.
-**Cond.Pagto** | Selecione.
-**Redespacho** | Selecione.
-**Forma.Pagto** | Informe.
-**Tipo Venda** | Informe.
-**% Esc.Comissão** | Informe.
+**Empresa** | Informe o empresa.
+**Prev.Entrega** | Informe o prev.entrega.
+**Cliente** | Informe o cliente.
+**Fornecedor** | Informe o fornecedor.
+**Cond.Pagto** | Informe o cond.pagto.
+**Redespacho** | Informe o redespacho.
+**Forma.Pagto** | Informe o forma.pagto.
+**Tipo Venda** | Informe o tipo venda.
+**% Esc.Comissão** | Informe o % esc.comissão.
 <br>
 
 ## Comandos
