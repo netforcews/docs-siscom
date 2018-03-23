@@ -31,6 +31,7 @@ Campo | Descrição
 **Código** | Informa o código.
 **CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo.
 **Tipo** | Informe o tipo, física ou jurídica. Por padrão, este campo é obrigatório.
+Opções: Física, Jurídica.
 **IE** | Informe a Inscrição Estadual.
 **Ramo Atividade** | Informe o ramo de atividade.
 **Logradouro** | Informe o logradouro.
@@ -46,7 +47,7 @@ Campo | Descrição
 **DDD** | Informe o DDD.
 **Telefone** | Informe o telefone.
 **Fax** | Informe o fax.
-**Contatos migrados para o novo formato** | Informe.
+**Contatos migrados para o novo formato** | Informe o migrado.
 <br>
 
 ## Configurações
@@ -58,25 +59,26 @@ Campo | Descrição
 **Data Situação** | Informa a data da situação.
 **Responsável** | Informe o responsável.
 **Região Venda** | Informe a região de venda.
-**Suframa** | Informe.
-**Crédito** | Informe.
+**Suframa** | Informe o suframa.
+**Crédito** | Informe o crédito.
 **Ultima Compra** | Informa data da última compra.
 **Condição Pagto** | Informe a condição de pagamento padrão.
 **Forma Pagto** | Informe a forma de pagamento padrão.
 **Frete** | Informe o frete padrão.
-**Tipo de Cliente** | Selecione.
+Opções: CIF (Emitente), FOB (Destinatário).
+**Tipo de Cliente** | Informe o tipo de pessoa.
 **Freq.Compra** | Informa a frequência de compra.
 **Tipo Faturamento** | Informe o tipo de faturamento padrão.
 **Melhor Dia Pagto** | Informe o melhor dia para pagamento.
-**Pedido mínimo** | Informe.
+**Pedido mínimo** | Informe o pedido mínimo.
 **Comissão Padrão** | Informe a comissão padrão.
-**Core** | Informe.
-**Meta.Fat.** | Informe.
-**Meta.Comiss.** | Informe.
-**Aviso de Faturamento** | Informe.
-**Aviso de Pedidos Atrasados** | Informe.
-**Aviso de previsão dos pedidos** | Informe.
-**Avisos de administrador** | Informe.
+**Core** | Informe o core.
+**Meta.Fat.** | Informe o meta.fat..
+**Meta.Comiss.** | Informe o meta.comiss..
+**Aviso de Faturamento** | Informe o aviso de faturamento.
+**Aviso de Pedidos Atrasados** | Informe o aviso de pedidos atrasados.
+**Aviso de previsão dos pedidos** | Informe o aviso de previsão dos pedidos.
+**Avisos de administrador** | Informe o avisos de administrador.
 **CC (Receita)** | Informe a conta contábil de receita.
 **CC (Despesa)** | Informe a conta contábil de despesa.
 **Cliente** | Selecione se a pessoa é um cliente.
@@ -95,13 +97,13 @@ Campo | Descrição
 --:|---
 **Fundação** | Informe o ano de fundação da empresa.
 **Cap.Produtiva** | Informe a capacidade produtiva da empresa.
-**Especialização** | Informe.
+**Especialização** | Informe o especialização.
 **Núm.Colaboradores** | Informe o número de colaboradores da empresa.
-**Estrutura Interna** | Informe.
-**Terceriza** | Informe.
+**Estrutura Interna** | Informe o estrutura interna.
+**Terceriza** | Informe o terceriza.
 **Área total (m2)** | Informe a área total da empresa.
 **Observações** | Informe uma observação.
-**Última alteração** | Informa.
+**Última alteração** | Informa o última alteração.
 **Linha de Produtos** | Informe. Por padrão, este campo é obrigatório.
 **Certificados** | Informe.
 **Tipos de produção** | Informe. Por padrão, este campo é obrigatório.
@@ -119,7 +121,7 @@ Campo | Descrição
 **CEP** | Informe o CEP.
 **Estado** | Informe o estado.
 **Município** | Informe o município.
-**CNPJ** | Informe.
+**CNPJ** | Informe o cnpj.
 **IE** | Informe a Inscrição Estadual.
 **Telefone** | Informe o telefone.
 **Fax** | Informe o fax.
@@ -141,7 +143,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Observação** | Informe uma observação.
-**Informações** | Informe.
+**Informações** | Informe o informações.
 **Obs. do Pedido** | Informe uma observação.
 <br>
 
@@ -150,7 +152,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Localização** | Informe.
+**Localização** | Informe o localização.
 <br>
 
 ## Logo
