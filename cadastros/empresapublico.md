@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastro**, opção **Empresas usuárias**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | .
-**Nome** | .
-**CNPJ** | .
-**Código** | .
+**Marca** | Informa o marca.
+**Nome** | Informa o nome.
+**CNPJ** | Informa o cnpj.
+**Código** | Informa o código.
 <br>
 
 ## Geral
@@ -23,27 +22,27 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Marca** | Informe . Por padrão, este campo é obrigatório.
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**CNPJ** | Informe . Por padrão, este campo é obrigatório.
-**Insc.Estadual** | Informe .
-**Insc.Municipal** | Informe .
-**Logradouro** | Informe . Por padrão, este campo é obrigatório.
-**Número** | Informe . Por padrão, este campo é obrigatório.
-**Complemento** | Informe .
-**Bairro** | Informe . Por padrão, este campo é obrigatório.
-**CEP** | Informe . Por padrão, este campo é obrigatório.
-**Estado** | Selecione . Por padrão, este campo é obrigatório.
-**Múnicípio** | Selecione . Por padrão, este campo é obrigatório.
-**DDD** | Informe . Por padrão, este campo é obrigatório.
-**Telefone** | Informe . Por padrão, este campo é obrigatório.
-**Fax** | Informe .
-**Celular** | Informe .
-**E-mail** | Informe . Por padrão, este campo é obrigatório.
-**E-mail Vendas** | Informe .
-**E-mail Financeiro** | Informe .
-**Website** | Informe .
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Marca** | Informe o marca. Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**CNPJ** | Informe o cnpj. Por padrão, este campo é obrigatório.
+**Insc.Estadual** | Informe o ie.
+**Insc.Municipal** | Informe o im.
+**Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
+**Número** | Informe o número. Por padrão, este campo é obrigatório.
+**Complemento** | Informe o complemento.
+**Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
+**CEP** | Informe o cep. Por padrão, este campo é obrigatório.
+**Estado** | Informe o estado. Por padrão, este campo é obrigatório.
+**Múnicípio** | Informe o múnicípio. Por padrão, este campo é obrigatório.
+**DDD** | Informe o ddd. Por padrão, este campo é obrigatório.
+**Telefone** | Informe o telefone. Por padrão, este campo é obrigatório.
+**Fax** | Informe o fax.
+**Celular** | Informe o celular.
+**E-mail** | Informe o e-mail. Por padrão, este campo é obrigatório.
+**E-mail Vendas** | Informe o e-mail vendas.
+**E-mail Financeiro** | Informe o e-mail financeiro.
+**Website** | Informe o website.
 <br>
 
 ## Logo
@@ -51,7 +50,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Logo** | Informe . Por padrão, este campo é obrigatório.
+**Logo** | Informe o logo. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

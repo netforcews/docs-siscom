@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Unidades de medida**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,9 +11,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Símbolo** | .
-**Descrição** | .
-**P.Fra** | .
+**Símbolo** | Informa o símbolo.
+**Descrição** | Informa o descrição.
+**P.Fra** | Informa o permite fracionar.
 <br>
 
 ## Geral
@@ -22,9 +21,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Símbolo** | Informe . Por padrão, este campo é obrigatório.
-**Permite Fracionar** | Informe se .
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
+**Símbolo** | Informe o símbolo. Por padrão, este campo é obrigatório.
+**Permite Fracionar** | Informe o permite fracionar.
+**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

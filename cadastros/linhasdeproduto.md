@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Linhas de produtos**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,8 +11,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | .
-**Fornecedor** | .
+**Descrição** | Informa o descrição.
+**Fornecedor** | Informa o fornecedor.
 <br>
 
 ## Geral
@@ -21,8 +20,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Fornecedor** | Selecione .
+**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
+**Fornecedor** | Informe o fornecedor.
 <br>
 <br>
 <br>

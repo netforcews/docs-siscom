@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Cond.Pagamento**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,11 +11,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Código** | .
-**Descrição** | .
-**Informativo** | .
-**Prazo Médio** | .
-**Atv** | .
+**Código** | Informa o código.
+**Descrição** | Informa o descrição.
+**Informativo** | Informa o informativo.
+**Prazo Médio** | Informa o média.
+**Atv** | Informa o ativo.
 <br>
 
 ## Geral
@@ -24,43 +23,43 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | .
-**Texto** | Informe .
-**Informativo** | .
-**Ativo** | Informe se .
-**Parc. 01** | Informe . Por padrão, este campo é obrigatório.
-**%Dia01** | Informe . Por padrão, este campo é obrigatório.
-**Parc. 02** | Informe .
-**%Dia02** | Informe .
-**Parc. 03** | Informe .
-**%Dia03** | Informe .
-**Parc. 04** | Informe .
-**%Dia04** | Informe .
-**Parc. 05** | Informe .
-**%Dia05** | Informe .
-**Parc. 06** | Informe .
-**%Dia06** | Informe .
-**Parc. 07** | Informe .
-**%Dia07** | Informe .
-**Parc. 08** | Informe .
-**%Dia08** | Informe .
-**Parc. 09** | Informe .
-**%Dia09** | Informe .
-**Parc. 10** | Informe .
-**%Dia10** | Informe .
-**Parc. 11** | Informe .
-**%Dia11** | Informe .
-**Parc. 12** | Informe .
-**%Dia12** | Informe .
-**Parc. 13** | Informe .
-**%Dia13** | Informe .
-**Parc. 14** | Informe .
-**%Dia14** | Informe .
-**Parc. 15** | Informe .
-**%Dia15** | Informe .
-**Parc. 16** | Informe .
-**%Dia16** | Informe .
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição.
+**Texto** | Informe o texto.
+**Informativo** | Informa o informativo.
+**Ativo** | Informe o ativo.
+**Parc. 01** | Informe o dia01. Por padrão, este campo é obrigatório.
+**%Dia01** | Informe o %dia01. Por padrão, este campo é obrigatório.
+**Parc. 02** | Informe o dia02.
+**%Dia02** | Informe o %dia02.
+**Parc. 03** | Informe o dia03.
+**%Dia03** | Informe o %dia03.
+**Parc. 04** | Informe o dia04.
+**%Dia04** | Informe o %dia04.
+**Parc. 05** | Informe o dia05.
+**%Dia05** | Informe o %dia05.
+**Parc. 06** | Informe o dia06.
+**%Dia06** | Informe o %dia06.
+**Parc. 07** | Informe o dia07.
+**%Dia07** | Informe o %dia07.
+**Parc. 08** | Informe o dia08.
+**%Dia08** | Informe o %dia08.
+**Parc. 09** | Informe o dia09.
+**%Dia09** | Informe o %dia09.
+**Parc. 10** | Informe o dia10.
+**%Dia10** | Informe o %dia10.
+**Parc. 11** | Informe o dia11.
+**%Dia11** | Informe o %dia11.
+**Parc. 12** | Informe o dia12.
+**%Dia12** | Informe o %dia12.
+**Parc. 13** | Informe o dia13.
+**%Dia13** | Informe o %dia13.
+**Parc. 14** | Informe o dia14.
+**%Dia14** | Informe o %dia14.
+**Parc. 15** | Informe o dia15.
+**%Dia15** | Informe o %dia15.
+**Parc. 16** | Informe o dia16.
+**%Dia16** | Informe o %dia16.
 <br>
 <br>
 <br>

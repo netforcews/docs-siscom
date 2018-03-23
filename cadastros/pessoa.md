@@ -30,7 +30,7 @@ Campo | Descrição
 **Grupo** | Informe o grupo.
 **Código** | Informa o código.
 **CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo.
-**Tipo** | Informe o tipo. Por padrão, este campo é obrigatório.    Opções: Física, Jurídica.
+**Tipo** | Informe o tipo, física ou jurídica. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
 **IE** | Informe a Inscrição Estadual.
 **Ramo Atividade** | Informe o ramo de atividade.
 **Logradouro** | Informe o logradouro.
@@ -54,7 +54,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Situação** | Informe a situação. Por padrão, este campo é obrigatório.
+**Situação** | Informe a situação. Opções: Ativo, Bloq. c/ pendência financeira, Bloqueado, Inativo, Prospect. Por padrão, este campo é obrigatório.
 **Data Situação** | Informa a data da situação.
 **Responsável** | Informe o responsável.
 **Região Venda** | Informe a região de venda.
@@ -64,7 +64,6 @@ Campo | Descrição
 **Condição Pagto** | Informe a condição de pagamento padrão.
 **Forma Pagto** | Informe a forma de pagamento padrão.
 **Frete** | Informe o frete padrão.
-Opções: CIF (Emitente), FOB (Destinatário).
 **Tipo de Cliente** | Informe o tipo de pessoa.
 **Freq.Compra** | Informa a frequência de compra.
 **Tipo Faturamento** | Informe o tipo de faturamento padrão.

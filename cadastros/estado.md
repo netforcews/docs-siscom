@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Estados e Municípios**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Sigla** | .
-**Nome** | .
-**Região** | .
-**Código** | .
+**Sigla** | Informa o sigla.
+**Nome** | Informa o nome.
+**Região** | Informa o região.
+**Código** | Informa o código.
 <br>
 
 ## Geral
@@ -23,14 +22,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Sigla** | Informe . Por padrão, este campo é obrigatório.
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**% ICMS** | Informe .
-**Região** | Informe . Por padrão, este campo é obrigatório.
-**DDD** | Informe . Por padrão, este campo é obrigatório.
-**CEP Ini** | Informe . Por padrão, este campo é obrigatório.
-**CEP Fim** | Informe . Por padrão, este campo é obrigatório.
+**Sigla** | Informe o sigla. Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**% ICMS** | Informe o pericms.
+**Região** | Informe o região. Por padrão, este campo é obrigatório.
+**DDD** | Informe o ddd. Por padrão, este campo é obrigatório.
+**CEP Ini** | Informe o cep ini. Por padrão, este campo é obrigatório.
+**CEP Fim** | Informe o cep fim. Por padrão, este campo é obrigatório.
 <br>
 
 ## Links

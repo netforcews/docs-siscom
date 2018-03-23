@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Plano de contas**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,8 +11,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Estrutura** | .
-**Descrição** | .
+**Estrutura** | Informa o estrutura.
+**Descrição** | Informa o descrição.
 <br>
 
 ## Geral
@@ -21,10 +20,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Estrutura** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Classificação** | Selecione . Por padrão, este campo é obrigatório.
-**Tipo** | Selecione . Por padrão, este campo é obrigatório.
+**Estrutura** | Informe o estrutura. Por padrão, este campo é obrigatório.
+**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
+**Classificação** | Informe o classificação. Opções: Ativo, Despesas, Passivo, Receitas. Por padrão, este campo é obrigatório.
+**Tipo** | Informe o tipo. Opções: Lançamento, Total e SubTotal. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

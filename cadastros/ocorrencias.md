@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Ocorrências**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,8 +11,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | .
-**Ativo** | .
+**Descrição** | Informa o descrição.
+**Ativo** | Informa o ativo.
 <br>
 
 ## Geral
@@ -21,8 +20,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Ativo** | Informe se . Por padrão, este campo é obrigatório.
+**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
+**Ativo** | Informe o ativo. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

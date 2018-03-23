@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastro**, opção **Grupo de clientes**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,8 +11,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | .
-**Contato** | .
+**Nome** | Informa o nome.
+**Contato** | Informa o contato.
 <br>
 
 ## Geral
@@ -21,8 +20,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Contato** | Informe .
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Contato** | Informe o contato.
 <br>
 <br>
 <br>

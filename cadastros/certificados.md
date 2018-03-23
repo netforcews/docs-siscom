@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Certificados**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,7 +11,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | .
+**Nome** | Informa o nome.
 <br>
 
 ## Geral
@@ -20,8 +19,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | Informe .
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Descrição** | Informe o descrição.
 <br>
 <br>
 <br>

@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Cadastro**, opção **Bancos**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,11 +11,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | .
-**Razão Social/Nome** | .
-**Telefone** | .
-**CNPJ/CPF** | .
-**Situação** | .
+**Marca** | Informa o nome fantasia (apelido).
+**Razão Social/Nome** | Informa o nome.
+**Telefone** | Informa o telefone.
+**CNPJ/CPF** | Informa o CNPJ ou CPF, conforme o tipo.
+**Situação** | Informa a situação.
 <br>
 
 ## Geral
@@ -24,21 +23,21 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Marca** | Informe . Por padrão, este campo é obrigatório.
-**CNPJ/CPF** | Informe . Por padrão, este campo é obrigatório.
-**Tipo** | Selecione . Por padrão, este campo é obrigatório.
-**IE** | Informe . Por padrão, este campo é obrigatório.
-**Ramo Atividade** | Selecione . Por padrão, este campo é obrigatório.
-**Logradouro** | Informe . Por padrão, este campo é obrigatório.
-**Número** | Informe . Por padrão, este campo é obrigatório.
-**Complemento** | Informe .
-**Bairro** | Informe . Por padrão, este campo é obrigatório.
-**CEP** | Informe . Por padrão, este campo é obrigatório.
-**Estado** | Selecione . Por padrão, este campo é obrigatório.
-**Município** | Selecione . Por padrão, este campo é obrigatório.
-**Data Nasc.** | Informe .
-**Data Cadastro** | .
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Marca** | Informe o nome fantasia (apelido). Por padrão, este campo é obrigatório.
+**CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo. Por padrão, este campo é obrigatório.
+**Tipo** | Informe o tipo, física ou jurídica. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
+**IE** | Informe a Inscrição Estadual. Por padrão, este campo é obrigatório.
+**Ramo Atividade** | Informe o ramo de atividade. Por padrão, este campo é obrigatório.
+**Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
+**Número** | Informe o número do logradouro. Por padrão, este campo é obrigatório.
+**Complemento** | Informe o complemento do endenreço.
+**Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
+**CEP** | Informe o CEP. Por padrão, este campo é obrigatório.
+**Estado** | Informe o estado. Por padrão, este campo é obrigatório.
+**Município** | Informe o município. Por padrão, este campo é obrigatório.
+**Data Nasc.** | Informe a data de nascimento.
+**Data Cadastro** | Informa a data de cadastro.
 <br>
 
 ## Contatos
@@ -46,14 +45,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**DDD** | Informe . Por padrão, este campo é obrigatório.
-**Telefone** | Informe . Por padrão, este campo é obrigatório.
-**Fax** | Informe .
-**Celular** | Informe .
-**Contato** | Informe .
-**Contato2** | Informe .
-**E-mail** | Informe . Por padrão, este campo é obrigatório.
-**WebSite** | Informe .
+**DDD** | Informe o DDD. Por padrão, este campo é obrigatório.
+**Telefone** | Informe o telefone. Por padrão, este campo é obrigatório.
+**Fax** | Informe o fax.
+**Celular** | Informe o celular.
+**Contato** | Informe um contato.
+**Contato2** | Informe um contato.
+**E-mail** | Informe o e-mail. Por padrão, este campo é obrigatório.
+**WebSite** | Informe o website.
 <br>
 
 ## Configurações
@@ -61,10 +60,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Situação** | Informe . Por padrão, este campo é obrigatório.
-**Data Situação** | .
-**CC (Receita)** | Conta contábil quando for gerado receitas para/dessa pessoa
-**CC (Despesa)** | Conta contábil quando for gerado despesas para/dessa pessoa
+**Situação** | Informe a situação. Opções: Ativo, Bloq. c/ pendência financeira, Bloqueado, Inativo, Prospect. Por padrão, este campo é obrigatório.
+**Data Situação** | Informa a data da situação.
+**CC (Receita)** | Informe a conta contábil de receita.
+**CC (Despesa)** | Informe a conta contábil de despesa.
 <br>
 
 ## Observação
@@ -72,7 +71,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Observação** | Informe .
+**Observação** | Informe uma observação.
 <br>
 
 ## Links

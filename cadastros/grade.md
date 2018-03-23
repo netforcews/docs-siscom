@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas**, opção **Grades de distribuição**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,8 +11,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Código** | .
-**Descrição** | .
+**Código** | Informa o código.
+**Descrição** | Informa o descrição.
 <br>
 
 ## Geral
@@ -21,28 +20,28 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | . Por padrão, este campo é obrigatório.
-**Tam1** | Informe . Por padrão, este campo é obrigatório.
-**Qtd1** | Informe . Por padrão, este campo é obrigatório.
-**Tam2** | Informe .
-**Qtd2** | Informe .
-**Tam3** | Informe .
-**Qtd3** | Informe .
-**Tam4** | Informe .
-**Qtd4** | Informe .
-**Tam5** | Informe .
-**Qtd5** | Informe .
-**Tam6** | Informe .
-**Qtd6** | Informe .
-**Tam7** | Informe .
-**Qtd7** | Informe .
-**Tam8** | Informe .
-**Qtd8** | Informe .
-**Tam9** | Informe .
-**Qtd9** | Informe .
-**Tam10** | Informe .
-**Qtd10** | Informe .
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
+**Tam1** | Informe o tam1. Por padrão, este campo é obrigatório.
+**Qtd1** | Informe o qtd1. Por padrão, este campo é obrigatório.
+**Tam2** | Informe o tam2.
+**Qtd2** | Informe o qtd2.
+**Tam3** | Informe o tam3.
+**Qtd3** | Informe o qtd3.
+**Tam4** | Informe o tam4.
+**Qtd4** | Informe o qtd4.
+**Tam5** | Informe o tam5.
+**Qtd5** | Informe o qtd5.
+**Tam6** | Informe o tam6.
+**Qtd6** | Informe o qtd6.
+**Tam7** | Informe o tam7.
+**Qtd7** | Informe o qtd7.
+**Tam8** | Informe o tam8.
+**Qtd8** | Informe o qtd8.
+**Tam9** | Informe o tam9.
+**Qtd9** | Informe o qtd9.
+**Tam10** | Informe o tam10.
+**Qtd10** | Informe o qtd10.
 <br>
 <br>
 <br>
