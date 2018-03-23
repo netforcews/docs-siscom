@@ -30,7 +30,7 @@ Campo | Descrição
 **Grupo** | Informe o grupo.
 **Código** | Informa o código.
 **CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo.
-**Tipo** | Informe o tipo, física ou jurídica. Por padrão, este campo é obrigatório.  Opções: Física, Jurídica.
+**Tipo** | Informe o tipo. Por padrão, este campo é obrigatório.    Opções: Física, Jurídica.
 **IE** | Informe a Inscrição Estadual.
 **Ramo Atividade** | Informe o ramo de atividade.
 **Logradouro** | Informe o logradouro.
