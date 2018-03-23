@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Geral**, opção **Conta corrente**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,13 +11,13 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Conta** | .
-**Data** | .
-**Descrição** | .
-**Documento** | .
-**Contra parte** | .
-**Valor** | .
-**Saldo** | .
+**Conta** | Informa o conta.
+**Data** | Informa o data.
+**Descrição** | Informa o descrição.
+**Documento** | Informa o documento.
+**Contra parte** | Informa o contra parte.
+**Valor** | Informa o valor.
+**Saldo** | Informa o saldo.
 <br>
 
 ## Geral
@@ -26,17 +25,17 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info** | Informe .
-**Conta** | Selecione . Por padrão, este campo é obrigatório.
-**Conta Contábil** | Selecione . Por padrão, este campo é obrigatório.
-**Data** | Informe . Por padrão, este campo é obrigatório.
-**Descrição** | Informe . Por padrão, este campo é obrigatório.
-**Documento** | Informe . Por padrão, este campo é obrigatório.
-**Contra parte** | Selecione . Por padrão, este campo é obrigatório.
-**Valor** | Informe . Por padrão, este campo é obrigatório.
-**Saldo** | .
-**Saldo Empresa** | .
-**Saldo Geral** | .
+**Info** | Informe.
+**Conta** | Informe o conta. Por padrão, este campo é obrigatório.
+**Conta Contábil** | Informe o conta contábil. Por padrão, este campo é obrigatório.
+**Data** | Informe o data. Por padrão, este campo é obrigatório.
+**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
+**Documento** | Informe o documento. Por padrão, este campo é obrigatório.
+**Contra parte** | Informe o contra parte. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
+**Saldo** | Informa o saldo.
+**Saldo Empresa** | Informa o saldo empresa.
+**Saldo Geral** | Informa o saldo geral.
 <br>
 <br>
 <br>

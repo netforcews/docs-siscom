@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Geral**, opção **Contas a Pagar**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,15 +11,15 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**&nbsp;** | .
-**Numero** | .
-**Emissão** | .
-**Cedente/Fornecedor** | .
-**Descrição** | .
-**Vencimento** | .
-**Parc** | .
-**Valor** | .
-**Pagto** | .
+**&nbsp;** | Informa.
+**Numero** | Informa o número.
+**Emissão** | Informa o emissão.
+**Cedente/Fornecedor** | Informa o pessoa.
+**Descrição** | Informa o descrição.
+**Vencimento** | Informa o vencimento.
+**Parc** | Informa o parcela.
+**Valor** | Informa o saldo.
+**Pagto** | Informa o pagamento.
 <br>
 
 ## Geral
@@ -28,34 +27,34 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Compromisso** | . Por padrão, este campo é obrigatório.
-**Situação** | . Por padrão, este campo é obrigatório.
-**Número** | .
-**Usuário** | . Por padrão, este campo é obrigatório.
-**Cedente** | Selecione . Por padrão, este campo é obrigatório.
-**Descrição** | .
-**Emissão** | . Por padrão, este campo é obrigatório.
-**Forma de Pgto** | Informe . Por padrão, este campo é obrigatório.
-**Vencimento** | Informe . Por padrão, este campo é obrigatório.
-**Tipo Vencimento** | Selecione . Por padrão, este campo é obrigatório.
-**Conta Contábil** | Selecione . Por padrão, este campo é obrigatório.
-**Valor Nominal** | Informe . Por padrão, este campo é obrigatório.
-**Empresa** | Selecione . Por padrão, este campo é obrigatório.
-**Valor Base** | Valor de referência do documento ou parcela
-**N. Parcelas** | . Por padrão, este campo é obrigatório.
-**Intervalo (dias)** | . Por padrão, este campo é obrigatório.
-**Parcela** | .
-**Mensalidade** | .
-**Linha Digitavel** | Informe .
-**Código Barra** | Informe .
-**Juros Diário** | Informe .
-**Acrescimo (+)** | .
-**Desconto (-)** | Informe .
-**Valor Documento** | .
-**Data Pagamento** | .
-**Valor Pago** | .
-**Saldo** | .
-**Observação** | Informe .
+**Compromisso** | Informe o compromisso. Por padrão, este campo é obrigatório.
+**Situação** | Informa o situação. Opções: Aberto, Cancelado, Quitado. Por padrão, este campo é obrigatório.
+**Número** | Informa o número.
+**Usuário** | Informa o usuário. Por padrão, este campo é obrigatório.
+**Cedente** | Informe o pessoa. Por padrão, este campo é obrigatório.
+**Descrição** | Informe o descrição.
+**Emissão** | Informe o emissão. Por padrão, este campo é obrigatório.
+**Forma de Pgto** | Informe o forma de pgto. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
+**Vencimento** | Informe o vencimento. Por padrão, este campo é obrigatório.
+**Tipo Vencimento** | Informe o tipo vencimento. Opções: Previsto, Real. Por padrão, este campo é obrigatório.
+**Conta Contábil** | Informe o conta contábil. Por padrão, este campo é obrigatório.
+**Valor Nominal** | Informe o valor nominal. Por padrão, este campo é obrigatório.
+**Empresa** | Informe o empresa. Por padrão, este campo é obrigatório.
+**Valor Base** | Informa o valor base.
+**N. Parcelas** | Informe o n. parcelas. Por padrão, este campo é obrigatório.
+**Intervalo (dias)** | Informe o intervalo. Por padrão, este campo é obrigatório.
+**Parcela** | Informa o parcela.
+**Mensalidade** | Informe o mensalidade.
+**Linha Digitavel** | Informe o linha digitavel.
+**Código Barra** | Informe o código barra.
+**Juros Diário** | Informe o juros mora.
+**Acrescimo (+)** | Informa o valor juros.
+**Desconto (-)** | Informe o valor desconto.
+**Valor Documento** | Informa o valor documento.
+**Data Pagamento** | Informa o pagamento.
+**Valor Pago** | Informa o valor pago.
+**Saldo** | Informa o saldo.
+**Observação** | Informe o observação.
 <br>
 
 ## Histórico
@@ -63,12 +62,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Histórico** | .
+**Histórico** | Informa o histórico.
 <br>
 
 ## Comandos
-### Baixar
-### Novo lançamento
+### [Baixar](/geral/financeiro-baixa-coletiva.md)
+### [Novo lançamento](/geral/cpagar-novotitulo.md)
 <br>
 
 ## Links

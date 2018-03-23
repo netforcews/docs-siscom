@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Geral**, opção **Comissões a Receber**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,16 +11,16 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**&nbsp;** | .
-**Numero** | .
-**Nota** | .
-**Faturam.** | .
-**Fornecedor/Sacado** | .
-**Cliente** | .
-**Vencto** | .
-**Valor** | .
-**Pago** | .
-**Pagto** | .
+**&nbsp;** | Informa.
+**Numero** | Informa o número.
+**Nota** | Informa o venda.
+**Faturam.** | Informa o venda.
+**Fornecedor/Sacado** | Informa o pessoa.
+**Cliente** | Informa o venda.
+**Vencto** | Informa o vencimento.
+**Valor** | Informa o saldo.
+**Pago** | Informa o valor pago.
+**Pagto** | Informa o pagamento.
 <br>
 
 ## Geral
@@ -29,30 +28,30 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Compromisso** | . Por padrão, este campo é obrigatório.
-**Situação** | . Por padrão, este campo é obrigatório.
-**Número** | .
-**Usuário** | . Por padrão, este campo é obrigatório.
-**Sacado** | Selecione . Por padrão, este campo é obrigatório.
-**Descrição** | .
-**Emissão** | . Por padrão, este campo é obrigatório.
-**Forma de Pgto** | Informe . Por padrão, este campo é obrigatório.
-**Vencimento** | Informe . Por padrão, este campo é obrigatório.
-**Tipo Vencimento** | Selecione . Por padrão, este campo é obrigatório.
-**Conta Contábil** | Selecione .
-**Valor Nominal** | Informe . Por padrão, este campo é obrigatório.
-**Valor Base** | Valor de referência do documento ou parcela
-**N. Parcelas** | . Por padrão, este campo é obrigatório.
-**Intervalo (dias)** | . Por padrão, este campo é obrigatório.
-**Parcela** | .
-**Mensalidade** | .
-**Acrescimo (+)** | Informe .
-**Desconto (-)** | Informe .
-**Valor Documento** | .
-**Data Receb.** | .
-**Valor Recebido** | .
-**Saldo** | .
-**Observação** | Informe .
+**Compromisso** | Informe o compromisso. Por padrão, este campo é obrigatório.
+**Situação** | Informa o situação. Opções: Aberto, Cancelado, Quitado. Por padrão, este campo é obrigatório.
+**Número** | Informa o número.
+**Usuário** | Informa o usuário. Por padrão, este campo é obrigatório.
+**Sacado** | Informe o pessoa. Por padrão, este campo é obrigatório.
+**Descrição** | Informe o descrição.
+**Emissão** | Informe o emissão. Por padrão, este campo é obrigatório.
+**Forma de Pgto** | Informe o forma de pgto. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
+**Vencimento** | Informe o vencimento. Por padrão, este campo é obrigatório.
+**Tipo Vencimento** | Informe o tipo vencimento. Opções: Previsto, Real. Por padrão, este campo é obrigatório.
+**Conta Contábil** | Informe o conta contábil.
+**Valor Nominal** | Informe o valor nominal. Por padrão, este campo é obrigatório.
+**Valor Base** | Informa o valor base.
+**N. Parcelas** | Informe o n. parcelas. Por padrão, este campo é obrigatório.
+**Intervalo (dias)** | Informe o intervalo. Por padrão, este campo é obrigatório.
+**Parcela** | Informa o parcela.
+**Mensalidade** | Informe o mensalidade.
+**Acrescimo (+)** | Informe o valor juros.
+**Desconto (-)** | Informe o valor desconto.
+**Valor Documento** | Informa o valor documento.
+**Data Receb.** | Informa o pagamento.
+**Valor Recebido** | Informa o valor pago.
+**Saldo** | Informa o saldo.
+**Observação** | Informe o observação.
 <br>
 
 ## Histórico
@@ -60,11 +59,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Histórico** | .
+**Histórico** | Informa o histórico.
 <br>
 
 ## Comandos
-### Baixar
+### [Baixar](/geral/financeiro-baixa-coletiva.md)
 ### Estornar
 <br>
 
