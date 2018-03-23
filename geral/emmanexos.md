@@ -1,6 +1,5 @@
 # ANEXOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Identificação** | .
-**Arquivo** | .
-**C.A.** | .
+**Identificação** | Informa o identificação.
+**Arquivo** | Informa o arquivo.
+**C.A.** | Informa o como anexo.
 <br>
 
 ## Geral
@@ -18,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Identificação** | Informe . Por padrão, este campo é obrigatório.
-**Arquivo** | Informe . Por padrão, este campo é obrigatório.
-**Como Anexo** | Informe se .
+**Identificação** | Informe o identificação. Por padrão, este campo é obrigatório.
+**Arquivo** | Informe o arquivo. Por padrão, este campo é obrigatório.
+**Como Anexo** | Informe o como anexo.
 <br>
 <br>
 <br>

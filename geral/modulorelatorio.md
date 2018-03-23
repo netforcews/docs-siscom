@@ -1,6 +1,5 @@
 # RELATÓRIOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Agrupador** | .
-**Ordem** | .
-**Relatório** | .
-**Atv** | .
+**Agrupador** | Informa o agrupador.
+**Ordem** | Informa o ordem.
+**Relatório** | Informa o relatório.
+**Atv** | Informa o ativo.
 <br>
 
 ## Geral
@@ -19,10 +18,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Agrupador** | Informe . Por padrão, este campo é obrigatório.
-**Ordem** | Informe . Por padrão, este campo é obrigatório.
-**Relatório** | Selecione . Por padrão, este campo é obrigatório.
-**Ativo** | Informe se .
+**Agrupador** | Informe o agrupador. Por padrão, este campo é obrigatório.
+**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
+**Relatório** | Informe o relatório. Por padrão, este campo é obrigatório.
+**Ativo** | Informe o ativo.
 <br>
 <br>
 <br>

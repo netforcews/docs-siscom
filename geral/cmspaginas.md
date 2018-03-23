@@ -1,6 +1,5 @@
 # PÁGINAS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ordem** | .
-**Título** | .
-**Permissão** | .
+**Ordem** | Informa o ordem.
+**Título** | Informa o título.
+**Permissão** | Informa o permissão.
 <br>
 
 ## Geral
@@ -18,10 +17,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Título** | Informe . Por padrão, este campo é obrigatório.
-**Ordem** | Informe . Por padrão, este campo é obrigatório.
-**Permissão** | Selecione . Por padrão, este campo é obrigatório.
-**Texto** | Informe .
+**Título** | Informe o título. Por padrão, este campo é obrigatório.
+**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
+**Permissão** | Informe o permissão. Opções: Inativo, Privado, Público, Somente público. Por padrão, este campo é obrigatório.
+**Texto** | Informe o texto.
 <br>
 <br>
 <br>

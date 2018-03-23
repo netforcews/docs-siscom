@@ -1,6 +1,5 @@
 # ENTRADA
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**De** | .
-**Para** | .
-**Assunto** | .
-**Data** | .
+**De** | Informa quem enviou.
+**Para** | Informa para quem foi enviado.
+**Assunto** | Informa o assunto.
+**Data** | Informa a data de cadastro..
 <br>
 
 ## E-mail
@@ -19,13 +18,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Assunto** | Informe . Por padrão, este campo é obrigatório.
-**De** | Informe .
-**Data** | .
-**Para** | Informe .
-**Para CC** | Informe .
-**Resp.Para** | Informe .
-**Texto** | Informe .
+**Assunto** | Informa o assunto. Por padrão, este campo é obrigatório.
+**De** | Informa quem enviou.
+**Data** | Informa a data de cadastro..
+**Para** | Informa para quem foi enviado.
+**Para CC** | Informa para quem foi enviado com cópia.
+**Resp.Para** | Informa para quem será a resposta.
+**Texto** | Informa o texto.
 <br>
 
 ## Links

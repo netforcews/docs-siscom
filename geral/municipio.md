@@ -1,6 +1,5 @@
 # MUNCÍPIOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,8 +7,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | .
-**Código** | .
+**Nome** | Informa o nome.
+**Código** | Informa o codigo.
 <br>
 
 ## Geral
@@ -17,8 +16,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Código** | Informe .
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Código** | Informe o codigo.
 <br>
 <br>
 <br>

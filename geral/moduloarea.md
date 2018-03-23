@@ -1,6 +1,5 @@
 # ÁREAS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Coluna** | .
-**Ordem** | .
-**Objeto** | .
+**Coluna** | Informa o coluna.
+**Ordem** | Informa o ordem.
+**Objeto** | Informa o objeto.
 <br>
 
 ## Geral
@@ -18,10 +17,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Coluna** | Selecione . Por padrão, este campo é obrigatório.
-**Ordem** | Informe . Por padrão, este campo é obrigatório.
-**Objeto** | Selecione . Por padrão, este campo é obrigatório.
-**Parâmetros** | Informe .
+**Coluna** | Informe o coluna. Opções: 1 Coluna, 2 Colunas, 3 Colunas. Por padrão, este campo é obrigatório.
+**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
+**Objeto** | Informe o objeto. Por padrão, este campo é obrigatório.
+**Parâmetros** | Informe o parâmetros.
 <br>
 <br>
 <br>

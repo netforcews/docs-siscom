@@ -1,6 +1,5 @@
 # EMPRESAS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Empresa** | .
+**Empresa** | Informa o empresa.
 <br>
 
 ## Geral
@@ -16,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Empresa** | Selecione . Por padrão, este campo é obrigatório.
+**Empresa** | Informe o empresa. Por padrão, este campo é obrigatório.
 <br>
 
 ## Links

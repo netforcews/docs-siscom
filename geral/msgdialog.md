@@ -1,6 +1,5 @@
 # DIALOGOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Assunto** | .
+**Assunto** | Informa o assunto.
 <br>
 
 ## Geral
@@ -16,8 +15,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Assunto** | Informe . Por padrão, este campo é obrigatório.
-**Atualização** | Informe . Por padrão, este campo é obrigatório.
+**Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
+**Atualização** | Informe o atualização. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

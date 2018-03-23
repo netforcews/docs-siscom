@@ -1,6 +1,5 @@
 # USUÁRIOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Usuário** | .
+**Usuário** | Informa o usuário.
 <br>
 
 ## Geral
@@ -16,10 +15,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Dialogo** | Selecione . Por padrão, este campo é obrigatório.
-**Usuário** | Selecione . Por padrão, este campo é obrigatório.
-**Tipo** | Selecione . Por padrão, este campo é obrigatório.
-**Inclusão** | Informe . Por padrão, este campo é obrigatório.
+**Dialogo** | Informe o dialogo. Por padrão, este campo é obrigatório.
+**Usuário** | Informe o usuário. Por padrão, este campo é obrigatório.
+**Tipo** | Informe o tipo. Opções: Excluído, Lido, Não Lido. Por padrão, este campo é obrigatório.
+**Inclusão** | Informe o inclusão. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

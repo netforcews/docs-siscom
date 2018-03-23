@@ -1,6 +1,5 @@
 # CAMPOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ord** | .
-**Nome** | .
-**Legenda** | .
+**Ord** | Informa o ordem.
+**Nome** | Informa o nome.
+**Legenda** | Informa o legenda.
 <br>
 
 ## Geral

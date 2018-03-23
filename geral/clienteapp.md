@@ -1,6 +1,5 @@
 # CLIENTE DE APPLICAÇÃO
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | .
-**Proprietário** | .
-**Alias** | .
+**Nome** | Informa o nome.
+**Proprietário** | Informa o usuário proprietário.
+**Alias** | Informa o alias.
 <br>
 
 ## Geral
@@ -18,28 +17,28 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Alias** | . Por padrão, este campo é obrigatório.
-**Proprietário** | Selecione .
-**CNPJ/CPF** | Informe .
-**IE** | Informe .
-**Logradouro** | Informe .
-**Número** | Informe .
-**Complemento** | Informe .
-**Bairro** | Informe .
-**CEP** | Informe .
-**Estado** | Selecione .
-**Município** | Selecione .
-**DDD** | Informe .
-**Telefone** | Informe .
-**Celular** | Informe .
-**E-mail** | Informe .
-**WebSite** | Informe .
-**Q.Usuários** | Quantidade de usuários máximo (ZERO para ilimitado)
-**Q.Vendedores** | Quantidade de vendedores/atendentes máximo (ZERO para ilimitado)
-**Q.Representadas** | Quantidade de forcedores/representadas máximo (ZERO para ilimitado)
-**Q.Clientes** | Quantidade de clientes máximo (ZERO para ilimitado)
-**Ativo** | Informe se .
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Alias** | Informe o alias. Por padrão, este campo é obrigatório.
+**Proprietário** | Informe o usuário proprietário.
+**CNPJ/CPF** | Informe o cnpj/cpf.
+**IE** | Informe o ie.
+**Logradouro** | Informe o logradouro.
+**Número** | Informe o número.
+**Complemento** | Informe o complemento.
+**Bairro** | Informe o bairro.
+**CEP** | Informe o cep.
+**Estado** | Informe o estado.
+**Município** | Informe o município.
+**DDD** | Informe o ddd.
+**Telefone** | Informe o telefone.
+**Celular** | Informe o celular.
+**E-mail** | Informe o e-mail.
+**WebSite** | Informe o website.
+**Q.Usuários** | Informe o qtdade usuários.
+**Q.Vendedores** | Informe o qtdade vendedores.
+**Q.Representadas** | Informe o qtdade representadas.
+**Q.Clientes** | Informe o qtdade clientes.
+**Ativo** | Informe o ativo.
 <br>
 
 ## Configurações
@@ -47,18 +46,18 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info** | Informe .
-**Meta geral** | Meta geral mensal de faturamento
-**Lim.Faturamento** | Valor mínio para a fatura
-**Ped.em atraso** | Limite de dias em atraso dos pedidos abertos para o atendente
-**Prev.Entrega** | Informe os dias de previsão que o sistema deve assumir como Data Prevista com base na data de emissão do Pedido de Venda
-**Desconto somente com aprovação** | Informe se .
-**Informar desconto** | Selecione . Por padrão, este campo é obrigatório.
-**Perminit previsão de entraga para finais de semana** | Informe se .
-**Receita** | Selecione . Por padrão, este campo é obrigatório.
-**Despesa** | Selecione . Por padrão, este campo é obrigatório.
-**A Receber** | Qual é a forma de pagamento padrão que a empresa recebe as comissões das representadas
-**A Pagar** | Qual é a forma de pagamento padrão que a empresa paga as comissões dos prepóstos
+**Info** | Informe.
+**Meta geral** | Informe o meta geral. Por padrão, este campo é obrigatório.
+**Lim.Faturamento** | Informe o lim.faturamento.
+**Ped.em atraso** | Informe o ped.em atraso.
+**Prev.Entrega** | Informe o prev.entrega.
+**Desconto somente com aprovação** | Informe o desconto somente com aprovação.
+**Informar desconto** | Informe o informar desconto. Opções: Em Percentual, Em Valor. Por padrão, este campo é obrigatório.
+**Perminit previsão de entraga para finais de semana** | Informe o permite previsão de entrega para finais de semana.
+**Receita** | Informe o receita. Por padrão, este campo é obrigatório.
+**Despesa** | Informe o despesa. Por padrão, este campo é obrigatório.
+**A Receber** | Informe o a receber. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
+**A Pagar** | Informe o a pagar. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 <br>
 
 ## Logo
@@ -66,7 +65,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Logo** | Informe .
+**Logo** | Informe o logo.
 <br>
 <br>
 <br>

@@ -1,6 +1,5 @@
 # FILTRO
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ord** | .
-**Nome** | .
-**Interface** | .
-**Prão** | .
+**Ord** | Informa o ordem.
+**Nome** | Informa o nome.
+**Interface** | Informa o interface.
+**Prão** | Informa o assumir como padrão.
 <br>
 
 ## Geral
@@ -19,26 +18,26 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Interface** | Selecione .
-**Ordem** | Informe . Por padrão, este campo é obrigatório.
-**Assumir como padrão** | Informe se .
-**Campo** | Selecione . Por padrão, este campo é obrigatório.
-**Operador** | Selecione . Por padrão, este campo é obrigatório.
-**Valor** | Informe . Por padrão, este campo é obrigatório.
-**Campo** | Selecione .
-**Operador** | Selecione .
-**Valor** | Informe .
-**Campo** | Selecione .
-**Operador** | Selecione .
-**Valor** | Informe .
-**Campo** | Selecione .
-**Operador** | Selecione .
-**Valor** | Informe .
-**Campo** | Selecione .
-**Operador** | Selecione .
-**Valor** | Informe .
-**Ordenação** | Informe .
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Interface** | Informe o interface.
+**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
+**Assumir como padrão** | Informe o assumir como padrão.
+**Campo** | Informe o campo1. Por padrão, este campo é obrigatório.
+**Operador** | Informe o operador1. Opções: Contém, Diferente, É Nulo, Igual, Inicia com, Maior, Maior e Igual, Menor, Menor e Igual, Não é Nulo, Termina com. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor1. Por padrão, este campo é obrigatório.
+**Campo** | Informe o campo2.
+**Operador** | Informe o operador2.
+**Valor** | Informe o valor2.
+**Campo** | Informe o campo3.
+**Operador** | Informe o operador3.
+**Valor** | Informe o valor3.
+**Campo** | Informe o campo4.
+**Operador** | Informe o operador4.
+**Valor** | Informe o valor4.
+**Campo** | Informe o campo5.
+**Operador** | Informe o operador5.
+**Valor** | Informe o valor5.
+**Ordenação** | Informe o ordenação.
 <br>
 
 ## Comando
@@ -46,8 +45,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Comando** | .
-**SQL Especial** | Informe .
+**Comando** | Informa o comando.
+**SQL Especial** | Informe o sql especial.
 <br>
 <br>
 <br>

@@ -1,6 +1,5 @@
 # NOVA MENSAGEM
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Assunto** | .
+**Assunto** | Informa o assunto.
 <br>
 
 ## Mensagem
@@ -16,9 +15,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Para** | Selecione . Por padrão, este campo é obrigatório.
-**Assunto** | Informe . Por padrão, este campo é obrigatório.
-**Texto** | Informe . Por padrão, este campo é obrigatório.
+**Para** | Informe o para. Por padrão, este campo é obrigatório.
+**Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
+**Texto** | Informe o texto. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

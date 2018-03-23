@@ -1,6 +1,5 @@
 # CONTA CORRENTE
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | .
-**Titular** | .
-**CNPJ/CPF** | .
-**Saldo** | .
+**Descrição** | Informa o descrição.
+**Titular** | Informa o razão social/nome.
+**CNPJ/CPF** | Informa o cnpj/cpf.
+**Saldo** | Informa o saldo.
 <br>
 
 ## Geral
@@ -19,14 +18,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Agência** | Informe . Por padrão, este campo é obrigatório.
-**DVA** | Dígito Verificado da Agência
-**Número** | Informe . Por padrão, este campo é obrigatório.
-**DAC** | Dígito Verificado da Conta Corrente
-**Descrição** | .
-**Raz.Social/Nome** | Informe . Por padrão, este campo é obrigatório.
-**CNPJ/CPF** | Informe . Por padrão, este campo é obrigatório.
-**Saldo** | .
+**Agência** | Informe o agência. Por padrão, este campo é obrigatório.
+**DVA** | Informe o dva. Por padrão, este campo é obrigatório.
+**Número** | Informe o número. Por padrão, este campo é obrigatório.
+**DAC** | Informe o dvc. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição.
+**Raz.Social/Nome** | Informe o razão social/nome. Por padrão, este campo é obrigatório.
+**CNPJ/CPF** | Informe o cnpj/cpf. Por padrão, este campo é obrigatório.
+**Saldo** | Informa o saldo.
 <br>
 <br>
 <br>

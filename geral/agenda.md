@@ -1,6 +1,5 @@
 # AGENDAS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Nome** | .
-**URL** | .
-**Cor** | .
+**Nome** | Informa o nome.
+**URL** | Informa o url.
+**Cor** | Informa o cor.
 <br>
 
 ## Geral
@@ -18,11 +17,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Cor** | Informe . Por padrão, este campo é obrigatório.
-**URL** | Informe . Por padrão, este campo é obrigatório.
-**Tipo** | Selecione . Por padrão, este campo é obrigatório.
-**Ativo** | Informe se .
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Cor** | Informe o cor. Por padrão, este campo é obrigatório.
+**URL** | Informe o url. Por padrão, este campo é obrigatório.
+**Tipo** | Informe o tipo. Opções: ICAL, XML. Por padrão, este campo é obrigatório.
+**Ativo** | Informe o ativo.
 <br>
 <br>
 <br>

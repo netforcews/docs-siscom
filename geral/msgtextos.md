@@ -1,6 +1,5 @@
 # TEXTOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Texto** | .
+**Texto** | Informa o texto.
 <br>
 
 ## Geral
@@ -16,10 +15,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Dialogo** | Selecione . Por padrão, este campo é obrigatório.
-**Usuário** | Selecione . Por padrão, este campo é obrigatório.
-**Data** | Informe . Por padrão, este campo é obrigatório.
-**Texto** | Informe . Por padrão, este campo é obrigatório.
+**Dialogo** | Informe o dialogo. Por padrão, este campo é obrigatório.
+**Usuário** | Informe o usuário. Por padrão, este campo é obrigatório.
+**Data** | Informe o data. Por padrão, este campo é obrigatório.
+**Texto** | Informe o texto. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

@@ -1,6 +1,5 @@
 # GRUPOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Grupo** | .
+**Grupo** | Informa o grupo.
 <br>
 
 ## Geral
@@ -16,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Grupo** | Selecione . Por padrão, este campo é obrigatório.
+**Grupo** | Informe o grupo. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

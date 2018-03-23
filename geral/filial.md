@@ -1,6 +1,5 @@
 # FILIAL
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | .
-**Nome** | .
-**Código** | .
+**Marca** | Informa o marca.
+**Nome** | Informa o nome.
+**Código** | Informa o código.
 <br>
 
 ## Geral
@@ -18,20 +17,20 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe . Por padrão, este campo é obrigatório.
-**Marca** | Informe . Por padrão, este campo é obrigatório.
-**Nome** | Informe . Por padrão, este campo é obrigatório.
-**Logradouro** | Informe . Por padrão, este campo é obrigatório.
-**Bairro** | Informe . Por padrão, este campo é obrigatório.
-**CEP** | Informe . Por padrão, este campo é obrigatório.
-**Estado** | Selecione . Por padrão, este campo é obrigatório.
-**Município** | Selecione . Por padrão, este campo é obrigatório.
-**Telefone** | Informe . Por padrão, este campo é obrigatório.
-**Fax** | Informe .
-**E-mail** | Informe .
-**WebSite** | Informe .
-**CNPJ** | Informe . Por padrão, este campo é obrigatório.
-**IE** | Informe . Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Marca** | Informe o marca. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
+**Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
+**CEP** | Informe o cep. Por padrão, este campo é obrigatório.
+**Estado** | Informe o estado. Por padrão, este campo é obrigatório.
+**Município** | Informe o município. Por padrão, este campo é obrigatório.
+**Telefone** | Informe o telefone. Por padrão, este campo é obrigatório.
+**Fax** | Informe o fax.
+**E-mail** | Informe o e-mail.
+**WebSite** | Informe o website.
+**CNPJ** | Informe o cnpj. Por padrão, este campo é obrigatório.
+**IE** | Informe o ie. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

@@ -1,6 +1,5 @@
 # LANÇAMENTOS
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -8,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | .
-**Conta** | .
-**Valor** | .
-**Observação** | .
+**Data** | Informa o data.
+**Conta** | Informa o conta.
+**Valor** | Informa o valor.
+**Observação** | Informa o observação.
 <br>
 
 ## Geral
@@ -19,10 +18,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Data** | Informe . Por padrão, este campo é obrigatório.
-**Conta** | Selecione . Por padrão, este campo é obrigatório.
-**Valor** | Informe . Por padrão, este campo é obrigatório.
-**Observação** | Informe .
+**Data** | Informe o data. Por padrão, este campo é obrigatório.
+**Conta** | Informe o conta. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
+**Observação** | Informe o observação.
 <br>
 <br>
 <br>
