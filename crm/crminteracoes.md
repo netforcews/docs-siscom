@@ -4,7 +4,6 @@
 ## Acesso
 Para acessar esta opção, selecione o módulo **CRM**, opção **Geral**, opção **Interações**.
 <br>
-<br>
 
 ## Grade
 Pela grade, podemos visualizar suas principais informações e fazer a manutenção de seus dados.
@@ -12,10 +11,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | .
-**Pessoa** | .
-**Usuário** | .
-**Texto** | .
+**Data** | Informa o data.
+**Pessoa** | Informa o pessoa.
+**Usuário** | Informa o usuário.
+**Texto** | Informa o texto.
 <br>
 
 ## Geral
@@ -23,12 +22,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Pessoa** | Selecione . Por padrão, este campo é obrigatório.
-**Data** | Informe . Por padrão, este campo é obrigatório.
-**Usuário** | .
-**Tipo** | Informe . Por padrão, este campo é obrigatório.
-**Texto** | Informe . Por padrão, este campo é obrigatório.
-**Retorno** | Informe .
+**Pessoa** | Informe o pessoa. Por padrão, este campo é obrigatório.
+**Data** | Informe o data. Por padrão, este campo é obrigatório.
+**Usuário** | Informa o usuário.
+**Tipo** | Informe o tipo. Opções: Visita. Por padrão, este campo é obrigatório.
+**Texto** | Informe o texto. Por padrão, este campo é obrigatório.
+**Retorno** | Informe o retorno.
 <br>
 
 ## Notificações
@@ -36,9 +35,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info** | Informe .
-**Notificação 1** | Selecione .
-**Notificação 2** | Selecione .
+**Info** | Informe.
+**Notificação 1** | Informe o notificação 1.
+**Notificação 2** | Informe o notificação 2.
 <br>
 <br>
 <br>
