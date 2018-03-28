@@ -76,7 +76,7 @@
 - [Saldos](/saldos/)
 
 **VENDAS**
-- [Configurações](/vendas/) 
+- [Configurações](/vendas/config-vendas.md) 
 - [Pedidos](/vendas/pedidovenda.md) 
 - [Pré-pedido](/vendas/prepedido.md) 
 - [Propostas](/vendas/orcamentovenda.md) 
