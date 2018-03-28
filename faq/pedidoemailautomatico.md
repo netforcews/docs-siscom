@@ -15,7 +15,7 @@ f) a última alteração do pedido deve ter ocorrido após um tempo (em minutos)
 g) o campo **Pedido enviado por e-mail cliente/fornecedor** deve estar desmarcado. Veja [aqui](/vendas/pedidovenda#geral).   
 
 ## Passo 3 - Envio do pedido por e-mail
-Quando é feita uma tentativa de envio do e-mail e o sistema consegue enviá-lo, o e-mail sai da fila de saída com filtro **Não Enviados** e seleciona automaticamente o campo **Pedido enviado por e-mail cliente/fornecedor**. Veja [aqui](/vendas/pedidovenda#geral).
+Quando é feita uma tentativa de envio do e-mail e o sistema consegue enviá-lo, o e-mail sai da fila de saída com filtro **Não Enviados** e seleciona automaticamente o campo **Pedido enviado por e-mail cliente/fornecedor**. Veja [aqui](/vendas/pedidovenda#geral).   
 Se houver a necessidade de reenviar este pedido, por um problema no envio ou qualquer outra razão, basta desmarcar o campo **Pedido enviado por e-mail cliente/fornecedor**. Veja [aqui](/vendas/pedidovenda#geral).
 
 
