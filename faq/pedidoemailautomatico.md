@@ -5,7 +5,7 @@
 Veja [aqui](/vendas/config-vendas.md) como configurar para que o pedido seja colocado na fila de saída de e-mail automaticamente. 
 
 ## Passo 2 - Condições do pedido
-Para quer um pedido esteja em condições para ser enviado por e-mail automaticamente, as seguintes condições devem ser respeitadas:
+Para quer um pedido esteja em condições para ser enviado por e-mail automaticamente, as seguintes condições devem ser respeitadas:   
 a) o pedido precisa estar com o campo **Estado** igual a Fechado. Veja [aqui](/vendas/pedidovenda#geral);   
 b) o cliente do pedido precisa estar com o campo **Situação** igual a Ativo. Veja [aqui](/cadastros/pessoa#configuracoes);   
 c) o cliente do pedido precisa possuir pelo menos um contato com o campo **Aatribuição** igual a Compras com e-mail. Veja [aqui](http://siscom.leiame.org/master/geral/pessoacontatos.md);   
