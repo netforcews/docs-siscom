@@ -10,20 +10,20 @@ Para acessar esta opção, selecione o módulo **Cadastros**, opção **Tabelas*
 
 Campo | Descrição
 --:|---
-**Estado** | Selecione.
-**Municipio** | Selecione.
-**Situação** | Informe.
-**Grupo** | Selecione.
-**Tipo de Cliente** | Selecione.
-**Região de Venda** | Selecione.
-**Cliente** | Informe.
-**Prestador de Serviço** | Informe.
-**Fornecedor** | Informe.
-**Transportadora** | Informe.
-**Representante** | Informe.
-**Banco** | Informe.
-**Outros** | Informe.
-**Compram de** | Selecione.
+**Estado** | Selecione o Estado.
+**Municipio** | Selecione o Municipio.
+**Situação** | Informe o Situação.
+**Grupo** | Selecione o Grupo.
+**Tipo de Cliente** | Selecione o Tipo de Cliente.
+**Região de Venda** | Selecione o Região de Venda.
+**Cliente** | Informe o Cliente.
+**Prestador de Serviço** | Informe o Prestador de Serviço.
+**Fornecedor** | Informe o Fornecedor.
+**Transportadora** | Informe o Transportadora.
+**Representante** | Informe o Representante.
+**Banco** | Informe o Banco.
+**Outros** | Informe o Outros.
+**Compram de** | Selecione o Compram de.
 <br>
 <br>
 <br>
