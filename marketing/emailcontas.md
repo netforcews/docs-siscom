@@ -34,7 +34,7 @@ Campo | Descrição
 **POP Porta** | Informe a porta POP. Por padrão, este campo é obrigatório.
 **Limite/Hora** | Informe o limite por hora. Por padrão, este campo é obrigatório.
 **Última Verificação** | Informa a data e hora da última verificação pelo processo automático de envio.
-**Enviar pela conta do sistema** | Selecione para enviar pela conta de e-mail configurada para todo o sistema.
+**Enviar pela conta do sistema** | Selecione para enviar pela conta de e-mail configurada para todo o sistema. Deixar desmarcado.
 <br>
 <br>
 <br>
