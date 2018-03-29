@@ -6,13 +6,13 @@
 
 Campo | Descrição
 --:|---
-**Empresa** | Selecione.
-**Fornecedor** | Selecione.
-**Início** | Informe.
-**Fim** | Informe.
-**Data por** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Situação** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Tipo Vencto** | Selecione. Opções: . Por padrão, este campo é obrigatório.
+**Empresa** | Selecione o Empresa.
+**Fornecedor** | Selecione o Fornecedor.
+**Início** | Informe o Início.
+**Fim** | Informe o Fim.
+**Data por** | Selecione o Data por. Opções: Pagamento, Vencimento. Por padrão, este campo é obrigatório.
+**Situação** | Selecione o Situação. Opções: Abertos, Ambos, Quitados. Por padrão, este campo é obrigatório.
+**Tipo Vencto** | Selecione o Tipo Vencto. Opções: Ambos, Previsto, Real. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

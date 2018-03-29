@@ -6,9 +6,8 @@
 
 Campo | Descrição
 --:|---
-**Info** | Informe.
-**Valor Base** | Informe. Por padrão, este campo é obrigatório.
-**Data Base** | Informe. Por padrão, este campo é obrigatório.
+**Valor Base** | Informe o Valor Base. Por padrão, este campo é obrigatório.
+**Data Base** | Informe o Data Base. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

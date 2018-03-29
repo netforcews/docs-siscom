@@ -19,7 +19,6 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Número** | Informa o número.
-**Info Vencimento** | Informe.
 **Dias** | Informe o dias. Por padrão, este campo é obrigatório.
 **Vencimento** | Informe o vencimento. Por padrão, este campo é obrigatório.
 **Valor** | Informe o valor. Por padrão, este campo é obrigatório.

@@ -6,24 +6,24 @@
 
 Campo | Descrição
 --:|---
-**Pessoa** | Selecione.
-**Responsável** | Selecione.
-**Cliente** | Informe.
-**Prestador de Serviço** | Informe.
-**Fornecedor** | Informe.
-**Transportadora** | Informe.
-**Represenante** | Informe.
-**Banco** | Informe.
-**Outros** | Informe.
-**Região** | Selecione.
-**Estado** | Selecione.
-**Município** | Selecione.
-**Linha #1** | Selecione.
-**Linha #2** | Selecione.
-**Linha #3** | Selecione.
-**Certificado #1** | Selecione.
-**Certificado #2** | Selecione.
-**Certificado #3** | Selecione.
+**Pessoa** | Selecione o Pessoa.
+**Responsável** | Selecione o Responsável.
+**Cliente** | Informe o Cliente.
+**Prestador de Serviço** | Informe o Prestador de Serviço.
+**Fornecedor** | Informe o Fornecedor.
+**Transportadora** | Informe o Transportadora.
+**Represenante** | Informe o Represenante.
+**Banco** | Informe o Banco.
+**Outros** | Informe o Outros.
+**Região** | Selecione o Região.
+**Estado** | Selecione o Estado.
+**Município** | Selecione o Município.
+**Linha #1** | Selecione o Linha #1.
+**Linha #2** | Selecione o Linha #2.
+**Linha #3** | Selecione o Linha #3.
+**Certificado #1** | Selecione o Certificado #1.
+**Certificado #2** | Selecione o Certificado #2.
+**Certificado #3** | Selecione o Certificado #3.
 <br>
 <br>
 <br>

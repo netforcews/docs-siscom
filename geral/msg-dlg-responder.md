@@ -6,8 +6,8 @@
 
 Campo | Descrição
 --:|---
-**Mensagem** | Informe. Por padrão, este campo é obrigatório.
-**Encaminhar** | Informe.
+**Mensagem** | Informe o Mensagem. Por padrão, este campo é obrigatório.
+**Encaminhar** | Informe o Encaminhar.
 <br>
 <br>
 <br>

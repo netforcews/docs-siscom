@@ -6,10 +6,9 @@
 
 Campo | Descrição
 --:|---
-**Ano** | Informe. Por padrão, este campo é obrigatório.
-**Grupo** | Selecione.
-**Cliente** | Selecione.
-**Atenção** | Informe.
+**Ano** | Informe o Ano. Por padrão, este campo é obrigatório.
+**Grupo** | Selecione o Grupo.
+**Cliente** | Selecione o Cliente.
 <br>
 <br>
 <br>

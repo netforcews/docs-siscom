@@ -6,10 +6,10 @@
 
 Campo | Descrição
 --:|---
-**Início** | Informe.
-**Fim** | Informe.
-**Data por** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Estado** | Selecione. Opções: . Por padrão, este campo é obrigatório.
+**Início** | Informe o Início.
+**Fim** | Informe o Fim.
+**Data por** | Selecione o Data por. Opções: Emissão, Faturamento, Fechamento, Prev.Faturamento. Por padrão, este campo é obrigatório.
+**Estado** | Selecione o Estado. Opções: Abertos, Ambos, Fechados. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

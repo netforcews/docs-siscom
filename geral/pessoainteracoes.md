@@ -29,7 +29,6 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info** | Informe.
 **Notificação 1** | Informe o notificação 1.
 **Notificação 2** | Informe o notificação 2.
 <br>

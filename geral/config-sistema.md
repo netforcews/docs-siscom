@@ -6,12 +6,11 @@
 
 Campo | Descrição
 --:|---
-**Info** | Informe.
-**Domínio padrão** | Informe. Por padrão, este campo é obrigatório.
-**Expiração de Senha** | Informe.
-**Habilitar IDKey** | Informe.
-**Modo** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Usuário Cron** | Selecione. Por padrão, este campo é obrigatório.
+**Domínio padrão** | Informe o Domínio padrão. Por padrão, este campo é obrigatório.
+**Expiração de Senha** | Informe o Expiração de Senha.
+**Habilitar IDKey** | Informe o Habilitar IDKey.
+**Modo** | Selecione o Modo. Opções: Implantação, Operação. Por padrão, este campo é obrigatório.
+**Usuário Cron** | Selecione o Usuário Cron. Por padrão, este campo é obrigatório.
 <br>
 
 ## SMTP
@@ -19,12 +18,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Servidor** | Informe. Por padrão, este campo é obrigatório.
-**Porta** | Informe. Por padrão, este campo é obrigatório.
-**Usuário** | Informe. Por padrão, este campo é obrigatório.
-**Senha** | Informe. Por padrão, este campo é obrigatório.
-**Conta** | Informe. Por padrão, este campo é obrigatório.
-**Autenticar** | Informe.
+**Servidor** | Informe o Servidor. Por padrão, este campo é obrigatório.
+**Porta** | Informe o Porta. Por padrão, este campo é obrigatório.
+**Usuário** | Informe o Usuário. Por padrão, este campo é obrigatório.
+**Senha** | Informe o Senha. Por padrão, este campo é obrigatório.
+**Conta** | Informe o Conta. Por padrão, este campo é obrigatório.
+**Autenticar** | Informe o Autenticar.
 <br>
 
 ## Sistema
@@ -32,22 +31,22 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Tipo de Desconto** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Dias Prev. Padrão** | Informe. Por padrão, este campo é obrigatório.
-**Item s/ cadastro** | Selecione.
-**Prev.Entreg.Final Semana** | Informe.
-**Prev. Entrega retroativa** | Informe.
-**Exibir botão adicionar item** | Informe.
-**Exibir botão adicionar item pela grade** | Informe.
-**Exibir botão adicionar item s/ cadastro** | Informe.
-**Receita** | Selecione.
-**Despesas** | Selecione.
-**A Receber** | Informe.
-**A Pagar** | Informe.
-**Desativar pré-filtro quando filtro form. de grid** | Informe.
-**Mostrar registro mesmo com pr-e-filtro** | Informe.
-**Sistema em atualização** | Informe.
-**Rep.Escritório** | Selecione.
+**Tipo de Desconto** | Selecione o Tipo de Desconto. Opções: por Percentual, por Valor. Por padrão, este campo é obrigatório.
+**Dias Prev. Padrão** | Informe o Dias Prev. Padrão. Por padrão, este campo é obrigatório.
+**Item s/ cadastro** | Selecione o Item s/ cadastro.
+**Prev.Entreg.Final Semana** | Informe o Prev.Entreg.Final Semana.
+**Prev. Entrega retroativa** | Informe o Prev. Entrega retroativa.
+**Exibir botão adicionar item** | Informe o Exibir botão adicionar item.
+**Exibir botão adicionar item pela grade** | Informe o Exibir botão adicionar item pela grade.
+**Exibir botão adicionar item s/ cadastro** | Informe o Exibir botão adicionar item s/ cadastro.
+**Receita** | Selecione o Receita.
+**Despesas** | Selecione o Despesas.
+**A Receber** | Informe o A Receber.
+**A Pagar** | Informe o A Pagar.
+**Desativar pré-filtro quando filtro form. de grid** | Informe o Desativar pré-filtro quando filtro form. de grid.
+**Mostrar registro mesmo com pr-e-filtro** | Informe o Mostrar registro mesmo com pr-e-filtro.
+**Sistema em atualização** | Informe o Sistema em atualização.
+**Rep.Escritório** | Selecione o Rep.Escritório.
 <br>
 <br>
 <br>

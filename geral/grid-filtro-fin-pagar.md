@@ -6,13 +6,13 @@
 
 Campo | Descrição
 --:|---
-**Fornecedor** | Selecione.
-**Cliente** | Selecione.
-**Atendente** | Selecione.
-**Comissionado** | Selecione.
-**Início** | Informe.
-**Fim** | Informe.
-**Data por** | Selecione. Opções: . Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o Fornecedor.
+**Cliente** | Selecione o Cliente.
+**Atendente** | Selecione o Atendente.
+**Comissionado** | Selecione o Comissionado.
+**Início** | Informe o Início.
+**Fim** | Informe o Fim.
+**Data por** | Selecione o Data por. Opções: Entrega / Faturamento, Fechamento, Vencimento. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

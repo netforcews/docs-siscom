@@ -6,26 +6,26 @@
 
 Campo | Descrição
 --:|---
-**Versão.Pedido** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Fornecedor** | Informe.
-**E-mail** | Informa.
-**Cliente** | Informe.
-**E-mail** | Informa.
-**Atendente** | Informe.
-**E-mail** | Informa.
-**Comissionado** | Informe.
-**E-mail** | Informa.
-**Preposto 1** | Informe.
-**E-mail** | Informa.
-**Preposto 2** | Informe.
-**E-mail** | Informa.
-**Preposto 3** | Informe.
-**E-mail** | Informa.
-**Preposto 4** | Informe.
-**E-mail** | Informe.
-**Usuário** | Informe.
-**E-mail** | Informa.
-**Outros** | Informe.
+**Versão.Pedido** | Selecione o Versão.Pedido. Opções: Normal, Para Cliente. Por padrão, este campo é obrigatório.
+**Fornecedor** | Informe o Fornecedor.
+**E-mail** | Informa o E-mail.
+**Cliente** | Informe o Cliente.
+**E-mail** | Informa o E-mail.
+**Atendente** | Informe o Atendente.
+**E-mail** | Informa o E-mail.
+**Comissionado** | Informe o Comissionado.
+**E-mail** | Informa o E-mail.
+**Preposto 1** | Informe o Preposto 1.
+**E-mail** | Informa o E-mail.
+**Preposto 2** | Informe o Preposto 2.
+**E-mail** | Informa o E-mail.
+**Preposto 3** | Informe o Preposto 3.
+**E-mail** | Informa o E-mail.
+**Preposto 4** | Informe o Preposto 4.
+**E-mail** | Informe o E-mail.
+**Usuário** | Informe o Usuário.
+**E-mail** | Informa o E-mail.
+**Outros** | Informe o Outros.
 <br>
 <br>
 <br>

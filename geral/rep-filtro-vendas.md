@@ -6,20 +6,20 @@
 
 Campo | Descrição
 --:|---
-**Fornecedor** | Selecione.
-**Atendente** | Selecione.
-**Comissionado** | Selecione.
-**Cliente** | Selecione.
-**Grupo de Cliente** | Selecione.
-**Linha de Produtos** | Selecione.
-**Início** | Informe.
-**Fim** | Informe.
-**Data por** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Estado** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Modo** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Exibir comissões se houver** | Informe.
-**Tipo Venda** | Informe.
-**Ordenar por** | Selecione. Opções: . Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o Fornecedor.
+**Atendente** | Selecione o Atendente.
+**Comissionado** | Selecione o Comissionado.
+**Cliente** | Selecione o Cliente.
+**Grupo de Cliente** | Selecione o Grupo de Cliente.
+**Linha de Produtos** | Selecione o Linha de Produtos.
+**Início** | Informe o Início.
+**Fim** | Informe o Fim.
+**Data por** | Selecione o Data por. Opções: Cancelamento, Emissão, Faturamento, Fechamento, Prev.Faturamento. Por padrão, este campo é obrigatório.
+**Estado** | Selecione o Estado. Opções: Abertos, Ambos, Cancelados, Fechados. Por padrão, este campo é obrigatório.
+**Modo** | Selecione o Modo. Opções: Ambos, Somente gráfico, Somente relatório. Por padrão, este campo é obrigatório.
+**Exibir comissões se houver** | Informe o Exibir comissões se houver.
+**Tipo Venda** | Informe o Tipo Venda.
+**Ordenar por** | Selecione o Ordenar por. Opções: Emissão, Faturamento, Número, Prev.Entrega, Prev.Faturamento. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

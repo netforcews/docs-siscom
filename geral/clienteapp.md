@@ -46,7 +46,6 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info** | Informe.
 **Meta geral** | Informe o meta geral. Por padrão, este campo é obrigatório.
 **Lim.Faturamento** | Informe o lim.faturamento.
 **Ped.em atraso** | Informe o ped.em atraso.

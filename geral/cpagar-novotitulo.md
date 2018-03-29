@@ -6,11 +6,10 @@
 
 Campo | Descrição
 --:|---
-**Info** | Informe.
-**Compromisso** | Informa. Por padrão, este campo é obrigatório.
-**Descrição** | Informe. Por padrão, este campo é obrigatório.
-**Vencimento** | Informe. Por padrão, este campo é obrigatório.
-**Valor Nominal** | Informe. Por padrão, este campo é obrigatório.
+**Compromisso** | Informa o Compromisso. Por padrão, este campo é obrigatório.
+**Descrição** | Informe o Descrição. Por padrão, este campo é obrigatório.
+**Vencimento** | Informe o Vencimento. Por padrão, este campo é obrigatório.
+**Valor Nominal** | Informe o Valor Nominal. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>
