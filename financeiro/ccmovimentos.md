@@ -25,7 +25,6 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info** | Informe.
 **Conta** | Informe o conta. Por padrão, este campo é obrigatório.
 **Conta Contábil** | Informe o conta contábil. Por padrão, este campo é obrigatório.
 **Data** | Informe o data. Por padrão, este campo é obrigatório.
