@@ -25,7 +25,6 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info** | Informe.
 **Número** | Informa o número. Por padrão, este campo é obrigatório.
 **Pedido Original** | Informe o pedido original.
 **Fornecedor** | Informe o fornecedor. Por padrão, este campo é obrigatório.
@@ -65,7 +64,6 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Itens** | Informe.
 <br>
 
 ## Observações/Informações

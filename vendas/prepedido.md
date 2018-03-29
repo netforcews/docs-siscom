@@ -24,7 +24,6 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**x** | Informe.
 **Número** | Informe o número. Por padrão, este campo é obrigatório.
 **Emissão** | Informe o emissão. Por padrão, este campo é obrigatório.
 **Cond.Pagto** | Informe o cond.pagto. Por padrão, este campo é obrigatório.

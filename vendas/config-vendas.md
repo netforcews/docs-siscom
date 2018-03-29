@@ -10,14 +10,11 @@ Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, op
 
 Campo | Descrição
 --:|---
-**Info** | Informe.
-**Perfil** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Info** | Informe.
-**Tipo** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Repres.Empresa** | Selecione. Por padrão, este campo é obrigatório.
-**Faturamento** | Informe.
-**Opção** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Excluir itens do pedido ao alterar fornecedor** | Informe.
+**Perfil** | Selecione o Perfil. Opções: Outros produtos, Têxtil. Por padrão, este campo é obrigatório.
+**Tipo** | Selecione o Tipo. Opções: Manual, Pelos responsáveis do Cliente e Fabrica. Por padrão, este campo é obrigatório.
+**Repres.Empresa** | Selecione o Repres.Empresa. Por padrão, este campo é obrigatório.
+**Opção** | Selecione o Opção. Opções: Na liquidez dos recebimentos, No faturamento. Por padrão, este campo é obrigatório.
+**Excluir itens do pedido ao alterar fornecedor** | Informe o Excluir itens do pedido ao alterar fornecedor.
 <br>
 
 ## PDF
@@ -25,18 +22,18 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Cabeçalho** | Informe.
-**Exibir canhoto comprador** | Informe.
-**Exibir previsão dos venctos das parcelas** | Informe.
-**Exibir a coleção do pedido** | Informe.
-**Exibir a linha dos itens** | Informe.
-**Exibir % de comissão** | Informe.
-**Exibir foto das referências** | Informe.
-**Exibir número do pedido no topo** | Informe.
-**Cor observação** | Informe. Por padrão, este campo é obrigatório.
-**Decimais QTD** | Informe. Por padrão, este campo é obrigatório.
-**Ordenar Itens** | Selecione. Opções: . Por padrão, este campo é obrigatório.
-**Leiaute do PDF** | Informe. Por padrão, este campo é obrigatório.
+**Cabeçalho** | Informe o Cabeçalho.
+**Exibir canhoto comprador** | Informe o Exibir canhoto comprador.
+**Exibir previsão dos venctos das parcelas** | Informe o Exibir previsão dos venctos das parcelas.
+**Exibir a coleção do pedido** | Informe o Exibir a coleção do pedido.
+**Exibir a linha dos itens** | Informe o Exibir a linha dos itens.
+**Exibir % de comissão** | Informe o Exibir % de comissão.
+**Exibir foto das referências** | Informe o Exibir foto das referências.
+**Exibir número do pedido no topo** | Informe o Exibir número do pedido no topo.
+**Cor observação** | Informe o Cor observação. Por padrão, este campo é obrigatório.
+**Decimais QTD** | Informe o Decimais QTD. Por padrão, este campo é obrigatório.
+**Ordenar Itens** | Selecione o Ordenar Itens. Opções: por Digitação, por Referência. Por padrão, este campo é obrigatório.
+**Leiaute do PDF** | Informe o Leiaute do PDF. Por padrão, este campo é obrigatório.
 <br>
 
 ## Avisos por e-mail
@@ -44,10 +41,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Info Avisos** | Informe.
-**Enviar pedido por e-mail para cliente** | Informe.
-**Enviar pedido por e-mail para fornecedor** | Informe.
-**Tempo** | Informe.
+**Enviar pedido por e-mail para cliente** | Informe o Enviar pedido por e-mail para cliente.
+**Enviar pedido por e-mail para fornecedor** | Informe o Enviar pedido por e-mail para fornecedor.
+**Tempo** | Informe o Tempo.
 <br>
 <br>
 <br>
