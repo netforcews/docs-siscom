@@ -11,8 +11,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Conta** | Informa o conta.
-**Data** | Informa o data.
+**Conta** | Informa a conta.
+**Data** | Informa a data.
 **Descrição** | Informa o descrição.
 **Documento** | Informa o documento.
 **Contra parte** | Informa o contra parte.
@@ -25,15 +25,15 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Conta** | Informe o conta. Por padrão, este campo é obrigatório.
-**Conta Contábil** | Informe o conta contábil. Por padrão, este campo é obrigatório.
-**Data** | Informe o data. Por padrão, este campo é obrigatório.
-**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
-**Documento** | Informe o documento. Por padrão, este campo é obrigatório.
-**Contra parte** | Informe o contra parte. Por padrão, este campo é obrigatório.
-**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
+**Conta** | Informa a conta. Por padrão, este campo é obrigatório.
+**Conta Contábil** | Selecione o conta contábil. Por padrão, este campo é obrigatório.
+**Data** | Informa a data. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
+**Documento** | Informa o documento. Por padrão, este campo é obrigatório.
+**Contra parte** | Informa o contra parte. Por padrão, este campo é obrigatório.
+**Valor** | Informa o valor. Por padrão, este campo é obrigatório.
 **Saldo** | Informa o saldo.
-**Saldo Empresa** | Informa o saldo empresa.
+**Saldo Empresa** | Informa a saldo empresa.
 **Saldo Geral** | Informa o saldo geral.
 <br>
 <br>

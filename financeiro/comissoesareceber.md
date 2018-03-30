@@ -11,16 +11,15 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**&nbsp;** | Informa.
-**Numero** | Informa o número.
-**Nota** | Informa o venda.
-**Faturam.** | Informa o venda.
-**Fornecedor/Sacado** | Informa o pessoa.
-**Cliente** | Informa o venda.
-**Vencto** | Informa o vencimento.
-**Valor** | Informa o saldo.
-**Pago** | Informa o valor pago.
-**Pagto** | Informa o pagamento.
+**Numero** | Informa o numero.
+**Nota** | Informa a nota.
+**Faturam.** | Informa a nota.
+**Fornecedor/Sacado** | Informa o fornecedor/sacado.
+**Cliente** | Informa a nota.
+**Vencto** | Informa o vencto.
+**Valor** | Informa o valor.
+**Pago** | Informa o pago.
+**Pagto** | Informa o pagto.
 <br>
 
 ## Geral
@@ -28,29 +27,29 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Compromisso** | Informe o compromisso. Por padrão, este campo é obrigatório.
+**Compromisso** | Informa o compromisso. Por padrão, este campo é obrigatório.
 **Situação** | Informa o situação. Opções: Aberto, Cancelado, Quitado. Por padrão, este campo é obrigatório.
-**Número** | Informa o número.
+**Número** | Informa o numero.
 **Usuário** | Informa o usuário. Por padrão, este campo é obrigatório.
-**Sacado** | Informe o pessoa. Por padrão, este campo é obrigatório.
-**Descrição** | Informe o descrição.
-**Emissão** | Informe o emissão. Por padrão, este campo é obrigatório.
+**Sacado** | Informa o fornecedor/sacado. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição.
+**Emissão** | Informa o emissão. Por padrão, este campo é obrigatório.
 **Forma de Pgto** | Informe o forma de pgto. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
-**Vencimento** | Informe o vencimento. Por padrão, este campo é obrigatório.
-**Tipo Vencimento** | Informe o tipo vencimento. Opções: Previsto, Real. Por padrão, este campo é obrigatório.
-**Conta Contábil** | Informe o conta contábil.
+**Vencimento** | Informa o vencto. Por padrão, este campo é obrigatório.
+**Tipo Vencimento** | Selecione o tipo vencimento. Opções: Previsto, Real. Por padrão, este campo é obrigatório.
+**Conta Contábil** | Selecione o conta contábil.
 **Valor Nominal** | Informe o valor nominal. Por padrão, este campo é obrigatório.
 **Valor Base** | Informa o valor base.
-**N. Parcelas** | Informe o n. parcelas. Por padrão, este campo é obrigatório.
-**Intervalo (dias)** | Informe o intervalo. Por padrão, este campo é obrigatório.
-**Parcela** | Informa o parcela.
-**Mensalidade** | Informe o mensalidade.
-**Acrescimo (+)** | Informe o valor juros.
-**Desconto (-)** | Informe o valor desconto.
+**N. Parcelas** | Informa o n. parcelas. Por padrão, este campo é obrigatório.
+**Intervalo (dias)** | Informa o intervalo (dias). Por padrão, este campo é obrigatório.
+**Parcela** | Informa a parcela.
+**Mensalidade** | Informa o mensalidade.
+**Acrescimo (+)** | Informe o acrescimo (+).
+**Desconto (-)** | Informe o desconto (-).
 **Valor Documento** | Informa o valor documento.
-**Data Receb.** | Informa o pagamento.
-**Valor Recebido** | Informa o valor pago.
-**Saldo** | Informa o saldo.
+**Data Receb.** | Informa o pagto.
+**Valor Recebido** | Informa o pago.
+**Saldo** | Informa o valor.
 **Observação** | Informe o observação.
 <br>
 
