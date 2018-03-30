@@ -20,21 +20,21 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Conta** | Informe a conta. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
+**Conta** | Informa a conta. Por padrão, este campo é obrigatório.
 **Usuário** | Informe o usuário. Por padrão, este campo é obrigatório.
 **Senha** | Informe a senha. Por padrão, este campo é obrigatório.
 **Tipo de Envio** | Selecione o tipo de envio. Opções: NetForce SES, SMTP. Por padrão, este campo é obrigatório.
-**Tipo de segurança** | Selecione o tipo de segurança.
-**Autenticar** | Selecione se deve autenticar.
-**Enviar confirmação de recebimento** | Selecione se deve receber confirmação de recebimento.
-**SMTP Servidor** | Informe o SMTP do servidor. Por padrão, este campo é obrigatório.
-**POP Servidor** | Informe o POP. Por padrão, este campo é obrigatório.
-**SMTP Porta** | Informe a porta SMTP. Por padrão, este campo é obrigatório.
-**POP Porta** | Informe a porta POP. Por padrão, este campo é obrigatório.
-**Limite/Hora** | Informe o limite por hora. Por padrão, este campo é obrigatório.
-**Última Verificação** | Informa a data e hora da última verificação pelo processo automático de envio.
-**Enviar pela conta do sistema** | Selecione para enviar pela conta de e-mail configurada para todo o sistema. Deixar desmarcado.
+**Tipo de segurança** | Selecione a tipo de segurança.
+**Autenticar** | Informe o autenticar.
+**Enviar confirmação de recebimento** | Informe o enviar confirmação de recebimento.
+**SMTP Servidor** | Informe o smtp servidor. Por padrão, este campo é obrigatório.
+**POP Servidor** | Informe o pop servidor. Por padrão, este campo é obrigatório.
+**SMTP Porta** | Informe a smtp porta. Por padrão, este campo é obrigatório.
+**POP Porta** | Informe a pop porta. Por padrão, este campo é obrigatório.
+**Limite/Hora** | Informe a limite/hora. Por padrão, este campo é obrigatório.
+**Última Verificação** | Informa o última verificação.
+**Enviar pela conta do sistema** | Informe a enviar pela conta do sistema.
 <br>
 <br>
 <br>
