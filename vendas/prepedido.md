@@ -24,16 +24,16 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | Informe o número. Por padrão, este campo é obrigatório.
-**Emissão** | Informe o emissão. Por padrão, este campo é obrigatório.
+**Número** | Informa o número. Por padrão, este campo é obrigatório.
+**Emissão** | Informa o emissão. Por padrão, este campo é obrigatório.
 **Cond.Pagto** | Informe o cond.pagto. Por padrão, este campo é obrigatório.
 **Estado** | Informa o estado. Opções: Aberto, Ag. Confirmação, Confirmado. Por padrão, este campo é obrigatório.
-**Cliente** | Informe o cliente. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informe o fornecedor. Por padrão, este campo é obrigatório.
-**Representante** | Informe o representante. Por padrão, este campo é obrigatório.
-**% Comissão** | Informe o comissão. Por padrão, este campo é obrigatório.
+**Cliente** | Informa o cliente. Por padrão, este campo é obrigatório.
+**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
+**Representante** | Selecione o representante. Por padrão, este campo é obrigatório.
+**% Comissão** | Informe o % comissão. Por padrão, este campo é obrigatório.
 **Redespacho** | Informe o redespacho.
-**Frete** | Informe o frete. Opções: Destinatário (FOB) , Emitente (CIF) . Por padrão, este campo é obrigatório.
+**Frete** | Selecione o frete. Opções: Destinatário (FOB) , Emitente (CIF) . Por padrão, este campo é obrigatório.
 **Itens** | Informe o itens.
 **Valor Total** | Informa o valor total.
 **Observação** | Informe o observação.
@@ -44,14 +44,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Empresa** | Informe o empresa.
-**Prev.Entrega** | Informe o prev.entrega.
-**Cliente** | Informe o cliente.
-**Fornecedor** | Informe o fornecedor.
-**Cond.Pagto** | Informe o cond.pagto.
-**Redespacho** | Informe o redespacho.
+**Empresa** | Selecione a empresa.
+**Prev.Entrega** | Informe a prev.entrega.
+**Cliente** | Selecione o cliente.
+**Fornecedor** | Selecione o fornecedor.
+**Cond.Pagto** | Selecione o cond.pagto.
+**Redespacho** | Selecione o redespacho.
 **Forma.Pagto** | Informe o forma.pagto.
-**Tipo Venda** | Informe o tipo venda.
+**Tipo Venda** | Informe a tipo venda.
 **% Esc.Comissão** | Informe o % esc.comissão.
 <br>
 

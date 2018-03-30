@@ -16,8 +16,8 @@ Campo | Descrição
 **Cliente** | Informa o cliente.
 **Fornecedor** | Informa o fornecedor.
 **Valor Total** | Informa o valor total.
-**Qtdade** | Informa o qtdade total.
-**Ped.Orig.** | Informa o pedido original.
+**Qtdade** | Informa o qtdade.
+**Ped.Orig.** | Informa o ped.orig..
 <br>
 
 ## Geral
@@ -26,37 +26,37 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Número** | Informa o número. Por padrão, este campo é obrigatório.
-**Pedido Original** | Informe o pedido original.
-**Fornecedor** | Informe o fornecedor. Por padrão, este campo é obrigatório.
+**Pedido Original** | Informa o ped.orig..
+**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
 **Estado** | Informa o estado. Opções: Aberto, Cancelado, Faturado e Entregue, Fechado. Por padrão, este campo é obrigatório.
-**Cliente** | Informe o cliente. Por padrão, este campo é obrigatório.
-**Contato** | Informe o cliente contato.
-**Atendente** | Informe o atendente. Por padrão, este campo é obrigatório.
-**Empresa** | Informa o empresa. Por padrão, este campo é obrigatório.
+**Cliente** | Informa o cliente. Por padrão, este campo é obrigatório.
+**Contato** | Informe o contato.
+**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório.
+**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório.
 **Emissão** | Informa o emissão.
-**Prev.Entrega** | Informe o prev.entrega.
-**Cond.Pagto** | Informe o condição de pagamento. Por padrão, este campo é obrigatório.
+**Prev.Entrega** | Informe a prev.entrega.
+**Cond.Pagto** | Selecione o cond.pagto. Por padrão, este campo é obrigatório.
 **Forma Pagto** | Informe o forma pagto. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
-**Tipo Venda** | Informe o tipo venda. Opções: Coleção, Desenvolvimento, Exportação, Saldo. Por padrão, este campo é obrigatório.
+**Tipo Venda** | Informe a tipo venda. Opções: Coleção, Desenvolvimento, Exportação, Saldo. Por padrão, este campo é obrigatório.
 **Tipo Faturamento** | Informe o tipo faturamento. Opções: Normal, VOL. Por padrão, este campo é obrigatório.
 **Validade** | Informe o validade.
-**Transportadora** | Informe o transportadora.
-**Frete** | Informe o frete.
-**Redespacho** | Informe o redespacho.
-**Frete Red.** | Informe o frete red..
-**Qtdade Total** | Informa o qtdade total.
+**Transportadora** | Selecione a transportadora.
+**Frete** | Selecione o frete.
+**Redespacho** | Selecione o redespacho.
+**Frete Red.** | Selecione o frete red..
+**Qtdade Total** | Informa o qtdade.
 **Valor Itens** | Informa o valor itens.
 **Valor Frete** | Informe o valor frete.
 **% ICMS** | Informe o % icms.
 **Valor Total** | Informa o valor total.
 **Comissão Total** | Informa o comissão total.
 **Valor total c/ IPI** | Informa o valor total c/ ipi.
-**% Comercial** | Informe o % desc.comercial.
-**Valor Comercial** | Informa o val.desc.comercial.
-**% Financeiro** | Informe o % desc.financeiro.
-**Valor Financeiro** | Informa o val.desc.financeiro.
-**% Geral** | Informe o % desconto.
-**Valor Geral** | Informe o valor desconto.
+**% Comercial** | Informe o % comercial.
+**Valor Comercial** | Informa o valor comercial.
+**% Financeiro** | Informe o % financeiro.
+**Valor Financeiro** | Informa o valor financeiro.
+**% Geral** | Informe o % geral.
+**Valor Geral** | Informe o valor geral.
 <br>
 
 ## Itens
