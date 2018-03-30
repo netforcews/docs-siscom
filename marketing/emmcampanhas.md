@@ -21,12 +21,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Título** | Informe o título. Por padrão, este campo é obrigatório.
+**Título** | Informa o título. Por padrão, este campo é obrigatório.
 **Situação** | Informa o situação. Opções: Aguardando Envio, Concluído, Edição, Enviando. Por padrão, este campo é obrigatório.
 **Inclusão** | Informa o inclusão.
-**Contexto** | Informe o contexto. Por padrão, este campo é obrigatório.
-**Conta** | Informe o conta. Por padrão, este campo é obrigatório.
-**Estilo** | Informe o estilo. Por padrão, este campo é obrigatório.
+**Contexto** | Selecione o contexto. Por padrão, este campo é obrigatório.
+**Conta** | Selecione a conta. Por padrão, este campo é obrigatório.
+**Estilo** | Selecione o estilo. Por padrão, este campo é obrigatório.
 **Agendamento** | Informe o agendamento.
 **Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
 **Texto** | Informe o texto. Por padrão, este campo é obrigatório.
@@ -46,11 +46,11 @@ Campo | Descrição
 **Cliente** | Informe o cliente.
 **Fornecedor** | Informe o fornecedor.
 **Representante** | Informe o representante.
-**Atribuições dos Contatos** | Informe. Por padrão, este campo é obrigatório.
-**Situações da Pessoa** | Informe.
-**Linhas de Produtos** | Informe.
-**Estados** | Informe.
-**Regiões de Venda** | Informe.
+**Atribuições dos Contatos** | Informe o atribuições dos contatos. Por padrão, este campo é obrigatório.
+**Situações da Pessoa** | Informe a situações da pessoa.
+**Linhas de Produtos** | Informe o linhas de produtos.
+**Estados** | Informe o estados.
+**Regiões de Venda** | Informe a regiões de venda.
 <br>
 
 ## Comandos
