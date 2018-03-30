@@ -6,12 +6,12 @@
 
 Campo | Descrição
 --:|---
-**Data Pagto** | Informe o Data Pagto. Por padrão, este campo é obrigatório.
-**Valor Pago** | Informe o Valor Pago. Por padrão, este campo é obrigatório.
-**Conta** | Selecione o Conta. Por padrão, este campo é obrigatório.
-**Conta Contábil** | Selecione o Conta Contábil. Por padrão, este campo é obrigatório.
-**Observação** | Informe o Observação.
-**Baixar proporcional** | Informe o Baixar proporcional.
+**Data Pagto** | Informe a data de pagamento. Por padrão, este campo é obrigatório.
+**Valor Pago** | Informe o valor pago. Por padrão, este campo é obrigatório.
+**Conta** | Selecione a conta. Por padrão, este campo é obrigatório.
+**Conta Contábil** | Selecione a conta contábil. Por padrão, este campo é obrigatório.
+**Observação** | Informe a observação.
+**Baixar proporcional** | Informe a baixa proporcional.
 <br>
 <br>
 <br>

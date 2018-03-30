@@ -17,10 +17,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Cor** | Informe o cor. Por padrão, este campo é obrigatório.
-**URL** | Informe o url. Por padrão, este campo é obrigatório.
-**Tipo** | Informe o tipo. Opções: ICAL, XML. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
+**Cor** | Informa o cor. Por padrão, este campo é obrigatório.
+**URL** | Informa o url. Por padrão, este campo é obrigatório.
+**Tipo** | Selecione o tipo. Opções: ICAL, XML. Por padrão, este campo é obrigatório.
 **Ativo** | Informe o ativo.
 <br>
 <br>

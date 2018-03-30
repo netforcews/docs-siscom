@@ -7,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ord** | Informa o ordem.
+**Ord** | Informa o ord.
 **Nome** | Informa o nome.
 **Interface** | Informa o interface.
-**Prão** | Informa o assumir como padrão.
+**Prão** | Informa o prão.
 <br>
 
 ## Geral
@@ -18,25 +18,25 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Interface** | Informe o interface.
-**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
-**Assumir como padrão** | Informe o assumir como padrão.
-**Campo** | Informe o campo1. Por padrão, este campo é obrigatório.
-**Operador** | Informe o operador1. Opções: Contém, Diferente, É Nulo, Igual, Inicia com, Maior, Maior e Igual, Menor, Menor e Igual, Não é Nulo, Termina com. Por padrão, este campo é obrigatório.
-**Valor** | Informe o valor1. Por padrão, este campo é obrigatório.
-**Campo** | Informe o campo2.
-**Operador** | Informe o operador2.
-**Valor** | Informe o valor2.
-**Campo** | Informe o campo3.
-**Operador** | Informe o operador3.
-**Valor** | Informe o valor3.
-**Campo** | Informe o campo4.
-**Operador** | Informe o operador4.
-**Valor** | Informe o valor4.
-**Campo** | Informe o campo5.
-**Operador** | Informe o operador5.
-**Valor** | Informe o valor5.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
+**Interface** | Informa o interface.
+**Ordem** | Informa o ord. Por padrão, este campo é obrigatório.
+**Assumir como padrão** | Informa o prão.
+**Campo** | Selecione o campo. Por padrão, este campo é obrigatório.
+**Operador** | Selecione o operador. Opções: Contém, Diferente, É Nulo, Igual, Inicia com, Maior, Maior e Igual, Menor, Menor e Igual, Não é Nulo, Termina com. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
+**Campo** | Selecione o campo.
+**Operador** | Selecione o operador.
+**Valor** | Informe o valor.
+**Campo** | Selecione o campo.
+**Operador** | Selecione o operador.
+**Valor** | Informe o valor.
+**Campo** | Selecione o campo.
+**Operador** | Selecione o operador.
+**Valor** | Informe o valor.
+**Campo** | Selecione o campo.
+**Operador** | Selecione o operador.
+**Valor** | Informe o valor.
 **Ordenação** | Informe o ordenação.
 <br>
 

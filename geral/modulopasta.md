@@ -11,7 +11,7 @@ Campo | Descrição
 **Agrupador** | Informa o agrupador.
 **Nome** | Informa o nome.
 **Interface** | Informa o interface.
-**Atv** | Informa o ativo.
+**Atv** | Informa o atv.
 <br>
 
 ## Geral
@@ -19,13 +19,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
-**Agrupador** | Informe o agrupador. Por padrão, este campo é obrigatório.
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Interface** | Informe o interface. Por padrão, este campo é obrigatório.
-**Visão** | Informe o visão. Opções: Formulário, Grid. Por padrão, este campo é obrigatório.
+**Ordem** | Informa o ordem. Por padrão, este campo é obrigatório.
+**Agrupador** | Informa o agrupador. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
+**Interface** | Informa o interface. Por padrão, este campo é obrigatório.
+**Visão** | Selecione o visão. Opções: Formulário, Grid. Por padrão, este campo é obrigatório.
 **Codigointerno** | Informe o codigointerno.
-**Ativo** | Informe o ativo.
+**Ativo** | Informa o atv.
 <br>
 
 ## Comandos

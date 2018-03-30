@@ -7,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Coluna** | Informa o coluna.
+**Coluna** | Informa a coluna.
 **Ordem** | Informa o ordem.
 **Objeto** | Informa o objeto.
 <br>
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Coluna** | Informe o coluna. Opções: 1 Coluna, 2 Colunas, 3 Colunas. Por padrão, este campo é obrigatório.
-**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
-**Objeto** | Informe o objeto. Por padrão, este campo é obrigatório.
+**Coluna** | Informa a coluna. Opções: 1 Coluna, 2 Colunas, 3 Colunas. Por padrão, este campo é obrigatório.
+**Ordem** | Informa o ordem. Por padrão, este campo é obrigatório.
+**Objeto** | Informa o objeto. Por padrão, este campo é obrigatório.
 **Parâmetros** | Informe o parâmetros.
 <br>
 <br>

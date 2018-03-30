@@ -7,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**De** | Informa quem enviou.
-**Para** | Informa para quem foi enviado.
+**De** | Informa o de.
+**Para** | Informa a para.
 **Assunto** | Informa o assunto.
-**Data** | Informa a data de cadastro..
+**Data** | Informa a data.
 <br>
 
 ## E-mail
@@ -19,12 +19,12 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Assunto** | Informa o assunto. Por padrão, este campo é obrigatório.
-**De** | Informa quem enviou.
-**Data** | Informa a data de cadastro..
-**Para** | Informa para quem foi enviado.
-**Para CC** | Informa para quem foi enviado com cópia.
-**Resp.Para** | Informa para quem será a resposta.
-**Texto** | Informa o texto.
+**De** | Informa o de.
+**Data** | Informa a data.
+**Para** | Informa a para.
+**Para CC** | Informe o para cc.
+**Resp.Para** | Informe a resp.para.
+**Texto** | Informe o texto.
 <br>
 
 ## Links

@@ -6,8 +6,8 @@
 
 Campo | Descrição
 --:|---
-**Referência** | Informa o Referência. Por padrão, este campo é obrigatório.
-**Código** | Informe o Código.
+**Referência** | Informa a referência. Por padrão, este campo é obrigatório.
+**Código** | Informe o código.
 <br>
 <br>
 <br>

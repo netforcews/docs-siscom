@@ -9,7 +9,7 @@ Campo | Descrição
 --:|---
 **Identificação** | Informa o identificação.
 **Arquivo** | Informa o arquivo.
-**C.A.** | Informa o como anexo.
+**C.A.** | Informa o c.a..
 <br>
 
 ## Geral
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Identificação** | Informe o identificação. Por padrão, este campo é obrigatório.
-**Arquivo** | Informe o arquivo. Por padrão, este campo é obrigatório.
-**Como Anexo** | Informe o como anexo.
+**Identificação** | Informa o identificação. Por padrão, este campo é obrigatório.
+**Arquivo** | Informa o arquivo. Por padrão, este campo é obrigatório.
+**Como Anexo** | Informa o c.a..
 <br>
 <br>
 <br>

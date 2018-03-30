@@ -6,23 +6,23 @@
 
 Campo | Descrição
 --:|---
-**Número** | Informa o Número.
-**Emissão** | Informa o Emissão.
-**Pessoa** | Informa o Pessoa.
-**Descrição** | Informa o Descrição.
-**Vencimento** | Informa o Vencimento.
-**Valor Nominal** | Informa o Valor Nominal.
-**Juros Diário** | Informa o Juros Diário.
-**Acréscimo (+)** | Informe o Acréscimo (+).
-**Desconto (-)** | Informe o Desconto (-).
-**Valor Documento** | Informa o Valor Documento.
-**Valor Pago** | Informa o Valor Pago.
-**Saldo** | Informa o Saldo.
-**Conta** | Selecione o Conta.
-**Conta Contábil** | Selecione o Conta Contábil. Por padrão, este campo é obrigatório.
-**Data Pagto** | Informe o Data Pagto. Por padrão, este campo é obrigatório.
-**Valor** | Informe o Valor. Por padrão, este campo é obrigatório.
-**Observação** | Informe o Observação.
+**Número** | Informa o número.
+**Emissão** | Informa a emissão.
+**Pessoa** | Informa a pessoa.
+**Descrição** | Informa a descrição.
+**Vencimento** | Informa o vencimento.
+**Valor Nominal** | Informa o valor nominal.
+**Juros Diário** | Informa o juros diário.
+**Acréscimo (+)** | Informe o acréscimo.
+**Desconto (-)** | Informe o desconto.
+**Valor Documento** | Informa o valor documento.
+**Valor Pago** | Informa o valor pago.
+**Saldo** | Informa o saldo.
+**Conta** | Selecione a conta.
+**Conta Contábil** | Selecione a conta contábil. Por padrão, este campo é obrigatório.
+**Data Pagto** | Informe a data de pagamento. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
+**Observação** | Informe a observação.
 <br>
 <br>
 <br>

@@ -6,8 +6,8 @@
 
 Campo | Descrição
 --:|---
-**Ano** | Informe o Ano. Por padrão, este campo é obrigatório.
-**Sacado** | Selecione o Sacado.
+**Ano** | Informe o ano. Por padrão, este campo é obrigatório.
+**Sacado** | Selecione o sacado.
 <br>
 <br>
 <br>

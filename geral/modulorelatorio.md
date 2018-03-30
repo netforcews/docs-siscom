@@ -10,7 +10,7 @@ Campo | Descrição
 **Agrupador** | Informa o agrupador.
 **Ordem** | Informa o ordem.
 **Relatório** | Informa o relatório.
-**Atv** | Informa o ativo.
+**Atv** | Informa o atv.
 <br>
 
 ## Geral
@@ -18,10 +18,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Agrupador** | Informe o agrupador. Por padrão, este campo é obrigatório.
-**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
-**Relatório** | Informe o relatório. Por padrão, este campo é obrigatório.
-**Ativo** | Informe o ativo.
+**Agrupador** | Informa o agrupador. Por padrão, este campo é obrigatório.
+**Ordem** | Informa o ordem. Por padrão, este campo é obrigatório.
+**Relatório** | Informa o relatório. Por padrão, este campo é obrigatório.
+**Ativo** | Informa o atv.
 <br>
 <br>
 <br>

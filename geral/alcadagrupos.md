@@ -15,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Grupo** | Informe o grupo. Por padrão, este campo é obrigatório.
+**Grupo** | Informa o grupo. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

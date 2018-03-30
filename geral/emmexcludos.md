@@ -7,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | Informa o data.
-**Pessoa** | Informa o pessoa.
-**Campanha** | Informa o campanha.
+**Data** | Informa a data.
+**Pessoa** | Informa a pessoa.
+**Campanha** | Informa a campanha.
 <br>
 
 ## Geral
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Pessoa** | Informe o pessoa. Por padrão, este campo é obrigatório.
-**Campanha** | Informe o campanha. Por padrão, este campo é obrigatório.
-**Data** | Informa o data. Por padrão, este campo é obrigatório.
+**Pessoa** | Informa a pessoa. Por padrão, este campo é obrigatório.
+**Campanha** | Informa a campanha. Por padrão, este campo é obrigatório.
+**Data** | Informa a data. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

@@ -7,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | Informa o marca.
+**Marca** | Informa a marca.
 **Nome** | Informa o nome.
 **Código** | Informa o código.
 <br>
@@ -17,14 +17,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe o código. Por padrão, este campo é obrigatório.
-**Marca** | Informe o marca. Por padrão, este campo é obrigatório.
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Código** | Informa o código. Por padrão, este campo é obrigatório.
+**Marca** | Informa a marca. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
 **Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
 **Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
 **CEP** | Informe o cep. Por padrão, este campo é obrigatório.
-**Estado** | Informe o estado. Por padrão, este campo é obrigatório.
-**Município** | Informe o município. Por padrão, este campo é obrigatório.
+**Estado** | Selecione o estado. Por padrão, este campo é obrigatório.
+**Município** | Selecione o município. Por padrão, este campo é obrigatório.
 **Telefone** | Informe o telefone. Por padrão, este campo é obrigatório.
 **Fax** | Informe o fax.
 **E-mail** | Informe o e-mail.

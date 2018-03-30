@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Título** | Informe o título. Por padrão, este campo é obrigatório.
-**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
-**Permissão** | Informe o permissão. Opções: Inativo, Privado, Público, Somente público. Por padrão, este campo é obrigatório.
+**Título** | Informa o título. Por padrão, este campo é obrigatório.
+**Ordem** | Informa o ordem. Por padrão, este campo é obrigatório.
+**Permissão** | Informa o permissão. Opções: Inativo, Privado, Público, Somente público. Por padrão, este campo é obrigatório.
 **Texto** | Informe o texto.
 <br>
 <br>

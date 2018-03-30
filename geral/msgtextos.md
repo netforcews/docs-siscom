@@ -15,10 +15,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Dialogo** | Informe o dialogo. Por padrão, este campo é obrigatório.
-**Usuário** | Informe o usuário. Por padrão, este campo é obrigatório.
-**Data** | Informe o data. Por padrão, este campo é obrigatório.
-**Texto** | Informe o texto. Por padrão, este campo é obrigatório.
+**Dialogo** | Selecione o dialogo. Por padrão, este campo é obrigatório.
+**Usuário** | Selecione o usuário. Por padrão, este campo é obrigatório.
+**Data** | Informe a data. Por padrão, este campo é obrigatório.
+**Texto** | Informa o texto. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

@@ -15,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Filial** | Informe o filial. Por padrão, este campo é obrigatório.
+**Filial** | Informa o filial. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

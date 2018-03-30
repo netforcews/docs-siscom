@@ -6,9 +6,9 @@
 
 Campo | Descrição
 --:|---
-**Cliente** | Selecione o Cliente.
-**Fornecedor** | Selecione o Fornecedor.
-**Atendente** | Selecione o Atendente.
+**Cliente** | Selecione o cliente.
+**Fornecedor** | Selecione o fornecedor.
+**Atendente** | Selecione o atendente.
 <br>
 <br>
 <br>

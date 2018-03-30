@@ -8,7 +8,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Nome** | Informa o nome.
-**Proprietário** | Informa o usuário proprietário.
+**Proprietário** | Informa o proprietário.
 **Alias** | Informa o alias.
 <br>
 
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Alias** | Informe o alias. Por padrão, este campo é obrigatório.
-**Proprietário** | Informe o usuário proprietário.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
+**Alias** | Informa o alias. Por padrão, este campo é obrigatório.
+**Proprietário** | Informa o proprietário.
 **CNPJ/CPF** | Informe o cnpj/cpf.
 **IE** | Informe o ie.
 **Logradouro** | Informe o logradouro.
@@ -27,17 +27,17 @@ Campo | Descrição
 **Complemento** | Informe o complemento.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o cep.
-**Estado** | Informe o estado.
-**Município** | Informe o município.
+**Estado** | Selecione o estado.
+**Município** | Selecione o município.
 **DDD** | Informe o ddd.
 **Telefone** | Informe o telefone.
 **Celular** | Informe o celular.
 **E-mail** | Informe o e-mail.
 **WebSite** | Informe o website.
-**Q.Usuários** | Informe o qtdade usuários.
-**Q.Vendedores** | Informe o qtdade vendedores.
-**Q.Representadas** | Informe o qtdade representadas.
-**Q.Clientes** | Informe o qtdade clientes.
+**Q.Usuários** | Informe o q.usuários.
+**Q.Vendedores** | Informe o q.vendedores.
+**Q.Representadas** | Informe o q.representadas.
+**Q.Clientes** | Informe o q.clientes.
 **Ativo** | Informe o ativo.
 <br>
 
@@ -49,12 +49,12 @@ Campo | Descrição
 **Meta geral** | Informe o meta geral. Por padrão, este campo é obrigatório.
 **Lim.Faturamento** | Informe o lim.faturamento.
 **Ped.em atraso** | Informe o ped.em atraso.
-**Prev.Entrega** | Informe o prev.entrega.
+**Prev.Entrega** | Informe a prev.entrega.
 **Desconto somente com aprovação** | Informe o desconto somente com aprovação.
-**Informar desconto** | Informe o informar desconto. Opções: Em Percentual, Em Valor. Por padrão, este campo é obrigatório.
-**Perminit previsão de entraga para finais de semana** | Informe o permite previsão de entrega para finais de semana.
-**Receita** | Informe o receita. Por padrão, este campo é obrigatório.
-**Despesa** | Informe o despesa. Por padrão, este campo é obrigatório.
+**Informar desconto** | Selecione o informar desconto. Opções: Em Percentual, Em Valor. Por padrão, este campo é obrigatório.
+**Perminit previsão de entraga para finais de semana** | Informe a perminit previsão de entraga para finais de semana.
+**Receita** | Selecione a receita. Por padrão, este campo é obrigatório.
+**Despesa** | Selecione a despesa. Por padrão, este campo é obrigatório.
 **A Receber** | Informe o a receber. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 **A Pagar** | Informe o a pagar. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 <br>

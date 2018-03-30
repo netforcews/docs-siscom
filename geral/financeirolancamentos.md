@@ -7,8 +7,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | Informa o data.
-**Conta** | Informa o conta.
+**Data** | Informa a data.
+**Conta** | Informa a conta.
 **Valor** | Informa o valor.
 **Observação** | Informa o observação.
 <br>
@@ -18,10 +18,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Data** | Informe o data. Por padrão, este campo é obrigatório.
-**Conta** | Informe o conta. Por padrão, este campo é obrigatório.
-**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
-**Observação** | Informe o observação.
+**Data** | Informa a data. Por padrão, este campo é obrigatório.
+**Conta** | Informa a conta. Por padrão, este campo é obrigatório.
+**Valor** | Informa o valor. Por padrão, este campo é obrigatório.
+**Observação** | Informa o observação.
 <br>
 <br>
 <br>

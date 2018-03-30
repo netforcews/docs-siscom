@@ -15,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
+**Assunto** | Informa o assunto. Por padrão, este campo é obrigatório.
 **Atualização** | Informe o atualização. Por padrão, este campo é obrigatório.
 <br>
 <br>
