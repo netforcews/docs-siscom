@@ -13,7 +13,7 @@ Campo | Descrição
 --:|---
 **Símbolo** | Informa o símbolo.
 **Descrição** | Informa o descrição.
-**P.Fra** | Informa o permite fracionar.
+**P.Fra** | Informa a p.fra.
 <br>
 
 ## Geral
@@ -21,9 +21,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Símbolo** | Informe o símbolo. Por padrão, este campo é obrigatório.
-**Permite Fracionar** | Informe o permite fracionar.
-**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
+**Símbolo** | Informa o símbolo. Por padrão, este campo é obrigatório.
+**Permite Fracionar** | Informa a p.fra.
+**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

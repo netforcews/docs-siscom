@@ -20,8 +20,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe o código. Por padrão, este campo é obrigatório.
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Código** | Informa o código. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

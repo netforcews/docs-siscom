@@ -11,7 +11,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Sigla** | Informa o sigla.
+**Sigla** | Informa a sigla.
 **Nome** | Informa o nome.
 **Região** | Informa o região.
 **Código** | Informa o código.
@@ -22,11 +22,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Sigla** | Informe o sigla. Por padrão, este campo é obrigatório.
-**Código** | Informe o código. Por padrão, este campo é obrigatório.
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**% ICMS** | Informe o pericms.
-**Região** | Informe o região. Por padrão, este campo é obrigatório.
+**Sigla** | Informa a sigla. Por padrão, este campo é obrigatório.
+**Código** | Informa o código. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
+**% ICMS** | Informe o % icms.
+**Região** | Informa o região. Por padrão, este campo é obrigatório.
 **DDD** | Informe o ddd. Por padrão, este campo é obrigatório.
 **CEP Ini** | Informe o cep ini. Por padrão, este campo é obrigatório.
 **CEP Fim** | Informe o cep fim. Por padrão, este campo é obrigatório.

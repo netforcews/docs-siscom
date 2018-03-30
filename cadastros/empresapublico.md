@@ -11,7 +11,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | Informa o marca.
+**Marca** | Informa a marca.
 **Nome** | Informa o nome.
 **CNPJ** | Informa o cnpj.
 **Código** | Informa o código.
@@ -22,19 +22,19 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Marca** | Informe o marca. Por padrão, este campo é obrigatório.
-**Código** | Informe o código. Por padrão, este campo é obrigatório.
-**CNPJ** | Informe o cnpj. Por padrão, este campo é obrigatório.
-**Insc.Estadual** | Informe o ie.
-**Insc.Municipal** | Informe o im.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
+**Marca** | Informa a marca. Por padrão, este campo é obrigatório.
+**Código** | Informa o código. Por padrão, este campo é obrigatório.
+**CNPJ** | Informa o cnpj. Por padrão, este campo é obrigatório.
+**Insc.Estadual** | Informe o insc.estadual.
+**Insc.Municipal** | Informe o insc.municipal.
 **Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
 **Número** | Informe o número. Por padrão, este campo é obrigatório.
 **Complemento** | Informe o complemento.
 **Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
 **CEP** | Informe o cep. Por padrão, este campo é obrigatório.
-**Estado** | Informe o estado. Por padrão, este campo é obrigatório.
-**Múnicípio** | Informe o múnicípio. Por padrão, este campo é obrigatório.
+**Estado** | Selecione o estado. Por padrão, este campo é obrigatório.
+**Múnicípio** | Selecione o múnicípio. Por padrão, este campo é obrigatório.
 **DDD** | Informe o ddd. Por padrão, este campo é obrigatório.
 **Telefone** | Informe o telefone. Por padrão, este campo é obrigatório.
 **Fax** | Informe o fax.

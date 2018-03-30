@@ -20,7 +20,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Código** | Informa o código. Por padrão, este campo é obrigatório.
 **Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
 **Tam1** | Informe o tam1. Por padrão, este campo é obrigatório.
 **Qtd1** | Informe o qtd1. Por padrão, este campo é obrigatório.

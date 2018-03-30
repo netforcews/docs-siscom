@@ -60,7 +60,7 @@ Campo | Descrição
 **Região Venda** | Informe a região de venda.
 **Suframa** | Informe o suframa.
 **Crédito** | Informe o crédito.
-**Ultima Compra** | Informa data da última compra.
+**Ultima Compra** | Informa a data da última compra.
 **Condição Pagto** | Informe a condição de pagamento padrão.
 **Forma Pagto** | Informe a forma de pagamento padrão.
 **Frete** | Informe o frete padrão.
@@ -71,12 +71,12 @@ Campo | Descrição
 **Pedido mínimo** | Informe o pedido mínimo.
 **Comissão Padrão** | Informe a comissão padrão.
 **Core** | Informe o core.
-**Meta.Fat.** | Informe o meta.fat..
-**Meta.Comiss.** | Informe o meta.comiss..
+**Meta.Fat.** | Informe a meta de faturamento.
+**Meta.Comiss.** | Informe a meta de comissão.
 **Aviso de Faturamento** | Informe o aviso de faturamento.
-**Aviso de Pedidos Atrasados** | Informe o aviso de pedidos atrasados.
-**Aviso de previsão dos pedidos** | Informe o aviso de previsão dos pedidos.
-**Avisos de administrador** | Informe o avisos de administrador.
+**Aviso de Pedidos Atrasados** | Informe se deve enviar aviso de pedidos atrasados.
+**Aviso de previsão dos pedidos** | Informe se deve avisar previsão dos pedidos.
+**Avisos de administrador** | Informe se deve avisar  avisos de administrador.
 **CC (Receita)** | Informe a conta contábil de receita.
 **CC (Despesa)** | Informe a conta contábil de despesa.
 **Cliente** | Selecione se a pessoa é um cliente.
@@ -95,16 +95,16 @@ Campo | Descrição
 --:|---
 **Fundação** | Informe o ano de fundação da empresa.
 **Cap.Produtiva** | Informe a capacidade produtiva da empresa.
-**Especialização** | Informe o especialização.
+**Especialização** | Informe a especialização.
 **Núm.Colaboradores** | Informe o número de colaboradores da empresa.
-**Estrutura Interna** | Informe o estrutura interna.
-**Terceriza** | Informe o terceriza.
+**Estrutura Interna** | Informe a estrutura interna.
+**Terceriza** | Informe se terceriza.
 **Área total (m2)** | Informe a área total da empresa.
 **Observações** | Informe uma observação.
-**Última alteração** | Informa o última alteração.
-**Linha de Produtos** | Informe. Por padrão, este campo é obrigatório.
-**Certificados** | Informe.
-**Tipos de produção** | Informe. Por padrão, este campo é obrigatório.
+**Última alteração** | Informa a última alteração.
+**Linha de Produtos** | Informe o linha de produtos. Por padrão, este campo é obrigatório.
+**Certificados** | Informe o certificados.
+**Tipos de produção** | Informe o tipos de produção. Por padrão, este campo é obrigatório.
 <br>
 
 ## Outros Endereços
@@ -119,7 +119,7 @@ Campo | Descrição
 **CEP** | Informe o CEP.
 **Estado** | Informe o estado.
 **Município** | Informe o município.
-**CNPJ** | Informe o cnpj.
+**CNPJ** | Informe o CNPJ.
 **IE** | Informe a Inscrição Estadual.
 **Telefone** | Informe o telefone.
 **Fax** | Informe o fax.
@@ -141,7 +141,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Observação** | Informe uma observação.
-**Informações** | Informe o informações.
+**Informações** | Informe informações.
 **Obs. do Pedido** | Informe uma observação.
 <br>
 
@@ -150,7 +150,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Localização** | Informe o localização.
+**Localização** | Informe a localização.
 <br>
 
 ## Logo

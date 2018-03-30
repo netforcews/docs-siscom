@@ -20,8 +20,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informe o fornecedor.
+**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
+**Fornecedor** | Informa o fornecedor.
 <br>
 <br>
 <br>

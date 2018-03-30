@@ -19,7 +19,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
 **Descrição** | Informe o descrição.
 <br>
 <br>

@@ -20,8 +20,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
-**Ativo** | Informe o ativo. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
+**Ativo** | Informa o ativo. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

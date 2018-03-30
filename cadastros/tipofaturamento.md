@@ -19,11 +19,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
 **% Faturamento** | Informe o % faturamento.
-**Data do Fatur.** | Informe o data do faturamento. Opções: Faturamento, Mês subsequente ao faturamento, Primeira parcela, Última parcela. Por padrão, este campo é obrigatório.
+**Data do Fatur.** | Selecione o data do fatur.. Opções: Faturamento, Mês subsequente ao faturamento, Primeira parcela, Última parcela. Por padrão, este campo é obrigatório.
 **% Liquidez Parcs.** | Informe o % liquidez parcs..
-**Data das Parcs** | Informe o data das parcs. Opções: Parcelas, Última parcela. Por padrão, este campo é obrigatório.
+**Data das Parcs** | Selecione o data das parcs. Opções: Parcelas, Última parcela. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>
