@@ -11,12 +11,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Referência** | Informa o referência.
+**Referência** | Informa a referência.
 **Descrição** | Informa o descrição.
-**Un** | Informa o unidade.
+**Un** | Informa o un.
 **Valor** | Informa o valor.
 **Fornecedor** | Informa o fornecedor.
-**Lista** | Informa o lista.
+**Lista** | Informa a lista.
 **Situação** | Informa o situação.
 <br>
 
@@ -25,17 +25,17 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe o referência. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informe o fornecedor. Por padrão, este campo é obrigatório.
-**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
+**Código** | Informa a referência. Por padrão, este campo é obrigatório.
+**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
+**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
 **Descrição2** | Informe o descrição2.
-**Unidade** | Informe o unidade. Por padrão, este campo é obrigatório.
-**Linha** | Informe o linha.
-**Lista de produto** | Informe o lista. Por padrão, este campo é obrigatório.
-**Situação** | Informe o situação. Opções: Ativo, Fora de linha. Por padrão, este campo é obrigatório.
+**Unidade** | Informa o un. Por padrão, este campo é obrigatório.
+**Linha** | Selecione a linha.
+**Lista de produto** | Informa a lista. Por padrão, este campo é obrigatório.
+**Situação** | Informa o situação. Opções: Ativo, Fora de linha. Por padrão, este campo é obrigatório.
 **Valor Custo** | Informe o valor custo.
-**Valor Venda** | Informe o valor.
-**% IPI** | Informe o ipi.
+**Valor Venda** | Informa o valor.
+**% IPI** | Informe o % ipi.
 **Observação** | Informe o observação.
 <br>
 

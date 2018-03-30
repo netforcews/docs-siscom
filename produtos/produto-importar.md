@@ -10,11 +10,11 @@ Para acessar esta opção, selecione o módulo **Produtos**, opção **Geral**, 
 
 Campo | Descrição
 --:|---
-**Fornecedor** | Selecione o Fornecedor. Por padrão, este campo é obrigatório.
-**Lista de produtos** | Selecione o Lista de produtos. Por padrão, este campo é obrigatório.
-**Já cadastrado** | Selecione o Já cadastrado. Opções: Atualizar, Gerar erro, Ignorar. Por padrão, este campo é obrigatório.
-**Linha de produto** | Selecione o Linha de produto.
-**Arquivo** | Informe o Arquivo. Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório.
+**Lista de produtos** | Selecione a lista de produtos. Por padrão, este campo é obrigatório.
+**Já cadastrado** | Selecione já cadastrado. Opções: Atualizar, Gerar erro, Ignorar. Por padrão, este campo é obrigatório.
+**Linha de produto** | Selecione a linha de produto.
+**Arquivo** | Informe o arquivo. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>
