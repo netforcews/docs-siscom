@@ -6,10 +6,10 @@
 
 Campo | Descrição
 --:|---
-**Conta** | Selecione o Conta.
-**Início** | Informe o Início.
-**Término** | Informe o Término.
-**Ignorar contas sem lançamentos** | Informe o Ignorar contas sem lançamentos.
+**Conta** | Selecione a conta.
+**Início** | Informe o início.
+**Término** | Informe o término.
+**Ignorar contas sem lançamentos** | Informe se deve  ignorar contas sem lançamentos.
 <br>
 <br>
 <br>

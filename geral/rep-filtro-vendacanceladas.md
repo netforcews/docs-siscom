@@ -6,17 +6,17 @@
 
 Campo | Descrição
 --:|---
-**Fornecedor** | Selecione o Fornecedor.
-**Atendente** | Selecione o Atendente.
-**Comissionado** | Selecione o Comissionado.
-**Cliente** | Selecione o Cliente.
-**Grupo de Cliente** | Selecione o Grupo de Cliente.
-**Linha de Produtos** | Selecione o Linha de Produtos.
-**Ocorrência** | Selecione o Ocorrência.
-**Início** | Informe o Início.
-**Fim** | Informe o Fim.
-**Data por** | Selecione o Data por. Opções: Emissão, Faturamento, Fechamento, Prev.Faturamento. Por padrão, este campo é obrigatório.
-**Ordenar por** | Selecione o Ordenar por. Opções: Emissão, Faturamento, Número, Prev.Entrega, Prev.Faturamento. Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o fornecedor.
+**Atendente** | Selecione o atendente.
+**Comissionado** | Selecione o comissionado.
+**Cliente** | Selecione o cliente.
+**Grupo de Cliente** | Selecione o grupo de cliente.
+**Linha de Produtos** | Selecione a linha de produtos.
+**Ocorrência** | Selecione a ocorrência.
+**Início** | Informe o início.
+**Fim** | Informe o fim.
+**Data por** | Selecione a data por. Opções: Emissão, Faturamento, Fechamento, Prev.Faturamento. Por padrão, este campo é obrigatório.
+**Ordenar por** | Selecione ordenar por. Opções: Emissão, Faturamento, Número, Prev.Entrega, Prev.Faturamento. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

@@ -6,11 +6,11 @@
 
 Campo | Descrição
 --:|---
-**Fornecedor** | Selecione o Fornecedor.
-**Atendente** | Selecione o Atendente.
-**Início** | Informe o Início.
-**Fim** | Informe o Fim.
-**Estado** | Selecione o Estado. Opções: Ambos, Concluído, Edição/Disponivel. Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o fornecedor.
+**Atendente** | Selecione o atendente.
+**Início** | Informe o início.
+**Fim** | Informe o fim.
+**Estado** | Selecione o estado. Opções: Ambos, Concluído, Edição/Disponivel. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

@@ -7,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | Informa o data.
+**Data** | Informa a data.
 **Arquivo** | Informa o arquivo.
 <br>
 
@@ -16,8 +16,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Arquivo** | Informe o arquivo. Por padrão, este campo é obrigatório.
-**Data** | Informa o data.
+**Arquivo** | Informa o arquivo. Por padrão, este campo é obrigatório.
+**Data** | Informa a data.
 <br>
 <br>
 <br>

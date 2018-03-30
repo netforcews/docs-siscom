@@ -6,16 +6,16 @@
 
 Campo | Descrição
 --:|---
-**Fornecedor** | Selecione o Fornecedor.
-**Cliente** | Selecione o Cliente.
-**Atendente** | Selecione o Atendente.
-**Comissionado** | Selecione o Comissionado.
-**Situação** | Selecione o Situação. Opções: Abertos, Ambos, Quitados. Por padrão, este campo é obrigatório.
-**Início** | Informe o Início.
-**Fim** | Informe o Fim.
-**Data por** | Selecione o Data por. Opções: Entrega/Faturamento, Fechamento, Recebimento, Vencto Comissão, Vencto Parcela. Por padrão, este campo é obrigatório.
-**Inicio** | Informe o Inicio.
-**Fim** | Informe o Fim.
+**Fornecedor** | Selecione o fornecedor.
+**Cliente** | Selecione o cliente.
+**Atendente** | Selecione o atendente.
+**Comissionado** | Selecione o comissionado.
+**Situação** | Selecione a situação. Opções: Abertos, Ambos, Quitados. Por padrão, este campo é obrigatório.
+**Início** | Informe o início.
+**Fim** | Informe o fim.
+**Data por** | Selecione a data por. Opções: Entrega/Faturamento, Fechamento, Recebimento, Vencto Comissão, Vencto Parcela. Por padrão, este campo é obrigatório.
+**Inicio** | Informe o inicio.
+**Fim** | Informe o fim.
 <br>
 <br>
 <br>

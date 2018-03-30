@@ -6,9 +6,9 @@
 
 Campo | Descrição
 --:|---
-**Conta Corrente** | Selecione o Conta Corrente. Por padrão, este campo é obrigatório.
-**Início** | Informe o Início. Por padrão, este campo é obrigatório.
-**Término** | Informe o Término. Por padrão, este campo é obrigatório.
+**Conta Corrente** | Selecione a conta corrente. Por padrão, este campo é obrigatório.
+**Início** | Informe o início. Por padrão, este campo é obrigatório.
+**Término** | Informe o término. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

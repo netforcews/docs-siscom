@@ -6,16 +6,16 @@
 
 Campo | Descrição
 --:|---
-**Situação** | Informe o Situação.
-**Estado** | Selecione o Estado.
-**Municipio** | Selecione o Municipio.
-**Grupo** | Selecione o Grupo.
-**Tipo de Cliente** | Selecione o Tipo de Cliente.
-**Região de Venda** | Selecione o Região de Venda.
-**Representante** | Selecione o Representante.
-**Fornecedor** | Selecione o Fornecedor.
-**Início** | Informe o Início.
-**Término** | Informe o Término.
+**Situação** | Informe a situação.
+**Estado** | Selecione o estado.
+**Municipio** | Selecione o municipio.
+**Grupo** | Selecione o grupo.
+**Tipo de Cliente** | Selecione o tipo de cliente.
+**Região de Venda** | Selecione a região de venda.
+**Representante** | Selecione o representante.
+**Fornecedor** | Selecione o fornecedor.
+**Início** | Informe o início.
+**Término** | Informe o término.
 <br>
 <br>
 <br>

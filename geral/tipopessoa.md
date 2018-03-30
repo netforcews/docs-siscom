@@ -7,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Cód** | Informa o código.
+**Cód** | Informa o cód.
 **Nome** | Informa o nome.
 <br>
 
@@ -16,8 +16,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informe o código. Por padrão, este campo é obrigatório.
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Código** | Informa o cód. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

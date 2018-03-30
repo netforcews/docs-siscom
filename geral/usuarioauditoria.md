@@ -7,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | Informa o data.
+**Data** | Informa a data.
 **Objeto** | Informa o objeto.
 **Operação** | Informa o operação.
 **IP** | Informa o ip.
@@ -18,10 +18,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Data** | Informa o data.
+**Data** | Informa a data.
 **Usuário** | Informa o usuário.
 **Objeto** | Informa o objeto. Por padrão, este campo é obrigatório.
-**Operação** | Informe o operação. Por padrão, este campo é obrigatório.
+**Operação** | Informa o operação. Por padrão, este campo é obrigatório.
 **Dados** | Informa o dados.
 **IP** | Informa o ip.
 <br>

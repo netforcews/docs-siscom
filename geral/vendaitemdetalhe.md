@@ -7,13 +7,13 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Referência** | Informa o código.
-**Descrição** | Informa o info.
+**Referência** | Informa a referência.
+**Descrição** | Informa o descrição.
 **Cor** | Informa o cor.
-**Qtdade** | Informa o qtd.total.
-**Un.** | Informa o unidade.
+**Qtdade** | Informa o qtdade.
+**Un.** | Informa o un..
 **Valor** | Informa o valor.
-**Total** | Informa o valor total.
+**Total** | Informa o total.
 <br>
 
 ## Geral
@@ -21,26 +21,26 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informa o produto. Por padrão, este campo é obrigatório.
+**Código** | Informa o código. Por padrão, este campo é obrigatório.
 **Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
 **Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
-**Complemento** | Informe o descrição.
+**Complemento** | Informe o complemento.
 **Complemento2** | Informe o complemento2.
-**Unidade** | Informa o unidade. Por padrão, este campo é obrigatório.
-**Linha** | Informe o linha.
-**Qtdade** | Informa o qtd.total. Por padrão, este campo é obrigatório.
+**Unidade** | Informa o un.. Por padrão, este campo é obrigatório.
+**Linha** | Selecione a linha.
+**Qtdade** | Informa o qtdade. Por padrão, este campo é obrigatório.
 **Valor Venda** | Informa o valor. Por padrão, este campo é obrigatório.
 **% IPI** | Informa o % ipi.
-**% Desc 1** | Informe o desconto1.
-**% Desc 2** | Informe o desconto2.
-**% Desc 3** | Informe o desconto3.
-**% Desc 4** | Informe o desconto4.
-**% Desc Geral** | Informa o descontogeral.
+**% Desc 1** | Informe o % desc 1.
+**% Desc 2** | Informe o % desc 2.
+**% Desc 3** | Informe o % desc 3.
+**% Desc 4** | Informe o % desc 4.
+**% Desc Geral** | Informa o % desc geral.
 **Valor Desconto** | Informa o valor desconto.
 **Valor Liquido** | Informa o valor liquido.
-**Total** | Informa o valor total.
+**Total** | Informa o total.
 **Valor c/IPI** | Informa o valor c/ipi.
-**Total c/IPI** | Informa o valor total c/ipi.
+**Total c/IPI** | Informa o total c/ipi.
 <br>
 <br>
 <br>

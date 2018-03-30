@@ -6,7 +6,7 @@
 
 Campo | Descrição
 --:|---
-**Opção** | Selecione o Opção. Opções: Cliente, Fornecedor. Por padrão, este campo é obrigatório.
+**Opção** | Selecione a opção. Opções: Cliente, Fornecedor. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

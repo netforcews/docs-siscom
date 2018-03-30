@@ -8,7 +8,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Grupo** | Informa o grupo.
-**Permissões** | Informa.
+**Permissões** | Informa o permissões.
 <br>
 
 ## Geral
@@ -16,7 +16,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Grupo** | Informe o grupo. Por padrão, este campo é obrigatório.
+**Grupo** | Informa o grupo. Por padrão, este campo é obrigatório.
 **Ver** | Informa o ver.
 **Editar** | Informe o editar.
 **Inserir** | Informe o inserir.

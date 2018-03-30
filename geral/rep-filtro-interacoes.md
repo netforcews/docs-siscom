@@ -6,10 +6,10 @@
 
 Campo | Descrição
 --:|---
-**Pessoa** | Selecione o Pessoa.
-**Usuário** | Selecione o Usuário.
-**Início** | Informe o Início.
-**Término** | Informe o Término.
+**Pessoa** | Selecione o pessoa.
+**Usuário** | Selecione o usuário.
+**Início** | Informe o início.
+**Término** | Informe o término.
 <br>
 <br>
 <br>

@@ -6,26 +6,26 @@
 
 Campo | Descrição
 --:|---
-**Versão.Pedido** | Selecione o Versão.Pedido. Opções: Normal, Para Cliente. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informe o Fornecedor.
-**E-mail** | Informa o E-mail.
-**Cliente** | Informe o Cliente.
-**E-mail** | Informa o E-mail.
-**Atendente** | Informe o Atendente.
-**E-mail** | Informa o E-mail.
-**Comissionado** | Informe o Comissionado.
-**E-mail** | Informa o E-mail.
-**Preposto 1** | Informe o Preposto 1.
-**E-mail** | Informa o E-mail.
-**Preposto 2** | Informe o Preposto 2.
-**E-mail** | Informa o E-mail.
-**Preposto 3** | Informe o Preposto 3.
-**E-mail** | Informa o E-mail.
-**Preposto 4** | Informe o Preposto 4.
-**E-mail** | Informe o E-mail.
-**Usuário** | Informe o Usuário.
-**E-mail** | Informa o E-mail.
-**Outros** | Informe o Outros.
+**Versão.Pedido** | Selecione a versão do pedido. Opções: Normal, Para Cliente. Por padrão, este campo é obrigatório.
+**Fornecedor** | Informe o fornecedor.
+**E-mail** | Informa o e-mail.
+**Cliente** | Informe o cliente.
+**E-mail** | Informa o e-mail.
+**Atendente** | Informe o atendente.
+**E-mail** | Informa o e-mail.
+**Comissionado** | Informe o comissionado.
+**E-mail** | Informa o e-mail.
+**Preposto 1** | Informe o preposto 1.
+**E-mail** | Informa o e-mail.
+**Preposto 2** | Informe o preposto 2.
+**E-mail** | Informa o e-mail.
+**Preposto 3** | Informe o preposto 3.
+**E-mail** | Informa o e-mail.
+**Preposto 4** | Informe o preposto 4.
+**E-mail** | Informe o e-mail.
+**Usuário** | Informe o usuário.
+**E-mail** | Informa o e-mail.
+**Outros** | Informe outros.
 <br>
 <br>
 <br>

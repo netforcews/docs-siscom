@@ -15,11 +15,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
 **Usuário** | Informe o usuário. Por padrão, este campo é obrigatório.
 **E-mail** | Informa o e-mail. Por padrão, este campo é obrigatório.
-**Senha** | Informe o senha. Por padrão, este campo é obrigatório.
-**Assinatura** | Informe o assinatura de e-mail.
+**Senha** | Informe a senha. Por padrão, este campo é obrigatório.
+**Assinatura** | Informe a assinatura.
 <br>
 <br>
 <br>

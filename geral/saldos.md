@@ -7,12 +7,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**&nbsp;** | Informa.
-**Número** | Informa o numero.
+**Número** | Informa o número.
 **Fornecedor** | Informa o fornecedor.
 **Atendente** | Informa o atendente.
 **Inclusão** | Informa o inclusão.
-**Qtdade** | Informa o qtd.saldo.
+**Qtdade** | Informa o qtdade.
 **Valor** | Informa o valor.
 <br>
 
@@ -21,18 +20,18 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | Informa o numero.
+**Número** | Informa o número.
 **Inclusão** | Informa o inclusão.
-**Empresa** | Informe o empresa. Por padrão, este campo é obrigatório.
-**Estado** | Informe o estado. Opções: Cancelado, Concluído, Disponível, Edição. Por padrão, este campo é obrigatório.
-**Atendente** | Informe o atendente. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informe o fornecedor. Por padrão, este campo é obrigatório.
+**Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório.
+**Estado** | Selecione o estado. Opções: Cancelado, Concluído, Disponível, Edição. Por padrão, este campo é obrigatório.
+**Atendente** | Informa o atendente. Por padrão, este campo é obrigatório.
+**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
 **Contato** | Informe o contato.
-**Telefone** | Informe.
+**Telefone** | Informe o telefone.
 **Valor Total** | Informa o valor.
-**Qtd.Total** | Informa o quantidade.
+**Qtd.Total** | Informa o qtd.total.
 **Qtd.Vendido** | Informa o qtd.vendido.
-**Qtd.Saldo** | Informa o qtd.saldo.
+**Qtd.Saldo** | Informa o qtdade.
 **Observação** | Informe o observação.
 <br>
 

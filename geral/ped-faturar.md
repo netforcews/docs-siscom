@@ -6,9 +6,9 @@
 
 Campo | Descrição
 --:|---
-**Nota Fiscal** | Informe o Nota Fiscal. Por padrão, este campo é obrigatório.
-**Data Faturamento** | Informe o Data Faturamento. Por padrão, este campo é obrigatório.
-**Itens** | Informe o Itens. Por padrão, este campo é obrigatório.
+**Nota Fiscal** | Informe a nota fiscal. Por padrão, este campo é obrigatório.
+**Data Faturamento** | Informe a data de faturamento. Por padrão, este campo é obrigatório.
+**Itens** | Informe os itens. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

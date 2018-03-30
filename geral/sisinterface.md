@@ -17,7 +17,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Nome** | Informa o nome.
-**Título** | Informe o título.
+**Título** | Informa o título.
 <br>
 <br>
 <br>

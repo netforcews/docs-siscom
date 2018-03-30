@@ -18,16 +18,16 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Atribuição** | Informe o atribuição. Opções: Cobr.Faturamento, Compras, Estilo, Faturamento, Financeiro, Geral, NFE, Proprietário, Vendas. Por padrão, este campo é obrigatório.
-**Especificação** | Informe o especificação.
+**Atribuição** | Selecione a atribuição. Opções: Cobr.Faturamento, Compras, Estilo, Faturamento, Financeiro, Geral, NFE, Proprietário, Vendas. Por padrão, este campo é obrigatório.
+**Especificação** | Informe a especificação.
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
 **Data Nasc.** | Informe o data nascimento.
-**Sexo** | Informe o sexo.
+**Sexo** | Selecione o sexo.
 **Telefone** | Informe o telefone.
 **Celular** | Informe o celular.
 **E-mail** | Informe o e-mail.
-**Observação** | Informe o observação.
-**Exibe contato ficha (PDF)** | Informe o exibe contato ficha.
+**Observação** | Informe uma observação.
+**Exibe contato ficha (PDF)** | Informe se deve exibe contato ficha.
 <br>
 <br>
 <br>

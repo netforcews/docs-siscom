@@ -7,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Empresa** | Informa o empresa.
+**Empresa** | Informa a empresa.
 **Representante** | Informa o representante.
-**% Com** | Informa o % comissao.
+**% Com** | Informa o % com.
 <br>
 
 ## Geral
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Empresa** | Informe o empresa. Por padrão, este campo é obrigatório.
-**Representante** | Informe o representante. Por padrão, este campo é obrigatório.
-**% Comissao** | Informe o % comissao.
+**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório.
+**Representante** | Informa o representante. Por padrão, este campo é obrigatório.
+**% Comissao** | Informa o % com.
 <br>
 <br>
 <br>

@@ -6,8 +6,8 @@
 
 Campo | Descrição
 --:|---
-**Ocorrência** | Selecione o Ocorrência. Por padrão, este campo é obrigatório.
-**Motivo** | Informe o Motivo.
+**Ocorrência** | Selecione a ocorrência. Por padrão, este campo é obrigatório.
+**Motivo** | Informe o motivo.
 <br>
 <br>
 <br>

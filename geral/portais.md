@@ -16,10 +16,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Título** | Informe o título. Por padrão, este campo é obrigatório.
-**Situação** | Informe o situação. Opções: Ativo, Desativado, Em Atualização. Por padrão, este campo é obrigatório.
-**Autenticação** | Informe o método de autenticação. Por padrão, este campo é obrigatório.
+**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
+**Título** | Informa o título. Por padrão, este campo é obrigatório.
+**Situação** | Selecione o situação. Opções: Ativo, Desativado, Em Atualização. Por padrão, este campo é obrigatório.
+**Autenticação** | Informe o autenticação. Por padrão, este campo é obrigatório.
 <br>
 
 ## Links

@@ -7,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Data** | Informa o data.
+**Data** | Informa a data.
 **Usuário** | Informa o usuário.
 **Texto** | Informa o texto.
 <br>
@@ -17,10 +17,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Data** | Informe o data. Por padrão, este campo é obrigatório.
+**Data** | Informa a data. Por padrão, este campo é obrigatório.
 **Usuário** | Informa o usuário.
 **Tipo** | Informe o tipo. Opções: Visita. Por padrão, este campo é obrigatório.
-**Texto** | Informe o texto. Por padrão, este campo é obrigatório.
+**Texto** | Informa o texto. Por padrão, este campo é obrigatório.
 **Retorno** | Informe o retorno.
 <br>
 
@@ -29,8 +29,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Notificação 1** | Informe o notificação 1.
-**Notificação 2** | Informe o notificação 2.
+**Notificação 1** | Selecione o notificação 1.
+**Notificação 2** | Selecione o notificação 2.
 <br>
 <br>
 <br>

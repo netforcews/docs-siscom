@@ -7,8 +7,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Conta** | Informa o conta.
-**Permissões** | Informa.
+**Conta** | Informa a conta.
+**Permissões** | Informa o permissões.
 <br>
 
 ## Geral
@@ -16,7 +16,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Conta** | Informe o conta. Por padrão, este campo é obrigatório.
+**Conta** | Informa a conta. Por padrão, este campo é obrigatório.
 **Ver** | Informa o ver.
 **Editar** | Informe o editar.
 **Inserir** | Informe o inserir.

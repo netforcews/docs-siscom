@@ -6,8 +6,8 @@
 
 Campo | Descrição
 --:|---
-**Início** | Informe o Início.
-**Fim** | Informe o Fim.
+**Início** | Informe o início.
+**Fim** | Informe o fim.
 <br>
 <br>
 <br>
