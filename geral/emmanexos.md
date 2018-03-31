@@ -7,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Identificação** | Informa o identificação.
+**Identificação** | Informa a identificação.
 **Arquivo** | Informa o arquivo.
-**C.A.** | Informa o c.a..
+**C.A.** | Informa se como anexo.
 <br>
 
 ## Geral
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Identificação** | Informa o identificação. Por padrão, este campo é obrigatório.
-**Arquivo** | Informa o arquivo. Por padrão, este campo é obrigatório.
-**Como Anexo** | Informa o c.a..
+**Identificação** | Informe a identificação. Por padrão, este campo é obrigatório.
+**Arquivo** | Informe o arquivo. Por padrão, este campo é obrigatório.
+**Como Anexo** | Selecione se como anexo.
 <br>
 <br>
 <br>

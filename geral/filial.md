@@ -17,20 +17,20 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informa o código. Por padrão, este campo é obrigatório.
-**Marca** | Informa a marca. Por padrão, este campo é obrigatório.
-**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Marca** | Informe a marca. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
 **Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
 **Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
-**CEP** | Informe o cep. Por padrão, este campo é obrigatório.
+**CEP** | Informe o CEP. Por padrão, este campo é obrigatório.
 **Estado** | Selecione o estado. Por padrão, este campo é obrigatório.
 **Município** | Selecione o município. Por padrão, este campo é obrigatório.
 **Telefone** | Informe o telefone. Por padrão, este campo é obrigatório.
 **Fax** | Informe o fax.
 **E-mail** | Informe o e-mail.
 **WebSite** | Informe o website.
-**CNPJ** | Informe o cnpj. Por padrão, este campo é obrigatório.
-**IE** | Informe o ie. Por padrão, este campo é obrigatório.
+**CNPJ** | Informe o CNPJ. Por padrão, este campo é obrigatório.
+**IE** | Informe a Inscrição Estadual. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

@@ -8,7 +8,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Nome** | Informa o nome.
-**URL** | Informa o url.
+**URL** | Informa a url.
 **Cor** | Informa o cor.
 <br>
 
@@ -17,11 +17,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
-**Cor** | Informa o cor. Por padrão, este campo é obrigatório.
-**URL** | Informa o url. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Cor** | Informe o cor. Por padrão, este campo é obrigatório.
+**URL** | Informe a url. Por padrão, este campo é obrigatório.
 **Tipo** | Selecione o tipo. Opções: ICAL, XML. Por padrão, este campo é obrigatório.
-**Ativo** | Informe o ativo.
+**Ativo** | Selecione se ativo.
 <br>
 <br>
 <br>

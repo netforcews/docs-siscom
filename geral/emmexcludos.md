@@ -17,8 +17,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Pessoa** | Informa a pessoa. Por padrão, este campo é obrigatório.
-**Campanha** | Informa a campanha. Por padrão, este campo é obrigatório.
+**Pessoa** | Selecione a pessoa. Por padrão, este campo é obrigatório.
+**Campanha** | Selecione a campanha. Por padrão, este campo é obrigatório.
 **Data** | Informa a data. Por padrão, este campo é obrigatório.
 <br>
 <br>

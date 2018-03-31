@@ -18,7 +18,7 @@ Campo | Descrição
 **Dialogo** | Selecione o dialogo. Por padrão, este campo é obrigatório.
 **Usuário** | Selecione o usuário. Por padrão, este campo é obrigatório.
 **Data** | Informe a data. Por padrão, este campo é obrigatório.
-**Texto** | Informa o texto. Por padrão, este campo é obrigatório.
+**Texto** | Informe o texto. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

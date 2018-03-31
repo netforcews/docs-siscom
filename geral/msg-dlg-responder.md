@@ -7,7 +7,7 @@
 Campo | Descrição
 --:|---
 **Mensagem** | Informe a mensagem. Por padrão, este campo é obrigatório.
-**Encaminhar** | Informe o encaminhar.
+**Encaminhar** | Informe para quem.
 <br>
 <br>
 <br>

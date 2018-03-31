@@ -7,10 +7,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ord** | Informa o ord.
+**Ord** | Informa a ordem.
 **Nome** | Informa o nome.
-**Interface** | Informa o interface.
-**Prão** | Informa o prão.
+**Interface** | Informa a interface.
+**Prão** | Informa se deve assumir como padrão.
 <br>
 
 ## Geral
@@ -18,10 +18,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
-**Interface** | Informa o interface.
-**Ordem** | Informa o ord. Por padrão, este campo é obrigatório.
-**Assumir como padrão** | Informa o prão.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Interface** | Selecione a interface.
+**Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
+**Assumir como padrão** | Selecione se deve assumir como padrão.
 **Campo** | Selecione o campo. Por padrão, este campo é obrigatório.
 **Operador** | Selecione o operador. Opções: Contém, Diferente, É Nulo, Igual, Inicia com, Maior, Maior e Igual, Menor, Menor e Igual, Não é Nulo, Termina com. Por padrão, este campo é obrigatório.
 **Valor** | Informe o valor. Por padrão, este campo é obrigatório.
@@ -46,7 +46,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Comando** | Informa o comando.
-**SQL Especial** | Informe o sql especial.
+**SQL Especial** | Informe o SQL especial.
 <br>
 <br>
 <br>

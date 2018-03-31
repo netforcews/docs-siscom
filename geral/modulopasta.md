@@ -7,11 +7,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ordem** | Informa o ordem.
+**Ordem** | Informa a ordem.
 **Agrupador** | Informa o agrupador.
 **Nome** | Informa o nome.
-**Interface** | Informa o interface.
-**Atv** | Informa o atv.
+**Interface** | Informa a interface.
+**Atv** | Informa se ativo.
 <br>
 
 ## Geral
@@ -19,13 +19,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Ordem** | Informa o ordem. Por padrão, este campo é obrigatório.
-**Agrupador** | Informa o agrupador. Por padrão, este campo é obrigatório.
-**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
-**Interface** | Informa o interface. Por padrão, este campo é obrigatório.
-**Visão** | Selecione o visão. Opções: Formulário, Grid. Por padrão, este campo é obrigatório.
-**Codigointerno** | Informe o codigointerno.
-**Ativo** | Informa o atv.
+**Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
+**Agrupador** | Informe o agrupador. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Interface** | Selecione a interface. Por padrão, este campo é obrigatório.
+**Visão** | Selecione a visão. Opções: Formulário, Grid. Por padrão, este campo é obrigatório.
+**Codigointerno** | Informe o código interno.
+**Ativo** | Selecione se ativo.
 <br>
 
 ## Comandos

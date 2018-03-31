@@ -10,7 +10,7 @@ Campo | Descrição
 **Data** | Informa a data.
 **Conta** | Informa a conta.
 **Valor** | Informa o valor.
-**Observação** | Informa o observação.
+**Observação** | Informa uma observação.
 <br>
 
 ## Geral
@@ -18,10 +18,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Data** | Informa a data. Por padrão, este campo é obrigatório.
-**Conta** | Informa a conta. Por padrão, este campo é obrigatório.
-**Valor** | Informa o valor. Por padrão, este campo é obrigatório.
-**Observação** | Informa o observação.
+**Data** | Informe a data. Por padrão, este campo é obrigatório.
+**Conta** | Selecione a conta. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
+**Observação** | Informe uma observação.
 <br>
 <br>
 <br>

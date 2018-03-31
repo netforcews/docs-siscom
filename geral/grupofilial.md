@@ -7,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Filial** | Informa o filial.
+**Filial** | Informa a filial.
 <br>
 
 ## Geral
@@ -15,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Filial** | Informa o filial. Por padrão, este campo é obrigatório.
+**Filial** | Selecione a filial. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

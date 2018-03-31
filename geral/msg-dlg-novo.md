@@ -6,7 +6,7 @@
 
 Campo | Descrição
 --:|---
-**Para** | Informe para. Por padrão, este campo é obrigatório.
+**Para** | Informe para quem. Por padrão, este campo é obrigatório.
 **Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
 **Mensagem** | Informe a mensagem. Por padrão, este campo é obrigatório.
 <br>

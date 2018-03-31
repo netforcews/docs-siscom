@@ -7,7 +7,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ord** | Informa o ord.
+**Ord** | Informa a ordem.
 **Nome** | Informa o nome.
 **Legenda** | Informa a legenda.
 <br>

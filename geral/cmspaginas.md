@@ -7,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ordem** | Informa o ordem.
+**Ordem** | Informa a ordem.
 **Título** | Informa o título.
-**Permissão** | Informa o permissão.
+**Permissão** | Informa a permissão.
 <br>
 
 ## Geral
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Título** | Informa o título. Por padrão, este campo é obrigatório.
-**Ordem** | Informa o ordem. Por padrão, este campo é obrigatório.
-**Permissão** | Informa o permissão. Opções: Inativo, Privado, Público, Somente público. Por padrão, este campo é obrigatório.
+**Título** | Informe o título. Por padrão, este campo é obrigatório.
+**Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
+**Permissão** | Selecione a permissão. Opções: Inativo, Privado, Público, Somente público. Por padrão, este campo é obrigatório.
 **Texto** | Informe o texto.
 <br>
 <br>

@@ -15,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Arquivo** | Informa o arquivo. Por padrão, este campo é obrigatório.
+**Arquivo** | Informe o arquivo. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

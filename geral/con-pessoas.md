@@ -8,13 +8,13 @@ Campo | Descrição
 --:|---
 **Pessoa** | Selecione a pessoa.
 **Responsável** | Selecione o responsável.
-**Cliente** | Informe o cliente.
-**Prestador de Serviço** | Informe o prestador de serviço.
-**Fornecedor** | Informe o fornecedor.
-**Transportadora** | Informe a transportadora.
-**Represenante** | Informe o representante.
-**Banco** | Informe o banco.
-**Outros** | Informe o outros.
+**Cliente** | Selecione se é cliente.
+**Prestador de Serviço** | Selecione se é prestador de serviço.
+**Fornecedor** | Selecione se é fornecedor.
+**Transportadora** | Selecione se é transportadora.
+**Represenante** | Selecione se é represenante.
+**Banco** | Selecione se é banco.
+**Outros** | Selecione se é outros.
 **Região** | Selecione a região.
 **Estado** | Selecione o estado.
 **Município** | Selecione o município.

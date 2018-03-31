@@ -16,9 +16,9 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Dialogo** | Selecione o dialogo. Por padrão, este campo é obrigatório.
-**Usuário** | Informa o usuário. Por padrão, este campo é obrigatório.
+**Usuário** | Selecione o usuário. Por padrão, este campo é obrigatório.
 **Tipo** | Selecione o tipo. Opções: Excluído, Lido, Não Lido. Por padrão, este campo é obrigatório.
-**Inclusão** | Informe o inclusão. Por padrão, este campo é obrigatório.
+**Inclusão** | Informe a data da inclusão. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

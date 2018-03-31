@@ -17,10 +17,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Coluna** | Informa a coluna. Opções: 1 Coluna, 2 Colunas, 3 Colunas. Por padrão, este campo é obrigatório.
-**Ordem** | Informa o ordem. Por padrão, este campo é obrigatório.
-**Objeto** | Informa o objeto. Por padrão, este campo é obrigatório.
-**Parâmetros** | Informe o parâmetros.
+**Coluna** | Selecione a coluna. Opções: 1 Coluna, 2 Colunas, 3 Colunas. Por padrão, este campo é obrigatório.
+**Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
+**Objeto** | Selecione o objeto. Por padrão, este campo é obrigatório.
+**Parâmetros** | Informe os parâmetros.
 <br>
 <br>
 <br>

@@ -7,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | Informa o descrição.
+**Descrição** | Informa a descrição.
 **Titular** | Informa o titular.
-**CNPJ/CPF** | Informa o cnpj/cpf.
+**CNPJ/CPF** | Informa o CNPJ/CPF.
 **Saldo** | Informa o saldo.
 <br>
 
@@ -19,12 +19,12 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Agência** | Informe a agência. Por padrão, este campo é obrigatório.
-**DVA** | Informe o dva. Por padrão, este campo é obrigatório.
+**DVA** | Informe o DVA. Por padrão, este campo é obrigatório.
 **Número** | Informe o número. Por padrão, este campo é obrigatório.
-**DAC** | Informe o dac. Por padrão, este campo é obrigatório.
-**Descrição** | Informa o descrição.
-**Raz.Social/Nome** | Informa o titular. Por padrão, este campo é obrigatório.
-**CNPJ/CPF** | Informa o cnpj/cpf. Por padrão, este campo é obrigatório.
+**DAC** | Informe o DAC. Por padrão, este campo é obrigatório.
+**Descrição** | Informa a descrição.
+**Raz.Social/Nome** | Informe o titular. Por padrão, este campo é obrigatório.
+**CNPJ/CPF** | Informe o CNPJ/CPF. Por padrão, este campo é obrigatório.
 **Saldo** | Informa o saldo.
 <br>
 <br>

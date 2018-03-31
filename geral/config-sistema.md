@@ -8,7 +8,7 @@ Campo | Descrição
 --:|---
 **Domínio padrão** | Informe o domínio padrão. Por padrão, este campo é obrigatório.
 **Expiração de Senha** | Informe a expiração de senha.
-**Habilitar IDKey** | Informe o habilitar idkey.
+**Habilitar IDKey** | Selecione se habilita idkey.
 **Modo** | Selecione o modo. Opções: Implantação, Operação. Por padrão, este campo é obrigatório.
 **Usuário Cron** | Selecione o usuário cron. Por padrão, este campo é obrigatório.
 <br>
@@ -23,7 +23,7 @@ Campo | Descrição
 **Usuário** | Informe o usuário. Por padrão, este campo é obrigatório.
 **Senha** | Informe a senha. Por padrão, este campo é obrigatório.
 **Conta** | Informe a conta. Por padrão, este campo é obrigatório.
-**Autenticar** | Informe o autenticar.
+**Autenticar** | Selecione se autentica.
 <br>
 
 ## Sistema
@@ -32,21 +32,21 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Tipo de Desconto** | Selecione o tipo de desconto. Opções: por Percentual, por Valor. Por padrão, este campo é obrigatório.
-**Dias Prev. Padrão** | Informe a quantidade de  dias de previsão padrão. Por padrão, este campo é obrigatório.
+**Dias Prev. Padrão** | Informe os dias de previsão padrão. Por padrão, este campo é obrigatório.
 **Item s/ cadastro** | Selecione o item sem cadastro.
-**Prev.Entreg.Final Semana** | Informe a previsão de entrega para final de  semana.
-**Prev. Entrega retroativa** | Informe a previsão de entrega retroativa.
-**Exibir botão adicionar item** | Informe se deve exibir o botão adicionar item.
-**Exibir botão adicionar item pela grade** | Informe se deve exibir o  botão adicionar item pela grade.
-**Exibir botão adicionar item s/ cadastro** | Informe se deve exibir o botão adicionar item sem cadastro.
-**Receita** | Selecione a receita.
-**Despesas** | Selecione a despesa.
-**A Receber** | Informe a receber.
-**A Pagar** | Informe a pagar.
-**Desativar pré-filtro quando filtro form. de grid** | Informe se deve desativar pré-filtro quando filtro form. de grid.
-**Mostrar registro mesmo com pr-e-filtro** | Informe se deve mostrar registro mesmo com pre-filtro.
-**Sistema em atualização** | Informe se deve mostrar o sistema em atualização.
-**Rep.Escritório** | Selecione o rep.escritório.
+**Prev.Entreg.Final Semana** | Selecione se possui previsão de entrega no final de semana.
+**Prev. Entrega retroativa** | Selecione se possui previsão de entrega retroativa.
+**Exibir botão adicionar item** | Selecione se deve exibir o botão adicionar item.
+**Exibir botão adicionar item pela grade** | Selecione se deve exibir botão adicionar item pela grade.
+**Exibir botão adicionar item s/ cadastro** | Selecione se deve exibir botão adicionar item sem cadastro.
+**Receita** | Selecione a conta de receita.
+**Despesas** | Selecione a conta de  despesa.
+**A Receber** | Informe a forma de receber.
+**A Pagar** | Informe a forma de pagar.
+**Desativar pré-filtro quando filtro form. de grid** | Selecione se deve desativar pré-filtro quando formulário de grid.
+**Mostrar registro mesmo com pr-e-filtro** | Selecione se deve mostrar o registro mesmo com pré-filtro.
+**Sistema em atualização** | Selecione se deve mostrar sistema em atualização.
+**Rep.Escritório** | Selecione o representante do.escritório.
 <br>
 <br>
 <br>

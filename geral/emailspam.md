@@ -7,8 +7,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**De** | Informa o de.
-**Para** | Informa a para.
+**De** | Informa quem está enviando..
+**Para** | Informa quem está recebendo.
 **Assunto** | Informa o assunto.
 **Data** | Informa a data.
 <br>
@@ -18,12 +18,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Assunto** | Informa o assunto. Por padrão, este campo é obrigatório.
-**De** | Informa o de.
+**Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
+**De** | Informe quem está enviando..
 **Data** | Informa a data.
-**Para** | Informa a para.
-**Para CC** | Informe o para cc.
-**Resp.Para** | Informe a resp.para.
+**Para** | Informe quem está recebendo.
+**Para CC** | Informe quem está recebendo cópia.
+**Resp.Para** | Informe quem receberá resposta.
 **Texto** | Informe o texto.
 <br>
 

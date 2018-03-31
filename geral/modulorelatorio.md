@@ -8,9 +8,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Agrupador** | Informa o agrupador.
-**Ordem** | Informa o ordem.
+**Ordem** | Informa a ordem.
 **Relatório** | Informa o relatório.
-**Atv** | Informa o atv.
+**Atv** | Informa se ativo.
 <br>
 
 ## Geral
@@ -18,10 +18,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Agrupador** | Informa o agrupador. Por padrão, este campo é obrigatório.
-**Ordem** | Informa o ordem. Por padrão, este campo é obrigatório.
-**Relatório** | Informa o relatório. Por padrão, este campo é obrigatório.
-**Ativo** | Informa o atv.
+**Agrupador** | Informe o agrupador. Por padrão, este campo é obrigatório.
+**Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
+**Relatório** | Selecione o relatório. Por padrão, este campo é obrigatório.
+**Ativo** | Selecione se ativo.
 <br>
 <br>
 <br>

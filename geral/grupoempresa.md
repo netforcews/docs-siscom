@@ -15,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório.
+**Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório.
 <br>
 
 ## Links

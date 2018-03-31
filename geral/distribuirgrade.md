@@ -13,7 +13,7 @@ Campo | Descrição
 **Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório.
 **Linha** | Selecione a linha. Por padrão, este campo é obrigatório.
 **Cor** | Informe a cor.
-**Valor Venda** | Informe o valor venda. Por padrão, este campo é obrigatório.
+**Valor Venda** | Informe o valor de venda. Por padrão, este campo é obrigatório.
 **Quantidade** | Informe a quantidade. Por padrão, este campo é obrigatório.
 **Grade** | Selecione a grade. Por padrão, este campo é obrigatório.
 <br>

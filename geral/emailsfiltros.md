@@ -7,8 +7,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descricao** | Informa o descricao.
-**Atv** | Informa o atv.
+**Descricao** | Informa a descricao.
+**Atv** | Informa se ativo.
 <br>
 
 ## Geral
@@ -16,13 +16,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descricao** | Informa o descricao. Por padrão, este campo é obrigatório.
-**Ativo** | Informa o atv.
-**De** | Informe o de.
-**Para** | Informe a para.
+**Descricao** | Informe a descricao. Por padrão, este campo é obrigatório.
+**Ativo** | Selecione se ativo.
+**De** | Informe de quem.
+**Para** | Informe para quem.
 **Assunto** | Informe o assunto.
 **Texto** | Informe o texto.
-**Ação** | Selecione o ação. Opções: Enviar para a lixeira, Excluir mensagem. Por padrão, este campo é obrigatório.
+**Ação** | Selecione a ação. Opções: Enviar para a lixeira, Excluir mensagem. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

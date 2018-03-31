@@ -15,9 +15,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Para** | Selecione a para. Por padrão, este campo é obrigatório.
-**Assunto** | Informa o assunto. Por padrão, este campo é obrigatório.
-**Texto** | Informe o texto. Por padrão, este campo é obrigatório.
+**Para** | Selecione o usuário. Por padrão, este campo é obrigatório.
+**Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
+**Texto** | Informe um texto. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>
