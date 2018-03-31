@@ -12,8 +12,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Título** | Informa o título.
-**Situação** | Informa o situação.
-**Inclusão** | Informa o inclusão.
+**Situação** | Informa a situação.
+**Inclusão** | Informa a data da inclusão.
 <br>
 
 ## Geral
@@ -21,21 +21,21 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Título** | Informa o título. Por padrão, este campo é obrigatório.
-**Situação** | Informa o situação. Opções: Aguardando Envio, Concluído, Edição, Enviando. Por padrão, este campo é obrigatório.
-**Inclusão** | Informa o inclusão.
+**Título** | Informe o título. Por padrão, este campo é obrigatório.
+**Situação** | Informa a situação. Opções: Aguardando Envio, Concluído, Edição, Enviando. Por padrão, este campo é obrigatório.
+**Inclusão** | Informa a data da inclusão.
 **Contexto** | Selecione o contexto. Por padrão, este campo é obrigatório.
 **Conta** | Selecione a conta. Por padrão, este campo é obrigatório.
 **Estilo** | Selecione o estilo. Por padrão, este campo é obrigatório.
-**Agendamento** | Informe o agendamento.
+**Agendamento** | Informe a data do agendamento.
 **Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
 **Texto** | Informe o texto. Por padrão, este campo é obrigatório.
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
 **E-mail** | Informe o e-mail. Por padrão, este campo é obrigatório.
-**Qtd.Alvo** | Informa o qtd.alvo.
-**Qtd.Enviados** | Informa o qtd.enviados.
-**Qtd.Lidos** | Informa o qtd.lidos.
-**Qtd.Clicados** | Informa o qtd.clicados.
+**Qtd.Alvo** | Informa a quantidade alvo.
+**Qtd.Enviados** | Informa a quantidade enviados.
+**Qtd.Lidos** | Informa a quantidade lidos.
+**Qtd.Clicados** | Informa a quantidade clicados.
 <br>
 
 ## Filtros
@@ -43,9 +43,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Cliente** | Informe o cliente.
-**Fornecedor** | Informe o fornecedor.
-**Representante** | Informe o representante.
+**Cliente** | Selecione se cliente.
+**Fornecedor** | Selecione se fornecedor.
+**Representante** | Selecione se representante.
 **Atribuições dos Contatos** | Informe o atribuições dos contatos. Por padrão, este campo é obrigatório.
 **Situações da Pessoa** | Informe a situações da pessoa.
 **Linhas de Produtos** | Informe o linhas de produtos.
