@@ -12,7 +12,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Número** | Informa o número.
-**Emissão** | Informa o emissão.
+**Emissão** | Informa a data da emissão.
 **Cliente** | Informa o cliente.
 **Fornecedor** | Informa o fornecedor.
 **Estado** | Informa o estado.
@@ -24,19 +24,19 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Número** | Informa o número. Por padrão, este campo é obrigatório.
-**Emissão** | Informa o emissão. Por padrão, este campo é obrigatório.
-**Cond.Pagto** | Informe o cond.pagto. Por padrão, este campo é obrigatório.
+**Número** | Informe o número. Por padrão, este campo é obrigatório.
+**Emissão** | Informe a data da emissão. Por padrão, este campo é obrigatório.
+**Cond.Pagto** | Informe a condição de pagamento. Por padrão, este campo é obrigatório.
 **Estado** | Informa o estado. Opções: Aberto, Ag. Confirmação, Confirmado. Por padrão, este campo é obrigatório.
-**Cliente** | Informa o cliente. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
+**Cliente** | Informe o cliente. Por padrão, este campo é obrigatório.
+**Fornecedor** | Informe o fornecedor. Por padrão, este campo é obrigatório.
 **Representante** | Selecione o representante. Por padrão, este campo é obrigatório.
-**% Comissão** | Informe o % comissão. Por padrão, este campo é obrigatório.
+**% Comissão** | Informe o percentual de comissão. Por padrão, este campo é obrigatório.
 **Redespacho** | Informe o redespacho.
 **Frete** | Selecione o frete. Opções: Destinatário (FOB) , Emitente (CIF) . Por padrão, este campo é obrigatório.
-**Itens** | Informe o itens.
+**Itens** | Informe os itens.
 **Valor Total** | Informa o valor total.
-**Observação** | Informe o observação.
+**Observação** | Informe uma observação.
 <br>
 
 ## Confirmação
@@ -45,14 +45,14 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Empresa** | Selecione a empresa.
-**Prev.Entrega** | Informe a prev.entrega.
+**Prev.Entrega** | Informe a data da previsão de.entrega.
 **Cliente** | Selecione o cliente.
 **Fornecedor** | Selecione o fornecedor.
-**Cond.Pagto** | Selecione o cond.pagto.
+**Cond.Pagto** | Selecione a condição de pagamento.
 **Redespacho** | Selecione o redespacho.
-**Forma.Pagto** | Informe o forma.pagto.
-**Tipo Venda** | Informe a tipo venda.
-**% Esc.Comissão** | Informe o % esc.comissão.
+**Forma.Pagto** | Informe a forma de pagamento.
+**Tipo Venda** | Informe o tipo de venda.
+**% Esc.Comissão** | Informe o percentual de comissão do escritório.
 <br>
 
 ## Comandos

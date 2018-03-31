@@ -12,14 +12,14 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Número** | Informa o número.
-**Emissão** | Informa o emissão.
-**Prev.Fat** | Informa o prev.fat.
+**Emissão** | Informa a data da emissão.
+**Prev.Fat** | Informa a data da previsão de faturamento.
 **Cliente** | Informa o cliente.
 **Fornecedor** | Informa o fornecedor.
 **Valor Total** | Informa o valor total.
-**Qtdade** | Informa o qtdade.
-**Notafiscal** | Informa o notafiscal.
-**Ped.Orig.** | Informa o ped.orig..
+**Qtdade** | Informa a quantidade.
+**Notafiscal** | Informa a nota fiscal.
+**Ped.Orig.** | Informa o pedido original..
 <br>
 
 ## Geral
@@ -28,52 +28,52 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Número** | Informa o número. Por padrão, este campo é obrigatório.
-**Pedido Original** | Informa o ped.orig..
-**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
+**Pedido Original** | Informe o pedido original..
+**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório.
 **Estado** | Informa o estado. Opções: Aberto, Cancelado, Faturado e Entregue, Fechado. Por padrão, este campo é obrigatório.
-**Cliente** | Informa o cliente. Por padrão, este campo é obrigatório.
+**Cliente** | Selecione o cliente. Por padrão, este campo é obrigatório.
 **Contato** | Informe o contato.
 **Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório.
 **Empresa** | Informa a empresa. Por padrão, este campo é obrigatório.
-**Emissão** | Informa o emissão.
-**Prev.Faturamento** | Informa o prev.fat. Por padrão, este campo é obrigatório.
-**Fechamento** | Informa o fechamento.
-**Prev.Entrega** | Informe a prev.entrega.
-**Cond.Pagto** | Selecione o cond.pagto. Por padrão, este campo é obrigatório.
-**Forma Pagto** | Informe o forma pagto. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
-**Tipo Venda** | Informe a tipo venda. Opções: Coleção, Desenvolvimento, Exportação, Saldo. Por padrão, este campo é obrigatório.
-**Tipo Faturamento** | Informe o tipo faturamento. Opções: Normal, VOL. Por padrão, este campo é obrigatório.
-**Pedido enviado por e-mail cliente/fornecedor** | Informe o pedido enviado por e-mail cliente/fornecedor.
-**Data Faturamento** | Informe o data faturamento.
-**Nota Fiscal** | Informa o notafiscal.
+**Emissão** | Informa a data da emissão.
+**Prev.Faturamento** | Informe a data da previsão de faturamento. Por padrão, este campo é obrigatório.
+**Fechamento** | Informa a data do fechamento.
+**Prev.Entrega** | Informe a data da previsão de entrega.
+**Cond.Pagto** | Selecione a condição de pagamento. Por padrão, este campo é obrigatório.
+**Forma Pagto** | Informe o forma pagamento. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
+**Tipo Venda** | Informe o tipo venda. Opções: Coleção, Desenvolvimento, Exportação, Saldo. Por padrão, este campo é obrigatório.
+**Tipo Faturamento** | Informe o tipo de faturamento. Opções: Normal, VOL. Por padrão, este campo é obrigatório.
+**Pedido enviado por e-mail cliente/fornecedor** | Selecione se o pedido foi enviado por e-mail para o cliente/fornecedor.
+**Data Faturamento** | Informe a data do faturamento.
+**Nota Fiscal** | Informe a nota fiscal.
 **Comissionado** | Selecione o comissionado. Por padrão, este campo é obrigatório.
-**% Comissão** | Informe o % comissão. Por padrão, este campo é obrigatório.
+**% Comissão** | Informe o percentual de comissão. Por padrão, este campo é obrigatório.
 **Preposto1** | Selecione o preposto1.
-**% Comissão** | Informe o % comissão.
+**% Comissão** | Informe o percentual de comissão.
 **Preposto2** | Selecione o preposto2.
-**% Comissão** | Informe o % comissão.
+**% Comissão** | Informe o percentual de comissão.
 **Preposto3** | Selecione o preposto3.
-**% Comissão** | Informe o % comissão.
+**% Comissão** | Informe o percentual de comissão.
 **Preposto4** | Selecione o preposto4.
-**% Comissão** | Informe o % comissão.
-**% Comissão Total** | Informe o % comissão total.
-**Qtdade Total** | Informa o qtdade.
-**Valor Itens** | Informa o valor itens.
-**Valor Frete** | Informe o valor frete.
+**% Comissão** | Informe o percentual de comissão.
+**% Comissão Total** | Informe o percentual total de  comissão.
+**Qtdade Total** | Informa a quantidade.
+**Valor Itens** | Informa o valor total dos  itens.
+**Valor Frete** | Informe o valor do frete.
 **Valor Total** | Informa o valor total.
-**% ICMS** | Informe o % icms.
-**Comissão Total** | Informa o comissão total.
-**% Comercial** | Informe o % comercial.
+**% ICMS** | Informe o percentual de ICMS.
+**Comissão Total** | Informa o total de comissão.
+**% Comercial** | Informe o percentual comercial.
 **Valor Comercial** | Informa o valor comercial.
-**% Financeiro** | Informe o % financeiro.
+**% Financeiro** | Informe o percentual financeiro.
 **Valor Financeiro** | Informa o valor financeiro.
-**% Geral** | Informe o % geral.
+**% Geral** | Informe o percentual geral.
 **Valor Geral** | Informe o valor geral.
 **Transportadora** | Selecione a transportadora.
 **Frete** | Selecione o frete.
 **Redespacho** | Selecione o redespacho.
-**Frete Red.** | Selecione o frete red..
-**Lista de Produtos** | Selecione o lista de produtos.
+**Frete Red.** | Selecione o frete redespacho.
+**Lista de Produtos** | Selecione a lista de produtos.
 <br>
 
 ## Itens
@@ -88,8 +88,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Observação** | Informe o observação.
-**Informações** | Informe o informações.
+**Observação** | Informe uma observação.
+**Informações** | Informe informações.
 <br>
 
 ## Histórico
@@ -107,7 +107,7 @@ Campo | Descrição
 --:|---
 **Ocorrência** | Informa a ocorrência.
 **Data** | Informa a data.
-**Motivo** | Informa o motivo.
+**Motivo** | Informa um motivo.
 <br>
 
 ## Comandos
