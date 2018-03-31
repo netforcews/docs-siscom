@@ -8,7 +8,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Arquivo** | Informa o arquivo.
-**PDF** | Informa o pdf.
+**PDF** | Informa se PDF.
 <br>
 
 ## Geral
@@ -16,8 +16,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Arquivo** | Informa o arquivo. Por padrão, este campo é obrigatório.
-**Incluir no PDF** | Informa o pdf.
+**Arquivo** | Informe o arquivo. Por padrão, este campo é obrigatório.
+**Incluir no PDF** | Selecione se PDF.
 <br>
 <br>
 <br>

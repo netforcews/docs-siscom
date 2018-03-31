@@ -8,10 +8,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Coluna** | Informa a coluna.
-**Ord** | Informa o ord.
+**Ord** | Informa a ordem.
 **Legenda** | Informa a legenda.
 **Tipo** | Informa o tipo.
-**Atv** | Informa o atv.
+**Atv** | Informa se ativo.
 <br>
 
 ## Geral
@@ -19,11 +19,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Coluna** | Informa a coluna. Opções: Coluna 1, Coluna 2. Por padrão, este campo é obrigatório.
-**Ordem** | Informa o ord. Por padrão, este campo é obrigatório.
-**Legenda** | Informa a legenda. Por padrão, este campo é obrigatório.
-**Tipo** | Informa o tipo. Opções: Interface, Portlet, Texto. Por padrão, este campo é obrigatório.
-**Ativo** | Informa o atv.
+**Coluna** | Selecione a coluna. Opções: Coluna 1, Coluna 2. Por padrão, este campo é obrigatório.
+**Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
+**Legenda** | Informe a legenda. Por padrão, este campo é obrigatório.
+**Tipo** | Selecione o tipo. Opções: Interface, Portlet, Texto. Por padrão, este campo é obrigatório.
+**Ativo** | Selecione se ativo.
 <br>
 
 ## Interfaces
@@ -31,8 +31,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Interface** | Selecione o interface.
-**Visão** | Selecione o visão.
+**Interface** | Selecione a interface.
+**Visão** | Selecione a visão.
 <br>
 
 ## Portlet
@@ -41,7 +41,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Portlet** | Selecione o portlet.
-**Parametros** | Informe o parametros.
+**Parametros** | Informe os parametros.
 <br>
 
 ## Textos

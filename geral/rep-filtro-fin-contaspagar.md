@@ -8,11 +8,11 @@ Campo | Descrição
 --:|---
 **Empresa** | Selecione a empresa.
 **Fornecedor** | Selecione o fornecedor.
-**Início** | Informe o início.
-**Fim** | Informe o fim.
-**Data por** | Selecione a data por. Opções: Pagamento, Vencimento. Por padrão, este campo é obrigatório.
+**Início** | Informe a data do início.
+**Fim** | Informe a data do fim.
+**Data por** | Selecione o data. Opções: Pagamento, Vencimento. Por padrão, este campo é obrigatório.
 **Situação** | Selecione a situação. Opções: Abertos, Ambos, Quitados. Por padrão, este campo é obrigatório.
-**Tipo Vencto** | Selecione o tipo vencto. Opções: Ambos, Previsto, Real. Por padrão, este campo é obrigatório.
+**Tipo Vencto** | Selecione o tipo de vencimento. Opções: Ambos, Previsto, Real. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

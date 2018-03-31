@@ -9,7 +9,7 @@ Campo | Descrição
 --:|---
 **Empresa** | Informa a empresa.
 **Representante** | Informa o representante.
-**% Com** | Informa o % com.
+**% Com** | Informa o percentual de comissão.
 <br>
 
 ## Geral
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório.
-**Representante** | Informa o representante. Por padrão, este campo é obrigatório.
-**% Comissao** | Informa o % com.
+**Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório.
+**Representante** | Selecione o representante. Por padrão, este campo é obrigatório.
+**% Comissao** | Informe o percentual de comissão.
 <br>
 <br>
 <br>

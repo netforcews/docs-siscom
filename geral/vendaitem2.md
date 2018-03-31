@@ -8,10 +8,10 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Referência** | Informa a referência.
-**Descrição** | Informa o descrição.
+**Descrição** | Informa a descrição.
 **Cor** | Informa o cor.
-**Qtdade** | Informa o qtdade.
-**Un.** | Informa o un..
+**Qtdade** | Informa a quantidade .
+**Un.** | Informa a unidade.
 **Valor** | Informa o valor.
 **Total** | Informa o total.
 <br>
@@ -21,40 +21,40 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Referência** | Informa a referência. Por padrão, este campo é obrigatório.
+**Referência** | Informe a referência. Por padrão, este campo é obrigatório.
 **Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
-**Descrição** | Informe o descrição. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
 **Complemento** | Informe o complemento.
-**Complemento2** | Informe o complemento2.
-**Unidade** | Informa o un.. Por padrão, este campo é obrigatório.
+**Complemento2** | Informe o complemento 2.
+**Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório.
 **Linha** | Selecione a linha.
-**Cor** | Informa o cor.
-**Valor Venda** | Informa o valor. Por padrão, este campo é obrigatório.
-**Tam.01** | Informe o tam.01. Por padrão, este campo é obrigatório.
-**Qtd.01** | Informe o qtd.01. Por padrão, este campo é obrigatório.
-**Tam.02** | Informe o tam.02.
-**Qtd.02** | Informe o qtd.02.
-**Tam.03** | Informe o tam.03.
-**Qtd.03** | Informe o qtd.03.
-**Tam.04** | Informe o tam.04.
-**Qtd.04** | Informe o qtd.04.
-**Tam.05** | Informe o tam.05.
-**Qtd.05** | Informe o qtd.05.
-**Tam.06** | Informe o tam.06.
-**Qtd.06** | Informe o qtd.06.
-**Tam.07** | Informe o tam.07.
-**Qtd.07** | Informe o qtd.07.
-**Tam.08** | Informe o tam.08.
-**Qtd.08** | Informe o qtd.08.
-**Tam.09** | Informe o tam.09.
-**Qtd.09** | Informe o qtd.09.
-**Tam.10** | Informe o tam.10.
-**Qtd.10** | Informe o qtd.10.
-**Tam.11** | Informe o tam.11.
-**Qtd.11** | Informe o qtd.11.
-**Tam.12** | Informe o tam.12.
-**Qtd.12** | Informe o qtd.12.
-**Qtdade** | Informa o qtdade.
+**Cor** | Informe o cor.
+**Valor Venda** | Informe o valor. Por padrão, este campo é obrigatório.
+**Tam.01** | Informe o tamanho 01. Por padrão, este campo é obrigatório.
+**Qtd.01** | Informe a quantidade 01. Por padrão, este campo é obrigatório.
+**Tam.02** | Informe o tamanho 02.
+**Qtd.02** | Informe a quantidade 02.
+**Tam.03** | Informe o tamanho 03.
+**Qtd.03** | Informe a quantidade 03.
+**Tam.04** | Informe o tamanho 04.
+**Qtd.04** | Informe a quantidade 04.
+**Tam.05** | Informe o tamanho 05.
+**Qtd.05** | Informe a quantidade 05.
+**Tam.06** | Informe o tamanho 06.
+**Qtd.06** | Informe a quantidade 06.
+**Tam.07** | Informe o tamanho 07.
+**Qtd.07** | Informe a quantidade 07.
+**Tam.08** | Informe o tamanho 08.
+**Qtd.08** | Informe a quantidade 08.
+**Tam.09** | Informe o tamanho 09.
+**Qtd.09** | Informe a quantidade 09.
+**Tam.10** | Informe o tamanho 10.
+**Qtd.10** | Informe a quantidade 10.
+**Tam.11** | Informe o tamanho 11.
+**Qtd.11** | Informe a quantidade 11.
+**Tam.12** | Informe o tamanho 12.
+**Qtd.12** | Informe a quantidade 12.
+**Qtdade** | Informa a quantidade .
 **Valor** | Informa o total.
 <br>
 

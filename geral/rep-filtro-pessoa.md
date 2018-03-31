@@ -14,8 +14,8 @@ Campo | Descrição
 **Região de Venda** | Selecione a região de venda.
 **Representante** | Selecione o representante.
 **Fornecedor** | Selecione o fornecedor.
-**Início** | Informe o início.
-**Término** | Informe o término.
+**Início** | Informe a data do início.
+**Término** | Informe a data do término.
 <br>
 <br>
 <br>

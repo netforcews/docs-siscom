@@ -11,11 +11,11 @@ Campo | Descrição
 **Atendente** | Selecione o atendente.
 **Comissionado** | Selecione o comissionado.
 **Situação** | Selecione a situação. Opções: Abertos, Ambos, Quitados. Por padrão, este campo é obrigatório.
-**Início** | Informe o início.
-**Fim** | Informe o fim.
-**Data por** | Selecione a data por. Opções: Entrega/Faturamento, Fechamento, Recebimento, Vencto Comissão, Vencto Parcela. Por padrão, este campo é obrigatório.
-**Inicio** | Informe o inicio.
-**Fim** | Informe o fim.
+**Início** | Informe a data do início.
+**Fim** | Informe a data do fim.
+**Data por** | Selecione o data. Opções: Entrega/Faturamento, Fechamento, Recebimento, Vencto Comissão, Vencto Parcela. Por padrão, este campo é obrigatório.
+**Inicio** | Informe a data do inicio.
+**Fim** | Informe a data do fim.
 <br>
 <br>
 <br>

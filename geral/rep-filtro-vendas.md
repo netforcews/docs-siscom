@@ -12,14 +12,14 @@ Campo | Descrição
 **Cliente** | Selecione o cliente.
 **Grupo de Cliente** | Selecione o grupo de cliente.
 **Linha de Produtos** | Selecione a linha de produtos.
-**Início** | Informe o início.
-**Fim** | Informe o fim.
-**Data por** | Selecione a data por. Opções: Cancelamento, Emissão, Faturamento, Fechamento, Prev.Faturamento. Por padrão, este campo é obrigatório.
+**Início** | Informe a data do início.
+**Fim** | Informe a data do fim.
+**Data por** | Selecione o data. Opções: Cancelamento, Emissão, Faturamento, Fechamento, Prev.Faturamento. Por padrão, este campo é obrigatório.
 **Estado** | Selecione o estado. Opções: Abertos, Ambos, Cancelados, Fechados. Por padrão, este campo é obrigatório.
 **Modo** | Selecione o modo. Opções: Ambos, Somente gráfico, Somente relatório. Por padrão, este campo é obrigatório.
-**Exibir comissões se houver** | Informe o exibir comissões se houver.
-**Tipo Venda** | Informe o tipo venda.
-**Ordenar por** | Selecione ordenar por. Opções: Emissão, Faturamento, Número, Prev.Entrega, Prev.Faturamento. Por padrão, este campo é obrigatório.
+**Exibir comissões se houver** | Selecione se deve exibir comissões, quando houver.
+**Tipo Venda** | Informe a tipo venda.
+**Ordenar por** | Selecione a ordem. Opções: Emissão, Faturamento, Número, Prev.Entrega, Prev.Faturamento. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

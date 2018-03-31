@@ -8,8 +8,8 @@ Campo | Descrição
 --:|---
 **Fornecedor** | Selecione o fornecedor.
 **Atendente** | Selecione o atendente.
-**Início** | Informe o início.
-**Fim** | Informe o fim.
+**Início** | Informe a data do início.
+**Fim** | Informe a data do fim.
 **Estado** | Selecione o estado. Opções: Ambos, Concluído, Edição/Disponivel. Por padrão, este campo é obrigatório.
 <br>
 <br>

@@ -7,9 +7,9 @@
 Campo | Descrição
 --:|---
 **Conta** | Selecione a conta.
-**Início** | Informe o início.
-**Término** | Informe o término.
-**Ignorar contas sem lançamentos** | Informe se deve  ignorar contas sem lançamentos.
+**Início** | Informe a data do início.
+**Término** | Informe a data do término.
+**Ignorar contas sem lançamentos** | Selecione se deve ignorar contas sem lançamentos.
 <br>
 <br>
 <br>

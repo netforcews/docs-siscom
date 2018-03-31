@@ -16,12 +16,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Grupo** | Informa o grupo. Por padrão, este campo é obrigatório.
-**Ver** | Informa o ver.
-**Editar** | Informe o editar.
-**Inserir** | Informe o inserir.
-**Excluir** | Informe o excluir.
-**Manter** | Informe o manter.
+**Grupo** | Selecione o grupo. Por padrão, este campo é obrigatório.
+**Ver** | Informa se permie ver.
+**Editar** | Selecione se permite editar.
+**Inserir** | Selecione se permite inserir.
+**Excluir** | Selecione se permite  excluir.
+**Manter** | Selecione se permite  manter.
 <br>
 <br>
 <br>

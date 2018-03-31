@@ -16,12 +16,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Conta** | Informa a conta. Por padrão, este campo é obrigatório.
-**Ver** | Informa o ver.
-**Editar** | Informe o editar.
-**Inserir** | Informe o inserir.
-**Excluir** | Informe o excluir.
-**Manter** | Informe o manter.
+**Conta** | Selecione a conta. Por padrão, este campo é obrigatório.
+**Ver** | Informa se permie ver.
+**Editar** | Selecione se permite editar.
+**Inserir** | Selecione se permite inserir.
+**Excluir** | Selecione se permite  excluir.
+**Manter** | Selecione se permite  manter.
 <br>
 <br>
 <br>

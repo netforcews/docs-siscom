@@ -6,8 +6,8 @@
 
 Campo | Descrição
 --:|---
-**Início** | Informe o início.
-**Fim** | Informe o fim.
+**Início** | Informe a data do início.
+**Fim** | Informe a data do fim.
 <br>
 <br>
 <br>

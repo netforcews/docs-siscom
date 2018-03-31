@@ -8,7 +8,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Nota** | Informa a nota.
-**NF Emissão** | Informa o nf emissão.
+**NF Emissão** | Informa a data da emissão da nota fiscal.
 **Valor** | Informa o valor.
 <br>
 
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nota** | Informa a nota. Por padrão, este campo é obrigatório.
-**NF Emissão** | Informa o nf emissão. Por padrão, este campo é obrigatório.
-**Valor** | Informa o valor. Por padrão, este campo é obrigatório.
+**Nota** | Informe a nota. Por padrão, este campo é obrigatório.
+**NF Emissão** | Informe a data da emissão da nota fiscal. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

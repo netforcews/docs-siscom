@@ -6,7 +6,7 @@
 
 Campo | Descrição
 --:|---
-**Até data** | Informe  até data. Por padrão, este campo é obrigatório.
+**Até data** | Informe a data do fim. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

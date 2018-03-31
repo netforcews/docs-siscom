@@ -7,11 +7,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | Informa o descrição.
+**Descrição** | Informa a descrição.
 **Linha** | Informa a linha.
-**Un** | Informa o un.
+**Un** | Informa a unidade.
 **Valor** | Informa o valor.
-**Qtdade** | Informa o qtdade.
+**Qtdade** | Informa a quantidade.
 **Total** | Informa o total.
 <br>
 
@@ -20,13 +20,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
 **Resumo** | Informe o resumo.
-**Unidade** | Informa o un. Por padrão, este campo é obrigatório.
-**Qualidade** | Selecione o qualidade. Opções: Aproveitamento, Primeira, Segunda. Por padrão, este campo é obrigatório.
-**Linha** | Informa a linha.
-**Qtdade** | Informa o qtdade. Por padrão, este campo é obrigatório.
-**Valor** | Informa o valor. Por padrão, este campo é obrigatório.
+**Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório.
+**Qualidade** | Selecione a qualidade. Opções: Aproveitamento, Primeira, Segunda. Por padrão, este campo é obrigatório.
+**Linha** | Selecione a linha.
+**Qtdade** | Informe a quantidade. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
 **Valor Total** | Informa o total.
 <br>
 <br>

@@ -9,8 +9,8 @@ Campo | Descrição
 --:|---
 **Data** | Informa a data.
 **Objeto** | Informa o objeto.
-**Operação** | Informa o operação.
-**IP** | Informa o ip.
+**Operação** | Informa a operação.
+**IP** | Informa o IP.
 <br>
 
 ## Log
@@ -21,9 +21,9 @@ Campo | Descrição
 **Data** | Informa a data.
 **Usuário** | Informa o usuário.
 **Objeto** | Informa o objeto. Por padrão, este campo é obrigatório.
-**Operação** | Informa o operação. Por padrão, este campo é obrigatório.
-**Dados** | Informa o dados.
-**IP** | Informa o ip.
+**Operação** | Informe a operação. Por padrão, este campo é obrigatório.
+**Dados** | Informa os dados.
+**IP** | Informa o IP.
 <br>
 <br>
 <br>

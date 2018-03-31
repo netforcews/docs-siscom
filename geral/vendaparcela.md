@@ -8,8 +8,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Número** | Informa o número.
-**Dias** | Informa o dias.
-**Vencimento** | Informa o vencimento.
+**Dias** | Informa o número de dias.
+**Vencimento** | Informa a data do vencimento.
 **Valor** | Informa o valor.
 <br>
 
@@ -19,9 +19,9 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Número** | Informa o número.
-**Dias** | Informa o dias. Por padrão, este campo é obrigatório.
-**Vencimento** | Informa o vencimento. Por padrão, este campo é obrigatório.
-**Valor** | Informa o valor. Por padrão, este campo é obrigatório.
+**Dias** | Informe o número de dias. Por padrão, este campo é obrigatório.
+**Vencimento** | Informe a data do vencimento. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
 <br>
 
 ## Comandos

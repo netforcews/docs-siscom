@@ -10,8 +10,8 @@ Campo | Descrição
 **Número** | Informa o número.
 **Fornecedor** | Informa o fornecedor.
 **Atendente** | Informa o atendente.
-**Inclusão** | Informa o inclusão.
-**Qtdade** | Informa o qtdade.
+**Inclusão** | Informa a data da inclusão.
+**Qtdade** | Informa a quantidade.
 **Valor** | Informa o valor.
 <br>
 
@@ -21,18 +21,18 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Número** | Informa o número.
-**Inclusão** | Informa o inclusão.
+**Inclusão** | Informa a data da inclusão.
 **Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório.
 **Estado** | Selecione o estado. Opções: Cancelado, Concluído, Disponível, Edição. Por padrão, este campo é obrigatório.
-**Atendente** | Informa o atendente. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
+**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório.
 **Contato** | Informe o contato.
 **Telefone** | Informe o telefone.
 **Valor Total** | Informa o valor.
-**Qtd.Total** | Informa o qtd.total.
-**Qtd.Vendido** | Informa o qtd.vendido.
-**Qtd.Saldo** | Informa o qtdade.
-**Observação** | Informe o observação.
+**Qtd.Total** | Informa a quan tidade total.
+**Qtd.Vendido** | Informa a quantidade vendida.
+**Qtd.Saldo** | Informa a quantidade.
+**Observação** | Informe uma observação.
 <br>
 
 ## Links

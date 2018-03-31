@@ -8,11 +8,11 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Referência** | Informa a referência.
-**Descrição** | Informa o descrição.
-**Tam** | Informa o tam.
-**Cor** | Informa o cor.
-**Qtdade** | Informa o qtdade.
-**Un** | Informa o un.
+**Descrição** | Informa a descrição.
+**Tam** | Informa o tamanho.
+**Cor** | Informa a cor.
+**Qtdade** | Informa a quantidade.
+**Un** | Informa a unidade.
 **Valor** | Informa o valor.
 **Total** | Informa o total.
 <br>
@@ -22,17 +22,17 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Referência** | Informa a referência. Por padrão, este campo é obrigatório.
+**Referência** | Informe a referência. Por padrão, este campo é obrigatório.
 **Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
-**Descrição** | Informa o descrição.
+**Descrição** | Informe a descrição.
 **Complemento** | Informe o complemento.
-**Unidade** | Informa o un. Por padrão, este campo é obrigatório.
+**Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório.
 **Linha** | Selecione a linha.
-**Tamanho** | Informa o tam.
-**Cor** | Informa o cor.
-**Quantidade** | Informa o qtdade. Por padrão, este campo é obrigatório.
-**Valor Custo** | Informe o valor custo.
-**Valor** | Informa o valor. Por padrão, este campo é obrigatório.
+**Tamanho** | Informe o tamanho.
+**Cor** | Informe a cor.
+**Quantidade** | Informe a quantidade. Por padrão, este campo é obrigatório.
+**Valor Custo** | Informe o valor de custo.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
 **Valor Total** | Informa o total.
 <br>
 <br>

@@ -7,23 +7,23 @@
 Campo | Descrição
 --:|---
 **Versão.Pedido** | Selecione a versão do pedido. Opções: Normal, Para Cliente. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informe o fornecedor.
+**Fornecedor** | Selecione se é fornecedor.
 **E-mail** | Informa o e-mail.
-**Cliente** | Informe o cliente.
+**Cliente** | Selecione se é cliente.
 **E-mail** | Informa o e-mail.
-**Atendente** | Informe o atendente.
+**Atendente** | Selecione se é atendente.
 **E-mail** | Informa o e-mail.
-**Comissionado** | Informe o comissionado.
+**Comissionado** | Selecione se é comissionado.
 **E-mail** | Informa o e-mail.
-**Preposto 1** | Informe o preposto 1.
+**Preposto 1** | Selecione se é preposto 1.
 **E-mail** | Informa o e-mail.
-**Preposto 2** | Informe o preposto 2.
+**Preposto 2** | Selecione se é preposto 2.
 **E-mail** | Informa o e-mail.
-**Preposto 3** | Informe o preposto 3.
+**Preposto 3** | Selecione se é preposto 3.
 **E-mail** | Informa o e-mail.
-**Preposto 4** | Informe o preposto 4.
+**Preposto 4** | Selecione se é preposto 4.
 **E-mail** | Informe o e-mail.
-**Usuário** | Informe o usuário.
+**Usuário** | Selecione se é usuário.
 **E-mail** | Informa o e-mail.
 **Outros** | Informe outros.
 <br>

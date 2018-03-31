@@ -7,9 +7,9 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Ord** | Informa o ord.
+**Ord** | Informa a ordem.
 **Regra** | Informa a regra.
-**Atv** | Informa o atv.
+**Atv** | Informa se ativo.
 <br>
 
 ## Geral
@@ -17,9 +17,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Ordem** | Informa o ord. Por padrão, este campo é obrigatório.
-**Ativo** | Informa o atv.
-**Regra** | Informa a regra. Por padrão, este campo é obrigatório.
+**Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
+**Ativo** | Selecione se ativo.
+**Regra** | Selecione a regra. Por padrão, este campo é obrigatório.
 <br>
 
 ## Comandos

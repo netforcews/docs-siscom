@@ -10,9 +10,9 @@ Campo | Descrição
 **Cliente** | Selecione o cliente.
 **Atendente** | Selecione o atendente.
 **Comissionado** | Selecione o comissionado.
-**Início** | Informe o início.
-**Fim** | Informe o fim.
-**Data por** | Selecione a data por. Opções: Entrega/Faturamento, Fechamento, Pagamento, Vencimento. Por padrão, este campo é obrigatório.
+**Início** | Informe a data do início.
+**Fim** | Informe a data do fim.
+**Data por** | Selecione o data. Opções: Entrega/Faturamento, Fechamento, Pagamento, Vencimento. Por padrão, este campo é obrigatório.
 **Situação** | Selecione a situação. Opções: Abertos, Ambos, Quitados. Por padrão, este campo é obrigatório.
 <br>
 <br>
