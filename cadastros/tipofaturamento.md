@@ -11,7 +11,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | Informa o descrição.
+**Descrição** | Informa a descrição.
 <br>
 
 ## Geral
@@ -19,11 +19,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
-**% Faturamento** | Informe o % faturamento.
-**Data do Fatur.** | Selecione o data do fatur.. Opções: Faturamento, Mês subsequente ao faturamento, Primeira parcela, Última parcela. Por padrão, este campo é obrigatório.
-**% Liquidez Parcs.** | Informe o % liquidez parcs..
-**Data das Parcs** | Selecione o data das parcs. Opções: Parcelas, Última parcela. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**% Faturamento** | Informe o percentual de faturamento.
+**Data do Fatur.** | Selecione a data do faturamento. Opções: Faturamento, Mês subsequente ao faturamento, Primeira parcela, Última parcela. Por padrão, este campo é obrigatório.
+**% Liquidez Parcs.** | Informe o percentual de liquidez das parcelas..
+**Data das Parcs** | Selecione a data das parcelas. Opções: Parcelas, Última parcela. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

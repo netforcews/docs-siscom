@@ -27,26 +27,26 @@ Campo | Descrição
 --:|---
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
 **Marca** | Informe o nome fantasia (apelido). Por padrão, este campo é obrigatório.
-**Grupo** | Informe o grupo.
+**Grupo** | Selecione o grupo.
 **Código** | Informa o código.
 **CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo.
-**Tipo** | Informe o tipo, física ou jurídica. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
+**Tipo** | Selecione o tipo. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
 **IE** | Informe a Inscrição Estadual.
-**Ramo Atividade** | Informe o ramo de atividade.
+**Ramo Atividade** | Selecione o ramo de atividade.
 **Logradouro** | Informe o logradouro.
 **Número** | Informe o número do logradouro.
 **Complemento** | Informe o complemento do endenreço.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
-**Estado** | Informe o estado.
-**Município** | Informe o município.
-**Data Nasc.** | Informe a data de nascimento.
-**Data Cadastro** | Informa a data de cadastro.
+**Estado** | Selecione o estado.
+**Município** | Selecione o município.
+**Data Nasc.** | Informe a data do nascimento.
+**Data Cadastro** | Informa a data do cadastro.
 **WebSite** | Informe o website.
 **DDD** | Informe o DDD.
 **Telefone** | Informe o telefone.
 **Fax** | Informe o fax.
-**Contatos migrados para o novo formato** | Informe o migrado.
+**Contatos migrados para o novo formato** | Selecione se migrado.
 <br>
 
 ## Configurações
@@ -56,29 +56,29 @@ Campo | Descrição
 --:|---
 **Situação** | Informe a situação. Opções: Ativo, Bloq. c/ pendência financeira, Bloqueado, Inativo, Prospect. Por padrão, este campo é obrigatório.
 **Data Situação** | Informa a data da situação.
-**Responsável** | Informe o responsável.
-**Região Venda** | Informe a região de venda.
+**Responsável** | Selecione o responsável.
+**Região Venda** | Selecione a região de venda.
 **Suframa** | Informe o suframa.
 **Crédito** | Informe o crédito.
 **Ultima Compra** | Informa a data da última compra.
-**Condição Pagto** | Informe a condição de pagamento padrão.
+**Condição Pagto** | Selecione a condição de pagamento padrão.
 **Forma Pagto** | Informe a forma de pagamento padrão.
-**Frete** | Informe o frete padrão.
-**Tipo de Cliente** | Informe o tipo de pessoa.
-**Freq.Compra** | Informa a frequência de compra.
-**Tipo Faturamento** | Informe o tipo de faturamento padrão.
+**Frete** | Selecione o frete padrão.
+**Tipo de Cliente** | Selecione o tipo de pessoa.
+**Freq.Compra** | Informe a frequência de compra.
+**Tipo Faturamento** | Selecione o tipo de faturamento padrão.
 **Melhor Dia Pagto** | Informe o melhor dia para pagamento.
 **Pedido mínimo** | Informe o pedido mínimo.
 **Comissão Padrão** | Informe a comissão padrão.
 **Core** | Informe o core.
 **Meta.Fat.** | Informe a meta de faturamento.
 **Meta.Comiss.** | Informe a meta de comissão.
-**Aviso de Faturamento** | Informe o aviso de faturamento.
-**Aviso de Pedidos Atrasados** | Informe se deve enviar aviso de pedidos atrasados.
-**Aviso de previsão dos pedidos** | Informe se deve avisar previsão dos pedidos.
-**Avisos de administrador** | Informe se deve avisar  avisos de administrador.
-**CC (Receita)** | Informe a conta contábil de receita.
-**CC (Despesa)** | Informe a conta contábil de despesa.
+**Aviso de Faturamento** | Selecione se aviso de faturamento.
+**Aviso de Pedidos Atrasados** | Selecione se deve enviar aviso de pedidos atrasados.
+**Aviso de previsão dos pedidos** | Selecione se deve avisar previsão dos pedidos.
+**Avisos de administrador** | Selecione se deve avisar  avisos de administrador.
+**CC (Receita)** | Selecione a a conta contábil de receita.
+**CC (Despesa)** | Selecione a conta contábil de despesa.
 **Cliente** | Selecione se a pessoa é um cliente.
 **Prestador de Serviço** | Selecione se a pessoa é um fornecedor.
 **Fornecedor** | Selecione se a pessoa é uma representada.
@@ -117,8 +117,8 @@ Campo | Descrição
 **Complemento** | Informe o complemento do endenreço.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
-**Estado** | Informe o estado.
-**Município** | Informe o município.
+**Estado** | Selecione o estado.
+**Município** | Selecione o município.
 **CNPJ** | Informe o CNPJ.
 **IE** | Informe a Inscrição Estadual.
 **Telefone** | Informe o telefone.
@@ -129,8 +129,8 @@ Campo | Descrição
 **Complemento** | Informe o complemento do endenreço.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
-**Estado** | Informe o estado.
-**Município** | Informe o município.
+**Estado** | Selecione o estado.
+**Município** | Selecione o município.
 **Telefone** | Informe o telefone.
 **Fax** | Informe o fax.
 <br>
@@ -158,7 +158,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Logo** | Informe a logo.
+**Logo** | Selecione uma logo.
 <br>
 
 ## Links

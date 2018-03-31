@@ -26,18 +26,18 @@ Campo | Descrição
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
 **Marca** | Informe o nome fantasia (apelido). Por padrão, este campo é obrigatório.
 **CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo. Por padrão, este campo é obrigatório.
-**Tipo** | Informe o tipo, física ou jurídica. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
+**Tipo** | Selecione o tipo. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
 **IE** | Informe a Inscrição Estadual. Por padrão, este campo é obrigatório.
-**Ramo Atividade** | Informe o ramo de atividade. Por padrão, este campo é obrigatório.
+**Ramo Atividade** | Selecione o ramo de atividade. Por padrão, este campo é obrigatório.
 **Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
 **Número** | Informe o número do logradouro. Por padrão, este campo é obrigatório.
 **Complemento** | Informe o complemento do endenreço.
 **Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
 **CEP** | Informe o CEP. Por padrão, este campo é obrigatório.
-**Estado** | Informe o estado. Por padrão, este campo é obrigatório.
-**Município** | Informe o município. Por padrão, este campo é obrigatório.
-**Data Nasc.** | Informe a data de nascimento.
-**Data Cadastro** | Informa a data de cadastro.
+**Estado** | Selecione o estado. Por padrão, este campo é obrigatório.
+**Município** | Selecione o município. Por padrão, este campo é obrigatório.
+**Data Nasc.** | Informe a data do nascimento.
+**Data Cadastro** | Informa a data do cadastro.
 <br>
 
 ## Contatos
@@ -62,8 +62,8 @@ Campo | Descrição
 --:|---
 **Situação** | Informe a situação. Opções: Ativo, Bloq. c/ pendência financeira, Bloqueado, Inativo, Prospect. Por padrão, este campo é obrigatório.
 **Data Situação** | Informa a data da situação.
-**CC (Receita)** | Informe a conta contábil de receita.
-**CC (Despesa)** | Informe a conta contábil de despesa.
+**CC (Receita)** | Selecione a a conta contábil de receita.
+**CC (Despesa)** | Selecione a conta contábil de despesa.
 <br>
 
 ## Observação

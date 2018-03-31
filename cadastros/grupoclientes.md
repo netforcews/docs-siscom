@@ -20,8 +20,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
-**Contato** | Informa o contato.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Contato** | Informe o contato.
 <br>
 <br>
 <br>

@@ -11,7 +11,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | Informa o descrição.
+**Descrição** | Informa a descrição.
 **Fornecedor** | Informa o fornecedor.
 <br>
 
@@ -20,8 +20,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informa o fornecedor.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o fornecedor.
 <br>
 <br>
 <br>

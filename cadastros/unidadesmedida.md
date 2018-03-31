@@ -12,8 +12,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Símbolo** | Informa o símbolo.
-**Descrição** | Informa o descrição.
-**P.Fra** | Informa a p.fra.
+**Descrição** | Informa a descrição.
+**P.Fra** | Informa se permite fracionar.
 <br>
 
 ## Geral
@@ -21,9 +21,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Símbolo** | Informa o símbolo. Por padrão, este campo é obrigatório.
-**Permite Fracionar** | Informa a p.fra.
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
+**Símbolo** | Informe o símbolo. Por padrão, este campo é obrigatório.
+**Permite Fracionar** | Selecione se permite fracionar.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

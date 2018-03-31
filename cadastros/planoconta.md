@@ -12,7 +12,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Estrutura** | Informa a estrutura.
-**Descrição** | Informa o descrição.
+**Descrição** | Informa a descrição.
 <br>
 
 ## Geral
@@ -20,9 +20,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Estrutura** | Informa a estrutura. Por padrão, este campo é obrigatório.
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
-**Classificação** | Selecione o classificação. Opções: Ativo, Despesas, Passivo, Receitas. Por padrão, este campo é obrigatório.
+**Estrutura** | Informe a estrutura. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Classificação** | Selecione a classificação. Opções: Ativo, Despesas, Passivo, Receitas. Por padrão, este campo é obrigatório.
 **Tipo** | Selecione o tipo. Opções: Lançamento, Total e SubTotal. Por padrão, este campo é obrigatório.
 <br>
 <br>

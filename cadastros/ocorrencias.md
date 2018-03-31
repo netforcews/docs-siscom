@@ -11,8 +11,8 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Descrição** | Informa o descrição.
-**Ativo** | Informa o ativo.
+**Descrição** | Informa a descrição.
+**Ativo** | Informa se ativo.
 <br>
 
 ## Geral
@@ -20,8 +20,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
-**Ativo** | Informa o ativo. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Ativo** | Selecione se ativo. Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

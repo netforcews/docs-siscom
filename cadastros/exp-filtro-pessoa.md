@@ -16,14 +16,14 @@ Campo | Descrição
 **Grupo** | Selecione o grupo.
 **Tipo de Cliente** | Selecione o tipo de cliente.
 **Região de Venda** | Selecione a região de venda.
-**Cliente** | Informe o cliente.
-**Prestador de Serviço** | Informe o prestador de serviço.
-**Fornecedor** | Informe o fornecedor.
-**Transportadora** | Informe a transportadora.
-**Representante** | Informe o representante.
-**Banco** | Informe o banco.
-**Outros** | Informe outros.
-**Compram de** | Selecione compram de.
+**Cliente** | Selecione se é cliente.
+**Prestador de Serviço** | Selecione se é prestador de serviço.
+**Fornecedor** | Selecione se é fornecedor.
+**Transportadora** | Selecione se é transportadora.
+**Representante** | Selecione se é representante.
+**Banco** | Selecione se é banco.
+**Outros** | Selecione se é outros.
+**Compram de** | Selecione o fornecedor.
 <br>
 <br>
 <br>

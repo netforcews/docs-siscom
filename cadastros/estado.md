@@ -13,7 +13,7 @@ Campo | Descrição
 --:|---
 **Sigla** | Informa a sigla.
 **Nome** | Informa o nome.
-**Região** | Informa o região.
+**Região** | Informa a região.
 **Código** | Informa o código.
 <br>
 
@@ -22,14 +22,14 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Sigla** | Informa a sigla. Por padrão, este campo é obrigatório.
-**Código** | Informa o código. Por padrão, este campo é obrigatório.
-**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
-**% ICMS** | Informe o % icms.
-**Região** | Informa o região. Por padrão, este campo é obrigatório.
-**DDD** | Informe o ddd. Por padrão, este campo é obrigatório.
-**CEP Ini** | Informe o cep ini. Por padrão, este campo é obrigatório.
-**CEP Fim** | Informe o cep fim. Por padrão, este campo é obrigatório.
+**Sigla** | Informe a sigla. Por padrão, este campo é obrigatório.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**% ICMS** | Informe o percentual de ICMS.
+**Região** | Informe a região. Por padrão, este campo é obrigatório.
+**DDD** | Informe o DDD. Por padrão, este campo é obrigatório.
+**CEP Ini** | Informe o CEP inicial. Por padrão, este campo é obrigatório.
+**CEP Fim** | Informe o CEP final. Por padrão, este campo é obrigatório.
 <br>
 
 ## Links

@@ -12,7 +12,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Código** | Informa o código.
-**Descrição** | Informa o descrição.
+**Descrição** | Informa a descrição.
 <br>
 
 ## Geral
@@ -20,28 +20,28 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informa o código. Por padrão, este campo é obrigatório.
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
-**Tam1** | Informe o tam1. Por padrão, este campo é obrigatório.
-**Qtd1** | Informe o qtd1. Por padrão, este campo é obrigatório.
-**Tam2** | Informe o tam2.
-**Qtd2** | Informe o qtd2.
-**Tam3** | Informe o tam3.
-**Qtd3** | Informe o qtd3.
-**Tam4** | Informe o tam4.
-**Qtd4** | Informe o qtd4.
-**Tam5** | Informe o tam5.
-**Qtd5** | Informe o qtd5.
-**Tam6** | Informe o tam6.
-**Qtd6** | Informe o qtd6.
-**Tam7** | Informe o tam7.
-**Qtd7** | Informe o qtd7.
-**Tam8** | Informe o tam8.
-**Qtd8** | Informe o qtd8.
-**Tam9** | Informe o tam9.
-**Qtd9** | Informe o qtd9.
-**Tam10** | Informe o tam10.
-**Qtd10** | Informe o qtd10.
+**Código** | Informe o código. Por padrão, este campo é obrigatório.
+**Descrição** | Informa a descrição. Por padrão, este campo é obrigatório.
+**Tam1** | Informe o tamanho 1. Por padrão, este campo é obrigatório.
+**Qtd1** | Informe a quantidade 1. Por padrão, este campo é obrigatório.
+**Tam2** | Informe o tamanho 2.
+**Qtd2** | Informe a quantidade 2.
+**Tam3** | Informe o tamanho 3.
+**Qtd3** | Informe a quantidade 3.
+**Tam4** | Informe o tamanho 4.
+**Qtd4** | Informe a quantidade 4.
+**Tam5** | Informe o tamanho 5.
+**Qtd5** | Informe a quantidade 5.
+**Tam6** | Informe o tamanho 6.
+**Qtd6** | Informe a quantidade 6.
+**Tam7** | Informe o tamanho 7.
+**Qtd7** | Informe a quantidade 7.
+**Tam8** | Informe o tamanho 8.
+**Qtd8** | Informe a quantidade 8.
+**Tam9** | Informe o tamanho 9.
+**Qtd9** | Informe a quantidade 9.
+**Tam10** | Informe o tamanho 10.
+**Qtd10** | Informe a quantidade 10.
 <br>
 <br>
 <br>
