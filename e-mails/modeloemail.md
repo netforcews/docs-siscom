@@ -13,7 +13,7 @@ Campo | Descrição
 --:|---
 **Identificador** | Informa o identificador.
 **Assunto** | Informa o assunto.
-**Ativo** | Informa o ativo.
+**Ativo** | Informa se está ativo.
 <br>
 
 ## Geral
@@ -21,10 +21,10 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Identificador** | Informa o identificador. Por padrão, este campo é obrigatório.
-**Ativo** | Informa o ativo.
-**Remetente** | Informe o remetente. Por padrão, este campo é obrigatório.
-**Assunto** | Informa o assunto. Por padrão, este campo é obrigatório.
+**Identificador** | Informe o identificador. Por padrão, este campo é obrigatório.
+**Ativo** | Selecione se está ativo.
+**Remetente** | Informe quem está enviando. Por padrão, este campo é obrigatório.
+**Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
 **Texto do E-mail** | Informe o texto do e-mail. Por padrão, este campo é obrigatório.
 <br>
 

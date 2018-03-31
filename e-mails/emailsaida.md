@@ -11,12 +11,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**De** | Informa o de.
-**Para** | Informa a para.
+**De** | Informa quem está enviando..
+**Para** | Informa quem está recebendo.
 **Assunto** | Informa o assunto.
 **Data** | Informa a data.
-**U.Tentativa** | Informa a u.tentativa.
-**Env** | Informa o env.
+**U.Tentativa** | Informa a data do envio/última tentativa.
+**Env** | Informa se foi enviado.
 <br>
 
 ## E-mail
@@ -25,11 +25,11 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Assunto** | Informa o assunto. Por padrão, este campo é obrigatório.
-**De** | Informa o de.
+**De** | Informe quem está enviando..
 **Data** | Informa a data.
-**Para** | Informa a para.
-**Para CC** | Informe o para cc.
-**Resp.Para** | Informe a resp.para.
+**Para** | Informe quem está recebendo.
+**Para CC** | Informe quem está recebendo cópia.
+**Resp.Para** | Informe quem receberá resposta.
 **Texto** | Informa o texto.
 <br>
 
@@ -38,11 +38,11 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Enviado** | Informa o env.
-**Processo** | Informa o processo.
-**Qtd.Tentativas** | Informa o qtd.tentativas.
-**Última Tentativa** | Informa a u.tentativa.
-**Msg Erro** | Informa o msg erro.
+**Enviado** | Informa se foi enviado.
+**Processo** | Informa a data do processo.
+**Qtd.Tentativas** | Informa a quantidade de tentativas.
+**Última Tentativa** | Informa a data do envio/última tentativa.
+**Msg Erro** | Informa uma mensagem de erro.
 <br>
 
 ## Comandos
