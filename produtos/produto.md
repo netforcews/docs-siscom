@@ -12,12 +12,12 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 Campo | Descrição
 --:|---
 **Referência** | Informa a referência.
-**Descrição** | Informa o descrição.
-**Un** | Informa o un.
+**Descrição** | Informa a descrição.
+**Un** | Informa a unidade.
 **Valor** | Informa o valor.
 **Fornecedor** | Informa o fornecedor.
 **Lista** | Informa a lista.
-**Situação** | Informa o situação.
+**Situação** | Informa a situação.
 <br>
 
 ## Produto
@@ -25,18 +25,18 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informa a referência. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
-**Descrição2** | Informe o descrição2.
-**Unidade** | Informa o un. Por padrão, este campo é obrigatório.
+**Código** | Informe a referência. Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Descrição2** | Informe a descrição 2.
+**Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório.
 **Linha** | Selecione a linha.
-**Lista de produto** | Informa a lista. Por padrão, este campo é obrigatório.
-**Situação** | Informa o situação. Opções: Ativo, Fora de linha. Por padrão, este campo é obrigatório.
-**Valor Custo** | Informe o valor custo.
-**Valor Venda** | Informa o valor.
-**% IPI** | Informe o % ipi.
-**Observação** | Informe o observação.
+**Lista de produto** | Selecione a lista. Por padrão, este campo é obrigatório.
+**Situação** | Selecione a situação. Opções: Ativo, Fora de linha. Por padrão, este campo é obrigatório.
+**Valor Custo** | Informe o valor de custo.
+**Valor Venda** | Informe o valor.
+**% IPI** | Informe o percentual de IPI.
+**Observação** | Informe uma observação.
 <br>
 
 ## Foto
@@ -44,7 +44,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Foto** | Informe o foto.
+**Foto** | Selecione uma foto.
 <br>
 <br>
 <br>

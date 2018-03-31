@@ -12,7 +12,7 @@ Campo | Descrição
 --:|---
 **Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório.
 **Lista de produtos** | Selecione a lista de produtos. Por padrão, este campo é obrigatório.
-**Já cadastrado** | Selecione já cadastrado. Opções: Atualizar, Gerar erro, Ignorar. Por padrão, este campo é obrigatório.
+**Já cadastrado** | Selecione se já é cadastrado. Opções: Atualizar, Gerar erro, Ignorar. Por padrão, este campo é obrigatório.
 **Linha de produto** | Selecione a linha de produto.
 **Arquivo** | Informe o arquivo. Por padrão, este campo é obrigatório.
 <br>

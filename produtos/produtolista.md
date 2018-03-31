@@ -13,7 +13,7 @@ Campo | Descrição
 --:|---
 **Nome** | Informa o nome.
 **Fornecedor** | Informa o fornecedor.
-**Atv** | Informa o atv.
+**Atv** | Informa se ativo.
 <br>
 
 ## Geral
@@ -21,9 +21,9 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Nome** | Informa o nome. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
-**Disponível** | Informa o atv.
+**Nome** | Informe o nome. Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório.
+**Disponível** | Selecione se ativo.
 <br>
 <br>
 <br>
