@@ -13,9 +13,9 @@ Campo | Descrição
 --:|---
 **Conta** | Informa a conta.
 **Data** | Informa a data.
-**Descrição** | Informa o descrição.
+**Descrição** | Informa a descrição.
 **Documento** | Informa o documento.
-**Contra parte** | Informa o contra parte.
+**Contra parte** | Informa a contra parte.
 **Valor** | Informa o valor.
 **Saldo** | Informa o saldo.
 <br>
@@ -25,15 +25,15 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Conta** | Informa a conta. Por padrão, este campo é obrigatório.
-**Conta Contábil** | Selecione o conta contábil. Por padrão, este campo é obrigatório.
-**Data** | Informa a data. Por padrão, este campo é obrigatório.
-**Descrição** | Informa o descrição. Por padrão, este campo é obrigatório.
-**Documento** | Informa o documento. Por padrão, este campo é obrigatório.
-**Contra parte** | Informa o contra parte. Por padrão, este campo é obrigatório.
-**Valor** | Informa o valor. Por padrão, este campo é obrigatório.
+**Conta** | Selecione a conta. Por padrão, este campo é obrigatório.
+**Conta Contábil** | Selecione a conta contábil. Por padrão, este campo é obrigatório.
+**Data** | Informe a data. Por padrão, este campo é obrigatório.
+**Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
+**Documento** | Informe o documento. Por padrão, este campo é obrigatório.
+**Contra parte** | Selecione a contra parte. Por padrão, este campo é obrigatório.
+**Valor** | Informe o valor. Por padrão, este campo é obrigatório.
 **Saldo** | Informa o saldo.
-**Saldo Empresa** | Informa a saldo empresa.
+**Saldo Empresa** | Informa o saldo empresa.
 **Saldo Geral** | Informa o saldo geral.
 <br>
 <br>

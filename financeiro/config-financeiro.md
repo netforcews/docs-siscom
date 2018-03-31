@@ -10,7 +10,7 @@ Para acessar esta opção, selecione o módulo **Financeiro**, opção **Geral**
 
 Campo | Descrição
 --:|---
-**Controlar comissões a pagar pela comissão a receber** | Informe se deve  controlar comissões a pagar pela comissão a receber.
+**Controlar comissões a pagar pela comissão a receber** | Selecione se deve controlar comissões a pagar pelo comissão a receber.
 <br>
 <br>
 <br>
