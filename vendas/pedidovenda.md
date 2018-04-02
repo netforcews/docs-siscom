@@ -119,7 +119,7 @@ Campo | Descrição
 ### [Gerar lote de PDF](/geral/ped-gerar-pdf.md)
 <br>
 
-## Links 
+## Links
 ### [Referencias](/geral/vendaitem2.md)
 ### [Parcelas](/geral/vendaparcela.md)
 ### [Notas (Antigas)](/geral/vendaentrega.md)
