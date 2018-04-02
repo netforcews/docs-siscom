@@ -41,7 +41,7 @@
 **FINANCEIRO**
 - [Comissões a Pagar](/financeiro/comissoesapagar.md)
 - [Comissões a Receber](/financeiro/comissoesareceber.md)
-- [Configurações](/financeiro/)
+- [Configurações](/financeiro/config-financeiro.md)
 - [Conta corrente](/financeiro/ccmovimentos.md)
 - [Contas a Pagar](/financeiro/contasapagar.md)
 
