@@ -23,7 +23,7 @@ Como informamos a condição de pagamento **30/60/90 Dias**, o sistema irá gera
 Note que a configuração da condição de pagamento está 33,34% para 30 dias, 33,33% para 60 dias e 33,33% para 90 dias.
 ![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.6.png)
   
-Em nosso caso, iremos alterar os valores de cada uma das parcelas arredondando-as e também a data para sempre ser o primeiro dia do mês. Note que alteramos o número de dias para mudar o vencimento.
+Em nosso caso, iremos alterar os valores de cada uma das parcelas arredondando-as e também a data para o primeiro dia do mês. Note que alteramos o número de dias para mudar o vencimento.
 ![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.7.png)
   
 Ao final, teremos as seguintes informações:
