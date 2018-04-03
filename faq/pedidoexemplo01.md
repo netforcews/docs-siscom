@@ -10,7 +10,7 @@ Informaremos dois representantes: Representante C com 10% de comissão e Represe
    
 ## Inclusão de referências (itens) do pedido
 Na tela do pedido, clique em **Referências**.
-Informaremos um valor e quantidade que nos resultem um montante final de R$ 90.000,00.
+Informaremos um valor e quantidade que nos resultem um montante final de R$ 90.000,00.   
 ![pedido.exemplo01.2](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.2.png)
 ![pedido.exemplo01.3](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.3.png)
    
