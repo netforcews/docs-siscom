@@ -1,4 +1,4 @@
-# PEDIDO: EXEMPLO 1
+# PEDIDO: EXEMPLO
 Abaixo segue um processo completo de pedido.
 
 ## Inclusão do pedido
@@ -24,10 +24,21 @@ Note que a configuração da condição de pagamento está 33,34% para 30 dias, 
 ![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.6.png)
   
 Em nosso caso, iremos alterar os valores de cada uma das parcelas arredondando-as e também a data para o primeiro dia do mês. Note que alteramos o número de dias para mudar o vencimento.
-![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.7.png)
+![pedido.exemplo01.7](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.7.png)
   
 Ao final, teremos as seguintes informações:
+![pedido.exemplo01.8](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.8.png)
+
+## Fechando o pedido
+Na tela do pedido clique em **Comandos** e selecione a opção **Fechar pedido**.
+![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.8.png)
+   
+Informe o número da nota fiscal e a data de faturamento.
+
+## Entrega total
+Se a entrega foi total (100%), mantenha as quantidades e clique em **Executar**.
 ![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.8.png)
 
-
+## Entrega parcial
+Se a entrega foi parcial, informe a quantidade recebida e clique em **Executar**.
 
