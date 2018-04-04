@@ -52,15 +52,15 @@ Perceba que aqui temos o montante de comissões a receber.
 #### 5.1.1.Recebendo o titulo 00018692/A
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemplo01.12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.12.png)
+![pedido.exemplo01.13](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.13.png)
 
 O título é de R$ 3.750,00 e podemos recebê-lo totalmente ou parcialmente, bastando para isso alterar o valor e fazermos vários lançamentos.
 O sistema tornará o título quitado quando o valor a receber for totalmente lançado
 
-
-
 ### 5.2.Comissões a Pagar
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a pagar** e clique na opção **novo**.
-
+   
+   
 ## 6.Entrega parcial
 Se a entrega foi parcial, informe a quantidade recebida e clique em **Executar**.
 
