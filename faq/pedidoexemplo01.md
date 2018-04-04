@@ -20,7 +20,7 @@ Como informamos a condição de pagamento **30/60/90 Dias**, o sistema irá gera
 ![pedido.exemplo01.4](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.4.png)
 ![pedido.exemplo01.5](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.5.png)
    
-![02](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/imagens/02.png) Perceba que a configuração da condição de pagamento está 33,34% para 30 dias, 33,33% para 60 dias e 33,33% para 90 dias.
+![02](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/imagens/02.png) | Perceba que a configuração da condição de pagamento está 33,34% para 30 dias, 33,33% para 60 dias e 33,33% para 90 dias.   
 ![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.6.png)
    
 Em nosso exemplo, iremos alterar os valores de cada uma das parcelas arredondando-as e a data do vencimento para o primeiro dia do mês. ![02](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/imagens/02.png) Perceba que alteramos o número de dias para mudar o vencimento.
@@ -47,8 +47,8 @@ Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comiss�
 Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesquisa por número seja selecionada. Em nosso exemplo, informaremos no campo **Filtro** o número do nosso pedido: **00018692** e selecionaremos **Nenhum filtro**.
 ![pedido.exemplo01.11](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.11.png)
     
-Perceba que aqui temos o montante de R$ 11.250,00 de comissões a receber do pedido.
-![04](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/imagens/04.png) **Mas como chegamos a este valor?**   
+Perceba que aqui temos o montante de R$ 11.250,00 de comissões a receber do pedido.   
+![04](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/imagens/04.png) | **Mas como chegamos a este valor?**   
 O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00 + 2,5) * 90000) / 100 = 11250; Como foram 3 parcelas, temos: 11250 / 3 = 3750.
     
 #### 5.1.1. Recebendo o titulo 00018692/A
