@@ -2,7 +2,7 @@
 Abaixo segue um processo completo de pedido.
 
 ## Inclusão do pedido
-Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, opção **Pedidos** e clique na opção **novo**.
+Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, opção **Pedidos** e logo após clique na opção **Novo**.
 ![pedido.exemplo01.1](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.0.png)
    
 Informaremos dois representantes: Representante C com 10% de comissão e Representante D com 2,5% de comissão.
@@ -14,7 +14,7 @@ Informaremos um valor e quantidade que nos resultem um montante final de R$ 90.0
 ![pedido.exemplo01.2](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.2.png)
 ![pedido.exemplo01.3](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.3.png)
    
-## Inclusão de parcdelas do pedido
+## Inclusão de parcelas do pedido
 Na tela do pedido clique em **Parcelas** e logo após em **Gerar parcelas**.
 Como informamos a condição de pagamento **30/60/90 Dias**, o sistema irá gerar 3 parcelas.
 ![pedido.exemplo01.4](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.4.png)
@@ -31,13 +31,35 @@ Ao final, teremos as seguintes informações:
 
 ## Fechando o pedido
 Na tela do pedido clique em **Comandos** e selecione a opção **Fechar pedido**.
-![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.8.png)
+![pedido.exemplo01.9](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.9.png)
    
 Informe o número da nota fiscal e a data de faturamento.
 
 ## Entrega total
 Se a entrega foi total (100%), mantenha as quantidades e clique em **Executar**.
-![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.8.png)
+![pedido.exemplo01.9](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.9.png)
+   
+No momento do fechamento, o sistema irá gerar dados para o financeiro e apresentar a mensagem abaixo.
+![pedido.exemplo01.10](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.10.png)
+
+### Comissões a Receber
+Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a receber**. 
+Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesquisa por número seja selecionada. Em nosso caso, difitaremos no campo **Filtro** o número do nosso pedido: **00018692** e selecionaremos **Nenum filtro**.
+![pedido.exemplo01.11](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.11.png)
+
+Perceba que aqui temos o montante de comissões a receber.
+
+#### Recebendo o titulo 00018692/A
+Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
+![pedido.exemplo01.12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.12.png)
+
+O título é de R$ 3.750,00 e podemos recebê-lo totalmente ou parcialmente, bastando para isso alterar o valor e fazermos vários lançamentos.
+O sistema tornará o título quitado quando o valor a receber for totalmente lançado
+
+
+
+### Comissões a Pagar
+Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a pagar** e clique na opção **novo**.
 
 ## Entrega parcial
 Se a entrega foi parcial, informe a quantidade recebida e clique em **Executar**.
