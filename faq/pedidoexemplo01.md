@@ -25,9 +25,12 @@ Como informamos a condição de pagamento **30/60/90 Dias**, o sistema irá gera
 
 ![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.6.png)
    
-Em nosso exemplo, iremos alterar os valores de cada uma das parcelas arredondando-as e a data do vencimento para o primeiro dia do mês.   
+Em nosso exemplo, iremos alterar os valores de cada uma das parcelas arredondando-as e a data do vencimento para o primeiro dia do mês. 
+
+<br>  
 ![02](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/imagens/02.png) | Perceba que alteramos o número de dias para mudar o vencimento.   
 :---:|:---
+<br>
 
 ![pedido.exemplo01.7](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.7.png)
    
