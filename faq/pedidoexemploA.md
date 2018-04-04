@@ -1,22 +1,27 @@
 # PEDIDO
 
-* [Inclusão do pedido](#chapter-1)
-* [Inclusão de referências (itens) do pedido](#chapter-2)
-   
-## Inclusão do pedido  <a id="chapter-1"></a>
+* [Inclusão do pedido](#1)
+* [Inclusão de referências (itens) do pedido](#2)
+* [Inclusão de parcelas do pedido](#3)
+* [Fechando o pedido](#4)
+* [Entrega total](#5)
+<br>
+<br>
+<br>
+## Inclusão do pedido  <a id="1"></a>
 Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, opção **Pedidos** e logo após clique na opção **Novo**.
 ![pedido.exemploA0](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA0.png)
    
 Informaremos dois representantes: Representante C com 10% de comissão e Representante D com 2,5% de comissão, totalizando 12,5% de comissão.
 ![pedido.exemploA1](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA1.png)
    
-## Inclusão de referências (itens) do pedido <a id="chapter-2"></a>
+## Inclusão de referências (itens) do pedido <a id="2"></a>
 Na tela do pedido, clique em **Referências**.
 Informaremos um valor e quantidade que nos resultem um montante final de R$ 90.000,00.   
 ![pedido.exemploA2](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA2.png)
 ![pedido.exemploA3](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA3.png)
    
-## 3. Inclusão de parcelas do pedido
+## Inclusão de parcelas do pedido <a id="3"></a>
 Na tela do pedido clique em **Parcelas** e logo após em **Gerar parcelas**.
 Como informamos a condição de pagamento **30/60/90 Dias**, o sistema irá gerar 3 parcelas.
 ![pedido.exemploA4](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA4.png)
@@ -35,13 +40,13 @@ Em nosso exemplo, iremos alterar os valores de cada uma das parcelas arredondand
 Ao final, teremos as seguintes informações:
 ![pedido.exemploA8](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA8.png)
    
-## 4. Fechando o pedido
+## Fechando o pedido <a id="4"></a>
 Na tela do pedido clique em **Comandos** e selecione a opção **Fechar pedido**.
 ![pedido.exemploA9](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA9.png)
    
 Informe o número da nota fiscal e a data de faturamento.
    
-## 5. Entrega total
+## Entrega total <a id="5"></a>
 Se a entrega for total (100%), mantenha as quantidades e clique em **Executar**.
 ![pedido.exemploA9](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA9.png)
    
