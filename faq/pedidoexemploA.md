@@ -53,7 +53,7 @@ Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesqui
     
 > Perceba que aqui temos o montante de R$ 11.250,00 de comissões a receber do pedido.   
 > Mas como chegamos a este valor?   
-> O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00 + 2,5) * 90000) / 100 = 11250; Como foram 3 parcelas, temos: 11250 / 3 = 3750. 
+> O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00% + 2,5%) * R$ 90.000,00) / 100 = R$ 11.250,00; Como foram 3 parcelas, temos: R$ 11.250,00 / 3 = R$ 3.750,00. 
     
 #### 5.1.1. Recebendo totalmente o titulo 00018692/A
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
@@ -91,8 +91,13 @@ Foi recebido mais R$ 500,00, totalizando R$ 3.500,00 recebidos. Restando um sald
 > Podemos fazer um novo lançamento de R$ 250,00 com observação de desconto, por exemplo.
 
 ### 5.2. Comissões a Pagar
-Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a pagar** e clique na opção **novo**.
-   
+Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a pagar**.    
+Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesquisa por número seja selecionada. Em nosso exemplo, informaremos no campo **Filtro** o número do nosso pedido: **00018692** e selecionaremos **Nenhum filtro**.
+![pedido.exemploA23](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA23.png)
+    
+> Perceba que aqui temos o montante de R$ 11.250,00 de comissões a pagar do pedido.   
+> Mas como chegamos a este valor?   
+> O sistema fez a seguinte conta: Percentual de comissão do Representante C do total do pedido. Ou seja, (10,00% * R$ 90.000,00) / 100 = R$ 9.000,00; Percentual de comissão do Representante D do total do pedido. Ou seja, (2,50% * R$ 90.000,00) / 100 = R$ 2.250,00; Como foram 3 parcelas, temos: R$ 9.000,00 / 3 = 3 parcelas de R$ 3.000,00 para o Representante C e R$ 2.250,00 / 3 = 3 parcelas de R$ 750,00 para o Representante D.    
    
 ## 6. Entrega parcial
 Se a entrega foi parcial, informe a quantidade recebida e clique em **Executar**.
