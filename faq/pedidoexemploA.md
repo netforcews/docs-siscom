@@ -5,9 +5,10 @@
 * [Inclusão de parcelas do pedido](#3)
 * [Fechando o pedido](#4)
 * [Entrega total](#5)
+** [Comissões a Receber](#5.1)
 <br>
 <br>
-<br>
+
 ## Inclusão do pedido  <a id="1"></a>
 Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, opção **Pedidos** e logo após clique na opção **Novo**.
 ![pedido.exemploA0](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA0.png)
@@ -53,7 +54,7 @@ Se a entrega for total (100%), mantenha as quantidades e clique em **Executar**.
 No momento do fechamento, o sistema irá gerar dados para o financeiro e apresentar a mensagem abaixo.
 ![pedido.exemploA10](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA10.png)
     
-### 5.1. Comissões a Receber
+### Comissões a Receber <a id="5.1"></a>
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a receber**.    
 Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesquisa por número seja selecionada. Em nosso exemplo, informaremos no campo **Filtro** o número do nosso pedido: **00018692** e selecionaremos **Nenhum filtro**.
 ![pedido.exemploA11](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA11.png)
