@@ -5,7 +5,8 @@
 - [Inclusão de parcelas do pedido](#3)
 - [Fechando o pedido](#4)
 - [Entrega total](#5)   
- - [Comissões a Receber](#5.1)
+  - [Comissões a Receber](#5.1)
+    - [Recebendo totalmente o titulo 00018692/A](#5.1.1)
 
 <br>
 
@@ -63,7 +64,7 @@ Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesqui
 > Mas como chegamos a este valor?   
 > O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00% + 2,5%) * R$ 90.000,00) / 100 = R$ 11.250,00; Como foram 3 parcelas, temos: R$ 11.250,00 / 3 = R$ 3.750,00. 
     
-#### 5.1.1. Recebendo totalmente o titulo 00018692/A
+#### Recebendo totalmente o titulo 00018692/A <a id="5.1.1"></a>
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemploA12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA12.png)
 ![pedido.exemploA13](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA13.png)
