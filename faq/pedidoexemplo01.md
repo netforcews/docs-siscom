@@ -21,8 +21,10 @@ Como informamos a condição de pagamento **30/60/90 Dias**, o sistema irá gera
 ![pedido.exemplo01.5](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.5.png)
    
 <br>
+
 ![02](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/imagens/02.png) | Perceba que a configuração da condição de pagamento está 33,34% para 30 dias, 33,33% para 60 dias e 33,33% para 90 dias.   
 :---:|:---
+
 <br>
    
 ![pedido.exemplo01.6](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.6.png)
