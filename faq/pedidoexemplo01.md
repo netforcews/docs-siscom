@@ -62,8 +62,7 @@ Perceba que aqui temos o montante de R$ 11.250,00 de comissões a receber do ped
 
 ![04](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/imagens/04.png) | **Mas como chegamos a este valor?**
 :---:|:---
-<br>
-O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00 + 2,5) * 90000) / 100 = 11250; Como foram 3 parcelas, temos: 11250 / 3 = 3750.
+     | O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00 + 2,5) * 90000) / 100 = 11250; Como foram 3 parcelas, temos: 11250 / 3 = 3750.
     
 #### 5.1.1. Recebendo o titulo 00018692/A
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
