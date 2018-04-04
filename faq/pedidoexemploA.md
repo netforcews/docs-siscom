@@ -5,7 +5,7 @@
 - [Inclusão de parcelas do pedido](#3)
 - [Fechando o pedido](#4)
 - [Entrega total](#5)   
-  - [Comissões a Receber](#5.1)
+ - [Comissões a Receber](#5.1)
 
 <br>
 
