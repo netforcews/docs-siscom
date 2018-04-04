@@ -64,30 +64,30 @@ Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após n
 #### 5.1.2. Recebendo parcialmente todo titulo 00018692/A
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemploA12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA12.png)
-![pedido.exemploA15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA15.png)
+![pedido.exemploA15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA15.png)   
 Foi recebido R$ 2.000,00. Restando um saldo de R$ 1.750,00.
-![pedido.exemploA16](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA16.png)
+![pedido.exemploA16](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA16.png)   
 Foi recebido mais R$ 1.000,00, totalizando R$ 3.000,00 recebidos. Restando um saldo de R$ 750,00.
-![pedido.exemploA17](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA17.png)
+![pedido.exemploA17](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA17.png)   
 Foi recebido mais R$ 750,00, totalizando R$ 3.750,00 recebidos. 
 ![pedido.exemploA18](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA18.png)
 
 ### 5.1.3. Recebendo parcialmente parte do título 00018692/A
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemploA12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA12.png)
-![pedido.exemploA15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA15.png)
+![pedido.exemploA15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA15.png)   
 Foi recebido R$ 2.000,00. Restando um saldo de R$ 1.750,00.
-![pedido.exemploA16](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA16.png)
+![pedido.exemploA16](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA16.png)   
 Foi recebido mais R$ 1.000,00, totalizando R$ 3.000,00 recebidos. Restando um saldo de R$ 750,00.
-![pedido.exemploA19](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA19.png)
+![pedido.exemploA19](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA19.png)   
 Foi recebido mais R$ 500,00, totalizando R$ 3.500,00 recebidos. Restando um saldo de R$ 250,00.
 <br>
 
-![pedido.exemploA20](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA20.png)
+![pedido.exemploA20](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA20.png)   
 > Podemos considerar o saldo de R$ 250,00 como perdido, podendo manter desta forma caso algum dia queiramos gerar um acerto de contas.
 
 ![pedido.exemploA21](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA21.png)
-![pedido.exemploA22](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA22.png)
+![pedido.exemploA22](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA22.png)   
 > Podemos fazer um novo lançamento de R$ 250,00 com observação de desconto, por exemplo.
 
 ### 5.2. Comissões a Pagar
