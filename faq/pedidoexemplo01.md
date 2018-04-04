@@ -51,8 +51,7 @@ Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comiss�
 Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesquisa por número seja selecionada. Em nosso exemplo, informaremos no campo **Filtro** o número do nosso pedido: **00018692** e selecionaremos **Nenhum filtro**.
 ![pedido.exemplo01.11](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.11.png)
     
-Perceba que aqui temos o montante de R$ 11.250,00 de comissões a receber do pedido.   
-
+> Perceba que aqui temos o montante de R$ 11.250,00 de comissões a receber do pedido.   
 > Mas como chegamos a este valor?   
 > O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00 + 2,5) * 90000) / 100 = 11250; Como foram 3 parcelas, temos: 11250 / 3 = 3750. 
     
