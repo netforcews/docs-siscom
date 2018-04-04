@@ -1,5 +1,7 @@
-1. [1. Inclusão do pedido](1.-Inclusão-do-pedido)
-2. [2. Inclusão de referências (itens) do pedido](2.-Inclusão-de-referências-(itens)-do-pedido)
+# PEDIDO
+
+* [1. Inclusão do pedido](#1.-Inclusão-do-pedido)
+* [2. Inclusão de referências (itens) do pedido](#2.-Inclusão-de-referências-(itens)-do-pedido)
    
 ## 1. Inclusão do pedido
 Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, opção **Pedidos** e logo após clique na opção **Novo**.
