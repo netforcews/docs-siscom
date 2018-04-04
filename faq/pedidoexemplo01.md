@@ -55,11 +55,48 @@ Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesqui
 > Mas como chegamos a este valor?   
 > O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00 + 2,5) * 90000) / 100 = 11250; Como foram 3 parcelas, temos: 11250 / 3 = 3750. 
     
-#### 5.1.1. Recebendo o titulo 00018692/A
+#### 5.1.1. Recebendo totalmente o titulo 00018692/A
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemplo01.12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.12.png)
 ![pedido.exemplo01.13](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.13.png)
-    
+![pedido.exemplo01.14](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.13.png)
+
+#### 5.1.2. Recebendo parcialmente todo titulo 00018692/A
+Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
+![pedido.exemplo01.12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.12.png)
+![pedido.exemplo01.15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.15.png)
+Foi recebido R$ 2.000,00. Restando um saldo de R$ 1.750,00.
+![pedido.exemplo01.16](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.16.png)
+Foi recebido mais R$ 1.000,00, totalizando R$ 3.000,00 recebidos. Restando um saldo de R$ 750,00.
+![pedido.exemplo01.17](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.17.png)
+Foi recebido mais R$ 750,00, totalizando R$ 3.750,00 recebidos. 
+![pedido.exemplo01.18](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.18.png)
+
+### 5.1.3. Recebendo parcialmente parte do título 00018692/A
+Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
+![pedido.exemplo01.12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.12.png)
+![pedido.exemplo01.15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.15.png)
+Foi recebido R$ 2.000,00. Restando um saldo de R$ 1.750,00.
+![pedido.exemplo01.16](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.16.png)
+Foi recebido mais R$ 1.000,00, totalizando R$ 3.000,00 recebidos. Restando um saldo de R$ 750,00.
+![pedido.exemplo01.19](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.19.png)
+Foi recebido mais R$ 500,00, totalizando R$ 3.500,00 recebidos. Restando um saldo de R$ 250,00.
+<br>
+
+![pedido.exemplo01.20](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.20.png)
+> Podemos considerar o saldo de R$ 250,00 como perdido, podendo manter desta forma caso algum dia queiramos gerar um acerto de contas.
+
+![pedido.exemplo01.21](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.21.png)
+![pedido.exemplo01.22](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.22.png)
+> Podemos fazer um novo lançamento de R$ 250,00 com observação de desconto, por exemplo.
+
+
+
+
+
+
+
+
 O título é de R$ 3.750,00 e podemos recebê-lo totalmente ou parcialmente, bastando para isso alterar o valor e fazendo vários lançamentos. O sistema tornará o título quitado quando a soma dos valores a receber totalizar R$ 3.750,00.
     
 ### 5.2. Comissões a Pagar
