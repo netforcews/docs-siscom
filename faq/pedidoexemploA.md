@@ -1,12 +1,12 @@
 # PEDIDO
 
-* [Inclusão do pedido](#1)
-* [Inclusão de referências (itens) do pedido](#2)
-* [Inclusão de parcelas do pedido](#3)
-* [Fechando o pedido](#4)
-* [Entrega total](#5)   
-** [Comissões a Receber](#5.1)
-<br>
+- [Inclusão do pedido](#1)
+- [Inclusão de referências (itens) do pedido](#2)
+- [Inclusão de parcelas do pedido](#3)
+- [Fechando o pedido](#4)
+- [Entrega total](#5)   
+  - [Comissões a Receber](#5.1)
+
 <br>
 
 ## Inclusão do pedido  <a id="1"></a>
