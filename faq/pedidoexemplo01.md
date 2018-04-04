@@ -54,8 +54,7 @@ Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após n
 ![pedido.exemplo01.12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.12.png)
 ![pedido.exemplo01.13](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.13.png)
 
-O título é de R$ 3.750,00 e podemos recebê-lo totalmente ou parcialmente, bastando para isso alterar o valor e fazermos vários lançamentos.
-O sistema tornará o título quitado quando o valor a receber for totalmente lançado
+O título é de R$ 3.750,00 e podemos recebê-lo totalmente ou parcialmente, bastando para isso alterar o valor e fazendo vários lançamentos. O sistema tornará o título quitado quando a soma dos valores a receber totalizar R$ 3.750,00.
 
 ### 5.2.Comissões a Pagar
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a pagar** e clique na opção **novo**.
