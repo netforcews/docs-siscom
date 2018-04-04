@@ -59,6 +59,7 @@ Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesqui
     
 Perceba que aqui temos o montante de R$ 11.250,00 de comissões a receber do pedido.   
 <br>
+
 ![04](https://raw.githubusercontent.com/netforcews/docs-siscom/master/geral/imagens/04.png) | **Mas como chegamos a este valor?**   
 :---:|:---
 <br>
