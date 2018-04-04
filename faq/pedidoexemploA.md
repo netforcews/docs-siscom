@@ -7,6 +7,9 @@
 - [Entrega total](#5)   
   - [Comissões a Receber](#5.1)
     - [Recebendo totalmente o titulo 00018692/A](#5.1.1)
+    - [Recebendo parcialmente todo titulo 00018692/A](#5.1.2)
+    - [Recebendo parcialmente parte do título 00018692/A](#5.1.3)
+   - [Comissões a Pagar](#5.2)
 
 <br>
 
@@ -70,7 +73,7 @@ Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após n
 ![pedido.exemploA13](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA13.png)
 ![pedido.exemploA14](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA14.png)
 
-#### 5.1.2. Recebendo parcialmente todo titulo 00018692/A
+#### Recebendo parcialmente todo titulo 00018692/A <a id="5.1.2"></a>
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemploA12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA12.png)
 ![pedido.exemploA15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA15.png)   
@@ -81,7 +84,7 @@ Foi recebido mais R$ 1.000,00, totalizando R$ 3.000,00 recebidos. Restando um sa
 Foi recebido mais R$ 750,00, totalizando R$ 3.750,00 recebidos. 
 ![pedido.exemploA18](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA18.png)
 
-### 5.1.3. Recebendo parcialmente parte do título 00018692/A
+### Recebendo parcialmente parte do título 00018692/A <a id="5.1.3"></a>
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemploA12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA12.png)
 ![pedido.exemploA15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA15.png)   
@@ -99,7 +102,7 @@ Foi recebido mais R$ 500,00, totalizando R$ 3.500,00 recebidos. Restando um sald
 ![pedido.exemploA22](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA22.png)   
 > Podemos fazer um novo lançamento de R$ 250,00 com observação de desconto, por exemplo.
 
-### 5.2. Comissões a Pagar
+### Comissões a Pagar <a id="5.2"></a>
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a pagar**.    
 Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesquisa por número seja selecionada. Em nosso exemplo, informaremos no campo **Filtro** o número do nosso pedido: **00018692** e selecionaremos **Nenhum filtro**.
 ![pedido.exemploA23](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA23.png)
