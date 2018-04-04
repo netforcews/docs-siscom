@@ -5,7 +5,7 @@ Abaixo segue um processo completo de pedido.
 Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, opção **Pedidos** e logo após clique na opção **Novo**.
 ![pedido.exemplo01.1](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.0.png)
    
-Informaremos dois representantes: Representante C com 10% de comissão e Representante D com 2,5% de comissão.
+Informaremos dois representantes: Representante C com 10% de comissão e Representante D com 2,5% de comissão, totalizando 12,5% de comissão.
 ![pedido.exemplo01.1](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemplo01.1.png)
    
 ## 2. Inclusão de referências (itens) do pedido
