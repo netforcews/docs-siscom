@@ -30,7 +30,7 @@ Campo | Descrição
 
 ## Detalhes
 Para  que o e-mail seja apresentado, o contato deve possuir a informação **Geral** no campo **Atribuição**. Veja [aqui](http://siscom.leiame.org/master/cadastros/pessoa#links).   
-> O sistema retornará somente o primeiro contato de cada **Tipo** de pessoa.   
+> O sistema retornará somente o primeiro contato de cada **Tipo** de pessoa.      
 
 <br>
 <br>
