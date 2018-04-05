@@ -6,11 +6,11 @@ Veja [aqui](/vendas/config-vendas.md) como configurar para que o pedido seja col
 
 ## Passo 2 - Condições do pedido
 Para quer um pedido esteja em condições para ser enviado por e-mail automaticamente, as seguintes condições devem ser respeitadas:   
-a) o pedido precisa estar com o campo **Estado** igual a Fechado. Veja [aqui](/vendas/pedidovenda#geral);   
-b) o cliente do pedido precisa estar com o campo **Situação** igual a Ativo. Veja [aqui](/cadastros/pessoa#configuracoes);   
-c) o cliente do pedido precisa possuir pelo menos um contato com o campo **Aatribuição** igual a Compras com e-mail. Veja [aqui](/geral/pessoacontatos.md);   
+a) o pedido precisa estar com o campo **Estado** igual a Fechado. Veja [aqui](http://siscom.leiame.org/master/vendas/pedidovenda#geral);   
+b) o cliente do pedido precisa estar com o campo **Situação** igual a Ativo. Veja [aqui](http://siscom.leiame.org/master/cadastros/pessoa#configuracoes);   
+c) o cliente do pedido precisa possuir pelo menos um contato com o campo **Atribuição** igual a Compras com e-mail. Veja [aqui](/geral/pessoacontatos.md);   
 d) o fornecedor do pedido precisa estar com o campo **Situação** igual a Ativo. Veja [aqui](/cadastros/pessoa#configuracoes);   
-e) o fornecedor do pedido precisa possuir pelo menos um contato com o campo **Aatribuição** igual a Compras com e-mail. Veja [aqui](/geral/pessoacontatos.md);   
+e) o fornecedor do pedido precisa possuir pelo menos um contato com o campo **Atribuição** igual a Compras com e-mail. Veja [aqui](/geral/pessoacontatos.md);   
 f) a última alteração do pedido deve ter ocorrido após um tempo (em minutos) configurado. Veja [aqui](/vendas/config-vendas.md);   
 g) o campo **Pedido enviado por e-mail cliente/fornecedor** deve estar desmarcado. Veja [aqui](/vendas/pedidovenda#geral).   
 
