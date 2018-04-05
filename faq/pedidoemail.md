@@ -8,7 +8,7 @@ Veja [aqui](/e-mails/emailcontas.md) como configurar a conta que será utilizada
 Veja [aqui](/e-mails/modeloemail.md) como configurar um modelo de e-mail que será utilizado pelo sistema para envio de pedidos por e-mail.
 
 ## Passo 3 - Envio do pedido por e-mail de forma individual
-Veja [aqui](/vendas/pedidovenda#comandos) como enviar um pedido por e-mail de forma individual. 
+Veja [aqui](/geral/ped-enviar-email.md) como enviar um pedido por e-mail de forma individual. 
 
 ## Passo 4 - Envio de pedido por e-mail de forma automática
 Veja [aqui](/faq/pedidoemailautomatico.md) como enviar um pedido por e-mail de forma automática. 
