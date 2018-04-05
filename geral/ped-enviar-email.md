@@ -29,7 +29,7 @@ Campo | Descrição
 <br>
 
 ## Detalhes
-Para  que o e-mail seja apresentado, o contato deve possuir a informação **Geral** no campo **Atribuição**. Veja [aqui](/geral/pessoacontatos/#geral).   
+Para  que o e-mail seja apresentado, o contato deve possuir a informação **Geral** no campo **Atribuição**. Veja [aqui](/geral/pessoacontatos.md).   
 > O sistema retornará somente o primeiro contato de cada **Tipo** de pessoa.   
 
 <br>
