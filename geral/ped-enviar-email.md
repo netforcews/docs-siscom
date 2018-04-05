@@ -7,25 +7,31 @@
 Campo | Descrição
 --:|---
 **Versão.Pedido** | Selecione a versão do pedido. Opções: Normal, Para Cliente. Por padrão, este campo é obrigatório.
-**Fornecedor** | Selecione se é fornecedor.
+**Fornecedor** | Selecione para enviar ao fornecedor.
 **E-mail** | Informa o e-mail.
-**Cliente** | Selecione se é cliente.
+**Cliente** | Selecione para enviar ao cliente.
 **E-mail** | Informa o e-mail.
-**Atendente** | Selecione se é atendente.
+**Atendente** | Selecione para enviar ao atendente.
 **E-mail** | Informa o e-mail.
-**Comissionado** | Selecione se é comissionado.
+**Comissionado** | Selecione para enviar ao comissionado.
 **E-mail** | Informa o e-mail.
-**Preposto 1** | Selecione se é preposto 1.
+**Preposto 1** | Selecione para enviar ao preposto 1.
 **E-mail** | Informa o e-mail.
-**Preposto 2** | Selecione se é preposto 2.
+**Preposto 2** | Selecione para enviar ao preposto 2.
 **E-mail** | Informa o e-mail.
-**Preposto 3** | Selecione se é preposto 3.
+**Preposto 3** | Selecione para enviar ao preposto 3.
 **E-mail** | Informa o e-mail.
-**Preposto 4** | Selecione se é preposto 4.
+**Preposto 4** | Selecione para enviar ao preposto 4.
 **E-mail** | Informe o e-mail.
-**Usuário** | Selecione se é usuário.
+**Usuário** | Selecione para enviar ao usuário.
 **E-mail** | Informa o e-mail.
 **Outros** | Informe outros.
+<br>
+
+## Detalhes
+Para  que o e-mail seja apresentado, o contato deve possuir a informação **Geral** no campo **Atribuição**. Veja [aqui](http://siscom.leiame.org/master/cadastros/pessoa#links).   
+> O sistema retornará somente o primeiro contato de cada **Tipo** de pessoa.   
+
 <br>
 <br>
 <br>
