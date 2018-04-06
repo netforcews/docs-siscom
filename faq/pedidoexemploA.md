@@ -216,11 +216,11 @@ Se a entrega foi parcial, informe a quantidade recebida e clique em **Executar**
 No momento do fechamento, o sistema irá gerar dados para o financeiro e apresentar a mensagem abaixo.    
 ![pedido.exemploA10](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA10.png)   
 
-Caso ocorra a mensagem abaixo, verifique as parcelas, pois neste caso os valores não estão fechando.   
+Como em nosso exemplo, estamos recebendo a metade do pedido, irá ocorrer a mensagem abaixo. Corrija as parcelas. Veja como em [Inclusão de parcelas do pedido](#InclusaoDeParcelasDoPedido).      
 ![pedido.exemploA45](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA45.png)   
 ![pedido.exemploA46](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA46.png)   
 ![pedido.exemploA47](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA47.png)   
-Veja [Inclusão de parcelas do pedido](#InclusaoDeParcelasDoPedido)
+
 
 
 
