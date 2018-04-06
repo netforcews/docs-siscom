@@ -11,9 +11,13 @@
      - [Recebendo parcialmente parte do título 00018692/A](#RecebendoParcialmenteParteDoTitulo)
    - [Comissões a pagar](#ComissoesAPagar)
    - [Não selecionado: Baixar as comissões a pagar quando é baixado as comissões a receber](#NaoSelecionado)
-     - [Pagando totalmente o titulo 00018692/A](#PagandoTotalmenteOTitulo)
-     - [Pagando parcialmente o titulo 00018692/A](#PagandoParcialmenteTodoOTitulo)
+     - [Pagando totalmente o titulo 00018692/A](#NSPagandoTotalmenteOTitulo)
+     - [Pagando parcialmente todo o titulo 00018692/A](#NSPagandoParcialmenteTodoOTitulo)
+     - [Pagando parcialmente o titulo 00018692/A](#NSPagandoParcialmenteOTitulo)
    - [Selecionado: Baixar as comissões a pagar quando é baixado as comissões a receber](#Selecionado)
+     - [Pagando totalmente o titulo 00018692/A](#SPagandoTotalmenteOTitulo)
+     - [Pagando parcialmente todo o titulo 00018692/A](#SPagandoParcialmenteTodoOTitulo)
+     - [Pagando parcialmente o titulo 00018692/A](#SPagandoParcialmenteOTitulo)
 - [Entrega parcial](#EntregaParcial)   
 
 <br>
@@ -123,7 +127,7 @@ Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesqui
 ### Não selecionado: Baixar as comissões a pagar quando é baixado as comissões a receber <a id="NaoSelecionado"></a>
 Quando o sistema estiver configurado desta forma, os títulos de comissões a pagar são gerados no fechamento do pedido e os lançamentos devem ser feitos manualmnente.
 
-#### Pagando totalmente o titulo 00018692/A <a id="PagandoTotalmenteOTitulo"></a>
+#### Pagando totalmente o titulo 00018692/A <a id="NSPagandoTotalmenteOTitulo"></a>
 Na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos** e logo após na opção em **Novo**.   
 ![pedido.exemploA24](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA24.png)   
 ![pedido.exemploA25](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA25.png)   
@@ -134,13 +138,35 @@ Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançame
 ![pedido.exemploA28](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA28.png)   
 ![pedido.exemploA29](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA29.png)   
 
-
 > Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A.
 
+#### Pagando parcialmente todo o titulo 00018692/A <a id="NSPagandoParcialmenteTodoOTitulo"></a>
+Na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos** e logo após na opção em **Novo**.   
+![pedido.exemploA24](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA24.png)   
+![pedido.exemploA30](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA30.png)   
+![pedido.exemploA34](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA34.png)   
+![pedido.exemploA35](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA35.png)   
 
+Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançamentos** e logo após na opção em **Novo**.   
+![pedido.exemploA27](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA27.png)   
+![pedido.exemploA32](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA32.png)   
+![pedido.exemploA36](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA36.png)   
+![pedido.exemploA37](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA37.png)   
 
-#### Pagando parcialmente o titulo 00018692/A <a id="PagandoParcialmenteOTitulo"></a>
+> Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A. 
 
+#### Pagando parcialmente o titulo 00018692/A <a id="NSPagandoParcialmenteOTitulo"></a>
+Na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos** e logo após na opção em **Novo**.   
+![pedido.exemploA24](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA24.png)   
+![pedido.exemploA30](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA30.png)   
+![pedido.exemploA31](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA31.png)   
+
+Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançamentos** e logo após na opção em **Novo**.   
+![pedido.exemploA27](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA27.png)   
+![pedido.exemploA32](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA32.png)   
+![pedido.exemploA33](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA33.png)   
+
+> Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A. 
 
 ### Selecionado: Baixar as comissões a pagar quando é baixado as comissões a receber <a id="Selecionado"></a>
 Quando o sistema estiver configurado desta forma, os títulos de comissões a pagar são gerados no fechamento do pedido e os lançamentos são feitos de acordo com os lançamentos dos títulos de comissões a receber de forma proporcional as comissões do pedido.
