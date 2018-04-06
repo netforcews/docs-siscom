@@ -1,5 +1,5 @@
 <a id="Topo"></a>
-# PEDIDO 
+# COMO FUNCIONA PEDIDOS
 
 ## Inclusão do pedido
 Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, opção **Pedidos** e logo após clique na opção **Novo**.
