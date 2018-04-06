@@ -40,7 +40,8 @@ Informaremos um valor e quantidade que nos resultem um montante final de R$ 90.0
 ![pedido.exemploA3](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA3.png)   
 [:arrow_backward:](#Topo)   
    
-## Inclusão de parcelas do pedido <a id="InclusaoDeParcelasDoPedido"></a>
+<a id="InclusaoDeParcelasDoPedido"></a>
+## Inclusão de parcelas do pedido 
 Na tela do pedido clique em **Parcelas** e logo após em **Gerar parcelas**.
 Como informamos a condição de pagamento **30/60/90 Dias**, o sistema irá gerar 3 parcelas.
 ![pedido.exemploA4](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA4.png)
