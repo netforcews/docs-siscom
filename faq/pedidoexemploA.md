@@ -8,7 +8,7 @@
 - [Entrega total](#EntregaTotal)   
   - [Comissões a receber](#ComissoesAReceber)
      - [Recebendo totalmente o titulo 00018692/A](#RecebendoTotalmenteOTitulo)
-     - [Recebendo parcialmente todo titulo 00018692/A](#RecebendoParcialmenteTodoOTitulo)
+     - [Recebendo parcialmente todo o titulo 00018692/A](#RecebendoParcialmenteTodoOTitulo)
      - [Recebendo parcialmente o título 00018692/A](#RecebendoParcialmenteParteDoTitulo)
    - [Comissões a pagar](#ComissoesAPagar)
    - [Não selecionado: Baixar as comissões a pagar quando é baixado as comissões a receber](#NaoSelecionado)
@@ -99,7 +99,7 @@ Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após n
 [:arrow_backward:](#Topo)   
 
 <a id="RecebendoParcialmenteTodoOTitulo"></a>
-#### Recebendo parcialmente todo titulo 00018692/A 
+#### Recebendo parcialmente todo o titulo 00018692/A 
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemploA12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA12.png)
 ![pedido.exemploA15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA15.png)   
