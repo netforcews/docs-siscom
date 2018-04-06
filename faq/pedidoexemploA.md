@@ -213,10 +213,7 @@ Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D*
 Se a entrega foi parcial, informe a quantidade recebida e clique em **Executar**.   
 ![pedido.exemploA44](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA44.png)   
 
-No momento do fechamento, o sistema irá gerar dados para o financeiro e apresentar a mensagem abaixo.    
-![pedido.exemploA10](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA10.png)   
-
-Como em nosso exemplo, estamos recebendo a metade do pedido, irá ocorrer a mensagem abaixo. Corrija as parcelas. Veja como em [Inclusão de parcelas do pedido](#InclusaoDeParcelasDoPedido).      
+Como em nosso exemplo estamos recebendo a metade do pedido, no momento do fechamento irá ocorrer um problema e a mensagem abaixo será mostrada. Corrija as parcelas. Veja como em [Inclusão de parcelas do pedido](#InclusaoDeParcelasDoPedido).      
 ![pedido.exemploA45](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA45.png)   
 ![pedido.exemploA46](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA46.png)   
 ![pedido.exemploA47](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA47.png)   
