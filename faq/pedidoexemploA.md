@@ -98,7 +98,8 @@ Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após n
 ![pedido.exemploA14](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA14.png)   
 [:arrow_backward:](#Topo)   
 
-#### Recebendo parcialmente todo titulo 00018692/A <a id="RecebendoParcialmenteTodoTitulo"></a>
+<a id="RecebendoParcialmenteTodoOTitulo"></a>
+#### Recebendo parcialmente todo titulo 00018692/A 
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemploA12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA12.png)
 ![pedido.exemploA15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA15.png)   
