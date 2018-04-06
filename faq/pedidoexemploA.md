@@ -220,7 +220,7 @@ Caso ocorra a mensagem abaixo, verifique as parcelas, pois neste caso os valores
 ![pedido.exemploA45](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA45.png)   
 ![pedido.exemploA46](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA46.png)   
 ![pedido.exemploA47](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA47.png)   
-Veja [aqui](#InclusaoDeParcelasDoPedido)
+Veja [Inclusão de parcelas do pedido](#InclusaoDeParcelasDoPedido)
 
 
 
