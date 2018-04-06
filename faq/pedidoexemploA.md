@@ -222,7 +222,9 @@ Como em nosso exemplo estamos recebendo a metade do pedido, no momento do fecham
 
 Ao fechar o pedido, o sistema apresentará a seguinte mensagem:   
 ![pedido.exemploA48](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA48.png)   
-> Perceba que ele fechou o pedido **00018692** com os valores da entrega e gerou um novo pedido **00018692-02** em aberto com o saldo.     
+   
+> Perceba que ele fechou o pedido **00018692** com os valores da entrega e gerou um novo pedido **00018692-02** em aberto com o saldo.
+   
 ![pedido.exemploA49](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA49.png)   
 ![pedido.exemploA50](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA50.png)   
 ![pedido.exemploA51](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA51.png)   
