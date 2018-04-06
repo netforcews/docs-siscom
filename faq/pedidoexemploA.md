@@ -57,20 +57,23 @@ Em nosso exemplo, iremos alterar os valores de cada uma das parcelas arredondand
 Ao final, teremos as seguintes informações:
 ![pedido.exemploA8](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA8.png)
    
-## Fechando o pedido <a id="FechandoOPedido"></a>
+<a id="FechandoOPedido"></a>
+## Fechando o pedido 
 Na tela do pedido clique em **Comandos** e selecione a opção **Fechar pedido**.
 ![pedido.exemploA9](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA9.png)
    
 Informe o número da nota fiscal e a data de faturamento.
    
-## Entrega total <a id="EntregaTotal"></a>
+<a id="EntregaTotal"></a>
+## Entrega total 
 Se a entrega for total (100%), mantenha as quantidades e clique em **Executar**.
 ![pedido.exemploA9](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA9.png)
    
 No momento do fechamento, o sistema irá gerar dados para o financeiro e apresentar a mensagem abaixo.
 ![pedido.exemploA10](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA10.png)
     
-### Comissões a receber <a id="ComissoesAReceber"></a>
+<a id="ComissoesAReceber"></a>
+### Comissões a receber 
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a receber**.    
 Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesquisa por número seja selecionada. Em nosso exemplo, informaremos no campo **Filtro** o número do nosso pedido: **00018692** e selecionaremos **Nenhum filtro**.
 ![pedido.exemploA11](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA11.png)
@@ -79,7 +82,8 @@ Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesqui
 > Mas como chegamos a este valor?   
 > O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00% + 2,5%) * R$ 90.000,00) / 100 = R$ 11.250,00; Como foram 3 parcelas, temos: R$ 11.250,00 / 3 = R$ 3.750,00. 
     
-#### Recebendo totalmente o titulo 00018692/A <a id="RecebendoTotalmenteOTitulo"></a>
+<a id="RecebendoTotalmenteOTitulo"></a>
+#### Recebendo totalmente o titulo 00018692/A 
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemploA12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA12.png)
 ![pedido.exemploA13](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA13.png)
@@ -96,7 +100,8 @@ Foi recebido mais R$ 1.000,00, totalizando R$ 3.000,00 recebidos. Restando um sa
 Foi recebido mais R$ 750,00, totalizando R$ 3.750,00 recebidos. 
 ![pedido.exemploA18](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA18.png)
 
-#### Recebendo parcialmente o título 00018692/A <a id="RecebendoParcialmenteParteDoTitulo"></a>
+<a id="RecebendoParcialmenteParteDoTitulo"></a>
+#### Recebendo parcialmente o título 00018692/A 
 Na tela do título **00018692/A**, clique na aba **Lançamentos** e logo após na opção em **Novo**.
 ![pedido.exemploA12](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA12.png)
 ![pedido.exemploA15](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA15.png)   
@@ -114,7 +119,8 @@ Foi recebido mais R$ 500,00, totalizando R$ 3.500,00 recebidos. Restando um sald
 ![pedido.exemploA22](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA22.png)   
 > Podemos fazer um novo lançamento de R$ 250,00 com observação de desconto, por exemplo.
 
-### Comissões a Pagar <a id="ComissoesAPagar"></a>
+<a id="ComissoesAPagar"></a>
+### Comissões a Pagar 
 Para acessar esta opção, selecione o módulo **Financeiro**, opção **Comissões a pagar**.    
 Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesquisa por número seja selecionada. Em nosso exemplo, informaremos no campo **Filtro** o número do nosso pedido: **00018692** e selecionaremos **Nenhum filtro**.
 ![pedido.exemploA23](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA23.png)
@@ -127,10 +133,12 @@ Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesqui
 > Se o campo **Baixar as comissões a pagar quando é baixado as comissões a receber** estiver selecionado o sistema irá fazer os lançamentos automáticos no **Comissões a pagar** a cada lançamento no **Comissões a receber**. No caso do lançamento em **Comissões a receber** for excluido, os lançamentos do **Contas a pagar** também serão.
 ![Configuração](https://raw.githubusercontent.com/netforcews/docs-siscom/master//financeiro/imagens/config-financeiro.geral.png)
 
-### Não selecionado: Baixar as comissões a pagar quando é baixado as comissões a receber <a id="NaoSelecionado"></a>
+<a id="NaoSelecionado"></a>
+### Não selecionado: Baixar as comissões a pagar quando é baixado as comissões a receber 
 Quando o sistema estiver configurado desta forma, os títulos de comissões a pagar são gerados no fechamento do pedido e os lançamentos devem ser feitos manualmnente.
 
-#### Pagando totalmente o titulo 00018692/A <a id="NSPagandoTotalmenteOTitulo"></a>
+<a id="NSPagandoTotalmenteOTitulo"></a>
+#### Pagando totalmente o titulo 00018692/A 
 Na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos** e logo após na opção em **Novo**.   
 ![pedido.exemploA24](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA24.png)   
 ![pedido.exemploA25](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA25.png)   
@@ -143,7 +151,8 @@ Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançame
 
 > Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A.
 
-#### Pagando parcialmente todo o titulo 00018692/A <a id="NSPagandoParcialmenteTodoOTitulo"></a>
+<a id="NSPagandoParcialmenteTodoOTitulo"></a>
+#### Pagando parcialmente todo o titulo 00018692/A 
 Na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos** e logo após na opção em **Novo**.   
 ![pedido.exemploA24](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA24.png)   
 ![pedido.exemploA30](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA30.png)   
@@ -158,7 +167,8 @@ Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançame
 
 > Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A. 
 
-#### Pagando parcialmente o titulo 00018692/A <a id="NSPagandoParcialmenteOTitulo"></a>
+<a id="NSPagandoParcialmenteOTitulo"></a>
+#### Pagando parcialmente o titulo 00018692/A 
 Na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos** e logo após na opção em **Novo**.   
 ![pedido.exemploA24](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA24.png)   
 ![pedido.exemploA30](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA30.png)   
@@ -171,10 +181,12 @@ Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançame
 
 > Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A. 
 
-### Selecionado: Baixar as comissões a pagar quando é baixado as comissões a receber <a id="Selecionado"></a>
+<a id="Selecionado"></a>
+### Selecionado: Baixar as comissões a pagar quando é baixado as comissões a receber 
 Quando o sistema estiver configurado desta forma, os títulos de comissões a pagar são gerados no fechamento do pedido e os lançamentos são feitos de acordo com os lançamentos dos títulos de comissões a receber de forma proporcional as comissões do pedido.
 
-#### Pagando totalmente o titulo 00018692/A <a id="SPagandoTotalmenteOTitulo"></a>
+<a id="SPagandoTotalmenteOTitulo"></a>
+#### Pagando totalmente o titulo 00018692/A 
 Em **Comissões a receber**, na tela do título **00018692/A**, clique na aba **Lançamentos**.   
 ![pedido.exemploA14](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA14.png)   
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos**.   
@@ -182,7 +194,8 @@ Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C*
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D**, clique na aba **Lançamentos**.   
 ![pedido.exemploA29](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA29.png)   
 
-#### Pagando parcialmente todo o titulo 00018692/A <a id="SPagandoParcialmenteTodoOTitulo"></a>
+<a id="SPagandoParcialmenteTodoOTitulo"></a>
+#### Pagando parcialmente todo o titulo 00018692/A 
 Em **Comissões a receber**, na tela do título **00018692/A**, clique na aba **Lançamentos**.   
 ![pedido.exemploA18](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA18.png)   
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos**.   
@@ -191,7 +204,7 @@ Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D*
 ![pedido.exemploA39](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA39.png)   
 
 <a id="SPagandoParcialmenteOTitulo"></a>
-#### Pagando parcialmente o titulo 00018692/A [:arrow_up:](#Topo)   
+#### Pagando parcialmente o titulo 00018692/A 
 Em **Comissões a receber**, na tela do título **00018692/A**, clique na aba **Lançamentos**.   
 ![pedido.exemploA20](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA20.png)   
 > Podemos considerar o saldo de R$ 250,00 como perdido, podendo manter desta forma caso algum dia queiramos gerar um acerto de contas.   
@@ -213,7 +226,7 @@ Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D*
 ![pedido.exemploA43](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA43.png)   
 
 <a id="EntregaParcial"></a>
-## Entrega parcial [:arrow_up:](#Topo)   
+## Entrega parcial [:back:](#Topo)   
 Se a entrega foi parcial, informe a quantidade recebida e clique em **Executar**.   
 ![pedido.exemploA44](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA44.png)   
 
