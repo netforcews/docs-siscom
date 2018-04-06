@@ -220,6 +220,7 @@ Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançame
 ![pedido.exemploA32](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA32.png)   
 ![pedido.exemploA33](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA33.png)   
 > Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A.   
+
 <br>
 [:arrow_backward:](#Topo)   
 <br>
@@ -296,12 +297,12 @@ Ao fechar o pedido, o sistema apresentará a seguinte mensagem:
 ![pedido.exemploA48](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA48.png)   
    
 > Perceba que ele fechou o pedido **00018692** com os valores da entrega e gerou um novo pedido **00018692-02** em aberto com o saldo.   
-<br>
+
 ![pedido.exemploA49](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA49.png)   
 ![pedido.exemploA50](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA50.png)   
 ![pedido.exemploA51](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA51.png)   
-<br>
 > De agora em diante, os processos seguem normalmente, e caso o pedido **00018692-02** também possuir uma entrega parcial, ao ser fechado irá gerar um novo pedido **00018692-03** com o saldo.
+
 <br>
 [:arrow_backward:](#Topo)   
 <br>
