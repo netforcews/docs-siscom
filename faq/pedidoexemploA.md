@@ -226,7 +226,7 @@ Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D*
 ![pedido.exemploA43](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA43.png)   
 
 <a id="EntregaParcial"></a>
-## Entrega parcial [:back:](#Topo)   
+## Entrega parcial 
 Se a entrega foi parcial, informe a quantidade recebida e clique em **Executar**.   
 ![pedido.exemploA44](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA44.png)   
 
@@ -248,6 +248,7 @@ Ao fechar o pedido, o sistema apresentará a seguinte mensagem:
 
 > De agora em diante, os processos seguem normalmente, e caso o pedido **00018692-02** também possuir uma entrega parcial, ao ser fechado irá gerar um novo pedido **00018692-03** com o saldo.
 
+[:arrow_backward:](#Topo)   
 
 
 
