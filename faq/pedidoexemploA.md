@@ -23,14 +23,16 @@
 
 <br>
 
-## Inclusão do pedido <a id="InclusaoDoPedido"></a>
+<a id="InclusaoDoPedido"></a>
+## Inclusão do pedido
 Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, opção **Pedidos** e logo após clique na opção **Novo**.
 ![pedido.exemploA0](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA0.png)
    
 Informaremos dois representantes: Representante C com 10% de comissão e Representante D com 2,5% de comissão, totalizando 12,5% de comissão.
 ![pedido.exemploA1](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA1.png)
    
-## Inclusão de referências (itens) do pedido <a id="InclusaoDeReferenciasDoPedido"></a>
+<a id="InclusaoDeReferenciasDoPedido"></a>   
+## Inclusão de referências (itens) do pedido
 Na tela do pedido, clique em **Referências**.
 Informaremos um valor e quantidade que nos resultem um montante final de R$ 90.000,00.   
 ![pedido.exemploA2](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA2.png)
@@ -188,7 +190,8 @@ Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C*
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D**, clique na aba **Lançamentos**.   
 ![pedido.exemploA39](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA39.png)   
 
-#### Pagando parcialmente o titulo 00018692/A <a id="SPagandoParcialmenteOTitulo"></a>
+<a id="SPagandoParcialmenteOTitulo"></a>
+#### Pagando parcialmente o titulo 00018692/A [:arrow_up:](#Topo)   
 Em **Comissões a receber**, na tela do título **00018692/A**, clique na aba **Lançamentos**.   
 ![pedido.exemploA20](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA20.png)   
 > Podemos considerar o saldo de R$ 250,00 como perdido, podendo manter desta forma caso algum dia queiramos gerar um acerto de contas.   
@@ -209,8 +212,8 @@ Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C*
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D**, clique na aba **Lançamentos**.     
 ![pedido.exemploA43](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA43.png)   
 
-
-## Entrega parcial <a id="EntregaParcial"></a> [:arrow_up:](#Topo)   
+<a id="EntregaParcial"></a>
+## Entrega parcial [:arrow_up:](#Topo)   
 Se a entrega foi parcial, informe a quantidade recebida e clique em **Executar**.   
 ![pedido.exemploA44](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA44.png)   
 
