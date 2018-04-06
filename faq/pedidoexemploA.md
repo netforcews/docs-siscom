@@ -117,7 +117,7 @@ Foi recebido R$ 2.000,00. Restando um saldo de R$ 1.750,00.
 Foi recebido mais R$ 1.000,00, totalizando R$ 3.000,00 recebidos. Restando um saldo de R$ 750,00.
 ![pedido.exemploA17](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA17.png)   
 Foi recebido mais R$ 750,00, totalizando R$ 3.750,00 recebidos. 
-![pedido.exemploA18](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA18.png)   
+![pedido.exemploA18](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA18.png)
 <br>
 [:arrow_backward:](#Topo)   
 <br>
