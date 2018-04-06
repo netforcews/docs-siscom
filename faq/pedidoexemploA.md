@@ -58,6 +58,7 @@ Em nosso exemplo, iremos alterar os valores de cada uma das parcelas arredondand
 
 > Perceba que alteramos o número de dias para mudar o vencimento.
 <br>
+
 ![pedido.exemploA7](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA7.png)
    
 Ao final, teremos as seguintes informações:
@@ -95,6 +96,7 @@ Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesqui
 > Perceba que aqui temos o montante de R$ 11.250,00 de comissões a receber do pedido.   
 > Mas como chegamos a este valor?   
 > O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00% + 2,5%) * R$ 90.000,00) / 100 = R$ 11.250,00; Como foram 3 parcelas, temos: R$ 11.250,00 / 3 = R$ 3.750,00.
+<br>
 <br>
 [:arrow_backward:](#Topo)   
 <br>
@@ -143,6 +145,7 @@ Foi recebido mais R$ 500,00, totalizando R$ 3.500,00 recebidos. Restando um sald
 ![pedido.exemploA22](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA22.png)   
 > Podemos fazer um novo lançamento de R$ 250,00 com observação de desconto, por exemplo.
 <br>
+<br>
 [:arrow_backward:](#Topo)   
 <br>
 
@@ -184,6 +187,7 @@ Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançame
 
 > Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A.
 <br>
+<br>
 [:arrow_backward:](#Topo)   
 <br>
 
@@ -203,6 +207,7 @@ Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançame
 
 > Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A.
 <br>
+<br>
 [:arrow_backward:](#Topo)   
 <br>
 
@@ -219,6 +224,7 @@ Na tela do título **00018692/A**, **Representante D**, clique na aba **Lançame
 ![pedido.exemploA33](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA33.png)   
 
 > Perceba que aqui temos o Representante C e o Representante D para o titulo 00018692/A.
+<br>
 <br>
 [:arrow_backward:](#Topo)   
 <br>
@@ -301,6 +307,7 @@ Ao fechar o pedido, o sistema apresentará a seguinte mensagem:
 ![pedido.exemploA51](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA51.png)   
 
 > De agora em diante, os processos seguem normalmente, e caso o pedido **00018692-02** também possuir uma entrega parcial, ao ser fechado irá gerar um novo pedido **00018692-03** com o saldo.
+<br>
 <br>
 [:arrow_backward:](#Topo)   
 <br>
