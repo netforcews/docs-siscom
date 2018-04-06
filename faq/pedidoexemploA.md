@@ -192,6 +192,7 @@ Em **Comissões a receber**, na tela do título **00018692/A**, clique na aba **
 ![pedido.exemploA20](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA20.png)   
 > Podemos considerar o saldo de R$ 250,00 como perdido, podendo manter desta forma caso algum dia queiramos gerar um acerto de contas.   
 <br>
+
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos**.   
 ![pedido.exemploA40](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA40.png)   
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D**, clique na aba **Lançamentos**.   
@@ -201,6 +202,7 @@ Em **Comissões a receber**, na tela do título **00018692/A**, clique na aba **
 ![pedido.exemploA22](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA22.png)   
 > Podemos fazer um novo lançamento de R$ 250,00 com observação de desconto, por exemplo.
 <br>
+
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos**.     
 ![pedido.exemploA42](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA42.png)   
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D**, clique na aba **Lançamentos**.     
