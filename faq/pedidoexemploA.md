@@ -4,7 +4,7 @@
 ## Inclusão do pedido
 Para acessar esta opção, selecione o módulo **Vendas**, opção **Geral**, opção **Pedidos** e logo após clique na opção **Novo**.
 ![pedido.exemploA0](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA0.png)   
-Informaremos dois representantes: Representante C com 10% de comissão e Representante D com 2,5% de comissão, totalizando 12,5% de comissão.
+Informaremos dois representantes: Representante C com 10% de comissão e Representante D com 2,5% de comissão, totalizando 12,5% de comissão.   
 ![pedido.exemploA1](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA1.png)
 <br>
 [Voltar](#Topo)   
