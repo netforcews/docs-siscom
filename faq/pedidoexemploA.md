@@ -179,7 +179,7 @@ Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C*
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D**, clique na aba **Lançamentos**.   
 ![pedido.exemploA29](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA29.png)   
 
-#### Pagando parcialmente todo o titulo 00018692/A <a id="NSPagandoParcialmenteTodoOTitulo"></a>
+#### Pagando parcialmente todo o titulo 00018692/A <a id="SPagandoParcialmenteTodoOTitulo"></a>
 Em **Comissões a receber**, na tela do título **00018692/A**, clique na aba **Lançamentos**.   
 ![pedido.exemploA18](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA18.png)   
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C**, clique na aba **Lançamentos**.   
@@ -187,7 +187,7 @@ Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante C*
 Em **Comissões a pagar**, na tela do título **00018692/A**, **Representante D**, clique na aba **Lançamentos**.   
 ![pedido.exemploA39](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA39.png)   
 
-#### Pagando parcialmente o titulo 00018692/A <a id="NSPagandoParcialmenteOTitulo"></a>
+#### Pagando parcialmente o titulo 00018692/A <a id="SPagandoParcialmenteOTitulo"></a>
 Em **Comissões a receber**, na tela do título **00018692/A**, clique na aba **Lançamentos**.   
 ![pedido.exemploA20](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA20.png)   
 > Podemos considerar o saldo de R$ 250,00 como perdido, podendo manter desta forma caso algum dia queiramos gerar um acerto de contas.   
