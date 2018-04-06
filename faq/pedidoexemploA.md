@@ -139,7 +139,7 @@ Foi recebido mais R$ 500,00, totalizando R$ 3.500,00 recebidos. Restando um sald
 
 ![pedido.exemploA21](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA21.png)
 ![pedido.exemploA22](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA22.png)   
-> Podemos fazer um novo lançamento de R$ 250,00 com observação de desconto, por exemplo.     
+> Podemos fazer um novo lançamento de R$ 250,00 com observação de desconto, por exemplo.
 
 <br>
 [:arrow_backward:](#Topo)   
