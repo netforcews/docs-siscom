@@ -96,6 +96,7 @@ Vamos filtrar nosso pedido. Clique sobre a palavra **Número** para que a pesqui
 > Perceba que aqui temos o montante de R$ 11.250,00 de comissões a receber do pedido.   
 > Mas como chegamos a este valor?   
 > O sistema fez a seguinte conta: (Percentual de comissão do Representante C + Percentual de comissão do Representante D) do total do pedido. Ou seja, ((10,00% + 2,5%) * R$ 90.000,00) / 100 = R$ 11.250,00; Como foram 3 parcelas, temos: R$ 11.250,00 / 3 = R$ 3.750,00.
+
 <br>
 [:arrow_backward:](#Topo)
 <br>
