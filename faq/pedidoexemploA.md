@@ -296,7 +296,6 @@ Ao fechar o pedido, o sistema apresentará a seguinte mensagem:
 ![pedido.exemploA51](https://raw.githubusercontent.com/netforcews/docs-siscom/master/faq/imagens/pedido.exemploA51.png)   
 > De agora em diante, os processos seguem normalmente, e caso o pedido **00018692-02** também possuir uma entrega parcial, ao ser fechado irá gerar um novo pedido **00018692-03** com o saldo.
 
-
 <br>
-[:arrow_backward:](#Topo)
+[]()[:arrow_backward:](#Topo)
 <br>
