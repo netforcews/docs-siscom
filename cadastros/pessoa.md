@@ -26,7 +26,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Marca** | Informe o nome fantasia (apelido). Por padrão, este campo é obrigatório.
+**Marca** | Informe um nome curto de como você conhece a pessoa internamente. Exemplo: Apple para Apple Computers INC. Por padrão, este campo é obrigatório.
 **Grupo** | Selecione o grupo.
 **Código** | Informa o código.
 **CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo.
