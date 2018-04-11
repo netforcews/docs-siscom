@@ -11,7 +11,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | Informa o nome fantasia (apelido).
+**Marca** | Informa um nome curto de como você conhece a pessoa internamente. Exemplo: Apple para Apple Computers INC.
 **Razão Social/Nome** | Informa o nome.
 **CNPJ/CPF** | Informa o CNPJ ou CPF, conforme o tipo.
 **Telefone** | Informa o telefone.
@@ -143,6 +143,8 @@ Campo | Descrição
 **Observação** | Informe uma observação.
 **Informações** | Informe informações.
 **Obs. do Pedido** | Informe uma observação.
+**Informações Comerciais** | Informe as informações comerciais.
+**Informações Bancarias** | Informe as informações bancarias.
 <br>
 
 ## Localização
