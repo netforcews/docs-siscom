@@ -30,7 +30,7 @@ Campo | Descrição
 <br>
 
 ## Destino
- ![PDF](https://raw.githubusercontent.com/netforcews/docs-siscom/master/relatorios/imagens/pdf-48.png)
+ ![CSV](https://raw.githubusercontent.com/netforcews/docs-siscom/master/relatorios/imagens/csv-48.png) ![PDF](https://raw.githubusercontent.com/netforcews/docs-siscom/master/relatorios/imagens/pdf-48.png) ![XLS](https://raw.githubusercontent.com/netforcews/docs-siscom/master/relatorios/imagens/xls-48.png)
 <br>
 
 ## Filtro
