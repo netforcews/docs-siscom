@@ -16,12 +16,12 @@ Simples relatório de clientes.
 ## Colunas
 Campo | Descrição
 --:|---
-**Nome** | 
+**Nome** | Informa o nome.
 **Marca** | 
 **Telefone** | 
 **E-mail** | 
 **Logradouro** | 
-**Bairro** | 
+**Bairro** | Informa o bairro.
 **CNPJ/CPF** | 
 **Insc.Est** | 
 **Situação** | 
