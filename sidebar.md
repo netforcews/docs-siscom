@@ -20,7 +20,7 @@
 - [Unidades de Medida](/cadastros/unidadesmedida.md)
 
 ***Relatórios/Consultas***
-- [Clientes](/relatorios/report.10110.md)
+- [Clientes](/relatorios/10110.md)
 - [Clientes Analítico](/cadastros/relatorios/clientesanalitico.md)
 - [Fornecedores](/cadastros/relatorios/fornecedores.md)
 - [Prestadores de serviço](/cadastros/relatorios/prestadoresservico.md)
