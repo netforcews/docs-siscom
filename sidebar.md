@@ -24,14 +24,14 @@
 - [Clientes Analítico](/relatorios/10115.md)
 - [Fornecedores](/relatorios/10140.md)
 - [Prestadores de serviço](/relatorios/10120.md)
-- [Transportadoras](/relatorios/transportadoras.md)
-- [Pessoas](/relatorios/pessoas.md)
+- [Transportadoras](/relatorios/10130.md)
+- [Pessoas](/relatorios/10200.md)
 
 **CRM**
-- [Interações](/relatorios/10150.md)
+- [Interações](/relatorios/crminteracoes.md)
 
 ***Relatórios/Consultas***
-- [Interações](/crm/relatorios/interacoes.md)
+- [Interações](/crm/relatorios/10150.md)
 
 **E-MAILS**
 - [Contas](/e-mails/emailcontas.md)
