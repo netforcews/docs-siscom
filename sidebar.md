@@ -28,10 +28,10 @@
 - [Pessoas](/relatorios/10200.md)
 
 **CRM**
-- [Interações](/relatorios/crminteracoes.md)
+- [Interações](/crm/crminteracoes.md)
 
 ***Relatórios/Consultas***
-- [Interações](/crm/relatorios/10150.md)
+- [Interações](/relatorios/10150.md)
 
 **E-MAILS**
 - [Contas](/e-mails/emailcontas.md)
