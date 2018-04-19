@@ -12,7 +12,7 @@ Campo | Descrição
 **Grupo** | Selecione o grupo.
 **Tipo de Cliente** | Selecione o tipo de cliente.
 **Região de Venda** | Selecione a região de venda.
-**Representante** | Selecione o representante.
+**Responsável** | Selecione o responsável.
 **Fornecedor** | Selecione o fornecedor.
 **Início** | Informe a data do início.
 **Término** | Informe a data do término.
