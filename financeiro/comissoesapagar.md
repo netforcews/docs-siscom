@@ -31,14 +31,14 @@ Campo | Descrição
 **Compromisso** | Informe o compromisso. Por padrão, este campo é obrigatório.
 **Situação** | Informa a situação. Opções: Aberto, Cancelado, Quitado. Por padrão, este campo é obrigatório.
 **Número** | Informa o numero.
-**Usuário** | Informa o usuário. Por padrão, este campo é obrigatório.
-**Comissionado** | Selecione o fornecedor/sacado. Por padrão, este campo é obrigatório.
+**Usuário** | Informa o usuário. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/usuario.md).
+**Comissionado** | Selecione o fornecedor/sacado. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **Descrição** | Informe a descrição.
 **Emissão** | Informe a data da emissão. Por padrão, este campo é obrigatório.
 **Forma de Pgto** | Informe o forma de psgsmento. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 **Vencimento** | Informe a data do vencimento. Por padrão, este campo é obrigatório.
 **Tipo Vencimento** | Selecione o tipo de vencimento. Opções: Previsto, Real. Por padrão, este campo é obrigatório.
-**Conta Contábil** | Selecione a conta contábil.
+**Conta Contábil** | Selecione a conta contábil. Veja [aqui](/cadastros/planoconta.md).
 **Valor Nominal** | Informe o valor nominal. Por padrão, este campo é obrigatório.
 **Valor Base** | Informa o valor base.
 **N. Parcelas** | Informe o número de parcelas. Por padrão, este campo é obrigatório.

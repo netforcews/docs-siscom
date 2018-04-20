@@ -25,12 +25,12 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Conta** | Selecione a conta. Por padrão, este campo é obrigatório.
-**Conta Contábil** | Selecione a conta contábil. Por padrão, este campo é obrigatório.
+**Conta** | Selecione a conta. Por padrão, este campo é obrigatório. Veja [aqui](/geral/lkpcontacorrente.md).
+**Conta Contábil** | Selecione a conta contábil. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/planoconta.md).
 **Data** | Informe a data. Por padrão, este campo é obrigatório.
 **Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
 **Documento** | Informe o documento. Por padrão, este campo é obrigatório.
-**Contra parte** | Selecione a contra parte. Por padrão, este campo é obrigatório.
+**Contra parte** | Selecione a contra parte. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **Valor** | Informe o valor. Por padrão, este campo é obrigatório.
 **Saldo** | Informa o saldo.
 **Saldo Empresa** | Informa o saldo empresa.
