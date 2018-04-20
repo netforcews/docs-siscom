@@ -39,7 +39,7 @@ Campo | Descrição
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
 **Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md)
-**Município** | Selecione o município. Veja [aqui](//municipio.md)
+**Município** | Selecione o município. Veja [aqui](/geral/municipio.md)
 **Data Nasc.** | Informe a data do nascimento.
 **Data Cadastro** | Informa a data do cadastro.
 **WebSite** | Informe o website.
@@ -64,7 +64,7 @@ Campo | Descrição
 **Condição Pagto** | Selecione a condição de pagamento padrão. Veja [aqui](/cadastros/condicaopagamento.md)
 **Forma Pagto** | Informe a forma de pagamento padrão.
 **Frete** | Selecione o frete padrão.
-**Tipo de Cliente** | Selecione o tipo de pessoa. Veja [aqui](//tipopessoa.md)
+**Tipo de Cliente** | Selecione o tipo de pessoa. Veja [aqui](/geral/tipopessoa.md)
 **Freq.Compra** | Informe a frequência de compra.
 **Tipo Faturamento** | Selecione o tipo de faturamento padrão. Veja [aqui](/cadastros/tipofaturamento.md)
 **Melhor Dia Pagto** | Informe o melhor dia para pagamento.
@@ -118,7 +118,7 @@ Campo | Descrição
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
 **Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md)
-**Município** | Selecione o município. Veja [aqui](//municipio.md)
+**Município** | Selecione o município. Veja [aqui](/geral/municipio.md)
 **CNPJ** | Informe o CNPJ.
 **IE** | Informe a Inscrição Estadual.
 **Telefone** | Informe o telefone.
@@ -130,7 +130,7 @@ Campo | Descrição
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
 **Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md)
-**Município** | Selecione o município. Veja [aqui](//municipio.md)
+**Município** | Selecione o município. Veja [aqui](/geral/municipio.md)
 **Telefone** | Informe o telefone.
 **Fax** | Informe o fax.
 <br>
