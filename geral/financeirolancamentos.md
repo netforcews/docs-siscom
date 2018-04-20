@@ -19,7 +19,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Data** | Informe a data. Por padrão, este campo é obrigatório.
-**Conta** | Selecione a conta. Por padrão, este campo é obrigatório.
+**Conta** | Selecione a conta. Por padrão, este campo é obrigatório. Veja [aqui](/geral/lkpcontacorrente.md).
 **Valor** | Informe o valor. Por padrão, este campo é obrigatório.
 **Observação** | Informe uma observação.
 <br>

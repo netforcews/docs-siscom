@@ -19,7 +19,7 @@ Campo | Descrição
 --:|---
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
 **Alias** | Informe o alias. Por padrão, este campo é obrigatório.
-**Proprietário** | Selecione o proprietário.
+**Proprietário** | Selecione o proprietário. Veja [aqui](/desenvolvimento/usuario.md).
 **CNPJ/CPF** | Informe o CNPJ/CPF.
 **IE** | Informe a Inscrição Estadual.
 **Logradouro** | Informe o logradouro.
@@ -27,8 +27,8 @@ Campo | Descrição
 **Complemento** | Informe o complemento.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
-**Estado** | Selecione o estado.
-**Município** | Selecione o município.
+**Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md).
+**Município** | Selecione o município. Veja [aqui](/geral/municipio.md).
 **DDD** | Informe o DDD.
 **Telefone** | Informe o telefone.
 **Celular** | Informe o celular.
@@ -53,8 +53,8 @@ Campo | Descrição
 **Desconto somente com aprovação** | Selecione se desconto somente com aprovação.
 **Informar desconto** | Selecione se deve informar desconto. Opções: Em Percentual, Em Valor. Por padrão, este campo é obrigatório.
 **Perminit previsão de entraga para finais de semana** | Selecione se permiite previsão de entraga para finais de semana.
-**Receita** | Selecione a conta de receita. Por padrão, este campo é obrigatório.
-**Despesa** | Selecione a conta de despesa. Por padrão, este campo é obrigatório.
+**Receita** | Selecione a conta de receita. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/planoconta.md).
+**Despesa** | Selecione a conta de despesa. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/planoconta.md).
 **A Receber** | Informe s forma para receber. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 **A Pagar** | Informe a forma para pagar. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 <br>

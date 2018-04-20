@@ -19,22 +19,22 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Interface** | Selecione a interface.
+**Interface** | Selecione a interface. Veja [aqui](/geral/sisinterface.md).
 **Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
 **Assumir como padrão** | Selecione se deve assumir como padrão.
-**Campo** | Selecione o campo. Por padrão, este campo é obrigatório.
+**Campo** | Selecione o campo. Por padrão, este campo é obrigatório. Veja [aqui](/geral/campo.md).
 **Operador** | Selecione o operador. Opções: Contém, Diferente, É Nulo, Igual, Inicia com, Maior, Maior e Igual, Menor, Menor e Igual, Não é Nulo, Termina com. Por padrão, este campo é obrigatório.
 **Valor** | Informe o valor. Por padrão, este campo é obrigatório.
-**Campo** | Selecione o campo.
+**Campo** | Selecione o campo. Veja [aqui](/geral/campo.md).
 **Operador** | Selecione o operador.
 **Valor** | Informe o valor.
-**Campo** | Selecione o campo.
+**Campo** | Selecione o campo. Veja [aqui](/geral/campo.md).
 **Operador** | Selecione o operador.
 **Valor** | Informe o valor.
-**Campo** | Selecione o campo.
+**Campo** | Selecione o campo. Veja [aqui](/geral/campo.md).
 **Operador** | Selecione o operador.
 **Valor** | Informe o valor.
-**Campo** | Selecione o campo.
+**Campo** | Selecione o campo. Veja [aqui](/geral/campo.md).
 **Operador** | Selecione o operador.
 **Valor** | Informe o valor.
 **Ordenação** | Informe o ordenação.

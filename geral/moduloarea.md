@@ -19,7 +19,7 @@ Campo | Descrição
 --:|---
 **Coluna** | Selecione a coluna. Opções: 1 Coluna, 2 Colunas, 3 Colunas. Por padrão, este campo é obrigatório.
 **Ordem** | Informe o ordem. Por padrão, este campo é obrigatório.
-**Objeto** | Selecione o objeto. Por padrão, este campo é obrigatório.
+**Objeto** | Selecione o objeto. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/portlets.md).
 **Parâmetros** | Informe os parâmetros.
 <br>
 <br>

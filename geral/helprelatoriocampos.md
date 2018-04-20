@@ -16,8 +16,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Codigo** | Informe o codigo.
-**Relatorio** | Selecione o relatorio.
+**Codigo** | Informa o codigo.
 **Ordem** | Informe o ordem.
 **Campo** | Informa o campo.
 **Informacoes** | Informa o informacoes.
