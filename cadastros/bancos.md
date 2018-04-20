@@ -28,14 +28,14 @@ Campo | Descrição
 **CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo. Por padrão, este campo é obrigatório.
 **Tipo** | Selecione o tipo. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
 **IE** | Informe a Inscrição Estadual. Por padrão, este campo é obrigatório.
-**Ramo Atividade** | Selecione o ramo de atividade. Por padrão, este campo é obrigatório.
+**Ramo Atividade** | Selecione o ramo de atividade. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/ramoatividade.md).
 **Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
 **Número** | Informe o número do logradouro. Por padrão, este campo é obrigatório.
 **Complemento** | Informe o complemento do endenreço.
 **Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
 **CEP** | Informe o CEP. Por padrão, este campo é obrigatório.
-**Estado** | Selecione o estado. Por padrão, este campo é obrigatório.
-**Município** | Selecione o município. Por padrão, este campo é obrigatório.
+**Estado** | Selecione o estado. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/estado.md).
+**Município** | Selecione o município. Por padrão, este campo é obrigatório. Veja [aqui](/geral/municipio.md).
 **Data Nasc.** | Informe a data do nascimento.
 **Data Cadastro** | Informa a data do cadastro.
 <br>
@@ -62,8 +62,8 @@ Campo | Descrição
 --:|---
 **Situação** | Informe a situação. Opções: Ativo, Bloq. c/ pendência financeira, Bloqueado, Inativo, Prospect. Por padrão, este campo é obrigatório.
 **Data Situação** | Informa a data da situação.
-**CC (Receita)** | Selecione a a conta contábil de receita.
-**CC (Despesa)** | Selecione a conta contábil de despesa.
+**CC (Receita)** | Selecione a a conta contábil de receita. Veja [aqui](/geral/lkpplanoconta.md).
+**CC (Despesa)** | Selecione a conta contábil de despesa. Veja [aqui](/geral/lkpplanoconta.md).
 <br>
 
 ## Observação

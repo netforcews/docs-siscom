@@ -27,19 +27,19 @@ Campo | Descrição
 --:|---
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
 **Marca** | Informe um nome curto de como você conhece a pessoa internamente. Exemplo: Apple para Apple Computers INC. Por padrão, este campo é obrigatório.
-**Grupo** | Selecione o grupo. Veja [aqui](/cadastros/grupoclientes.md)
+**Grupo** | Selecione o grupo. Veja [aqui](/cadastros/grupoclientes.md).
 **Código** | Informa o código.
 **CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo.
 **Tipo** | Selecione o tipo. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
 **IE** | Informe a Inscrição Estadual.
-**Ramo Atividade** | Selecione o ramo de atividade. Veja [aqui](/cadastros/ramoatividade.md)
+**Ramo Atividade** | Selecione o ramo de atividade. Veja [aqui](/cadastros/ramoatividade.md).
 **Logradouro** | Informe o logradouro.
 **Número** | Informe o número do logradouro.
 **Complemento** | Informe o complemento do endenreço.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
-**Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md)
-**Município** | Selecione o município. Veja [aqui](/geral/municipio.md)
+**Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md).
+**Município** | Selecione o município. Veja [aqui](/geral/municipio.md).
 **Data Nasc.** | Informe a data do nascimento.
 **Data Cadastro** | Informa a data do cadastro.
 **WebSite** | Informe o website.
@@ -56,17 +56,17 @@ Campo | Descrição
 --:|---
 **Situação** | Informe a situação. Opções: Ativo, Bloq. c/ pendência financeira, Bloqueado, Inativo, Prospect. Por padrão, este campo é obrigatório.
 **Data Situação** | Informa a data da situação.
-**Responsável** | Selecione o responsável. Veja [aqui](/cadastros/pessoa.md)
-**Região Venda** | Selecione a região de venda. Veja [aqui](/cadastros/regiao.md)
+**Responsável** | Selecione o responsável. Veja [aqui](/cadastros/pessoa.md).
+**Região Venda** | Selecione a região de venda. Veja [aqui](/cadastros/regiao.md).
 **Suframa** | Informe o suframa.
 **Crédito** | Informe o crédito.
 **Ultima Compra** | Informa a data da última compra.
-**Condição Pagto** | Selecione a condição de pagamento padrão. Veja [aqui](/cadastros/condicaopagamento.md)
+**Condição Pagto** | Selecione a condição de pagamento padrão. Veja [aqui](/cadastros/condicaopagamento.md).
 **Forma Pagto** | Informe a forma de pagamento padrão.
 **Frete** | Selecione o frete padrão.
-**Tipo de Cliente** | Selecione o tipo de pessoa. Veja [aqui](/geral/tipopessoa.md)
+**Tipo de Cliente** | Selecione o tipo de pessoa. Veja [aqui](/geral/tipopessoa.md).
 **Freq.Compra** | Informe a frequência de compra.
-**Tipo Faturamento** | Selecione o tipo de faturamento padrão. Veja [aqui](/cadastros/tipofaturamento.md)
+**Tipo Faturamento** | Selecione o tipo de faturamento padrão. Veja [aqui](/cadastros/tipofaturamento.md).
 **Melhor Dia Pagto** | Informe o melhor dia para pagamento.
 **Pedido mínimo** | Informe o pedido mínimo.
 **Comissão Padrão** | Informe a comissão padrão.
@@ -77,8 +77,8 @@ Campo | Descrição
 **Aviso de Pedidos Atrasados** | Selecione se deve enviar aviso de pedidos atrasados.
 **Aviso de previsão dos pedidos** | Selecione se deve avisar previsão dos pedidos.
 **Avisos de administrador** | Selecione se deve avisar  avisos de administrador.
-**CC (Receita)** | Selecione a a conta contábil de receita. Veja [aqui](/cadastros/planoconta.md)
-**CC (Despesa)** | Selecione a conta contábil de despesa. Veja [aqui](/cadastros/planoconta.md)
+**CC (Receita)** | Selecione a a conta contábil de receita. Veja [aqui](/cadastros/planoconta.md).
+**CC (Despesa)** | Selecione a conta contábil de despesa. Veja [aqui](/cadastros/planoconta.md).
 **Cliente** | Selecione se a pessoa é um cliente.
 **Prestador de Serviço** | Selecione se a pessoa é um fornecedor.
 **Fornecedor** | Selecione se a pessoa é uma representada.
@@ -117,8 +117,8 @@ Campo | Descrição
 **Complemento** | Informe o complemento do endenreço.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
-**Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md)
-**Município** | Selecione o município. Veja [aqui](/geral/municipio.md)
+**Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md).
+**Município** | Selecione o município. Veja [aqui](/geral/municipio.md).
 **CNPJ** | Informe o CNPJ.
 **IE** | Informe a Inscrição Estadual.
 **Telefone** | Informe o telefone.
@@ -129,8 +129,8 @@ Campo | Descrição
 **Complemento** | Informe o complemento do endenreço.
 **Bairro** | Informe o bairro.
 **CEP** | Informe o CEP.
-**Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md)
-**Município** | Selecione o município. Veja [aqui](/geral/municipio.md)
+**Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md).
+**Município** | Selecione o município. Veja [aqui](/geral/municipio.md).
 **Telefone** | Informe o telefone.
 **Fax** | Informe o fax.
 <br>

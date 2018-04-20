@@ -21,7 +21,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
-**Fornecedor** | Selecione o fornecedor.
+**Fornecedor** | Selecione o fornecedor. Veja [aqui](/cadastros/pessoa.md).
 <br>
 <br>
 <br>
