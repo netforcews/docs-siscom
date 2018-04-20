@@ -29,32 +29,32 @@ Campo | Descrição
 --:|---
 **Número** | Informa o número. Por padrão, este campo é obrigatório.
 **Pedido Original** | Informe o pedido original..
-**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **Estado** | Informa o estado. Opções: Aberto, Cancelado, Faturado e Entregue, Fechado. Por padrão, este campo é obrigatório.
-**Cliente** | Selecione o cliente. Por padrão, este campo é obrigatório.
+**Cliente** | Selecione o cliente. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **Contato** | Informe o contato.
-**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório.
-**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório.
+**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/empresa.md).
 **Emissão** | Informa a data da emissão.
 **Prev.Faturamento** | Informe a data da previsão de faturamento. Por padrão, este campo é obrigatório.
 **Fechamento** | Informa a data do fechamento.
 **Prev.Entrega** | Informe a data da previsão de entrega.
-**Cond.Pagto** | Selecione a condição de pagamento. Por padrão, este campo é obrigatório.
+**Cond.Pagto** | Selecione a condição de pagamento. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/condicaopagamento.md).
 **Forma Pagto** | Informe o forma pagamento. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 **Tipo Venda** | Informe o tipo venda. Opções: Coleção, Desenvolvimento, Exportação, Saldo. Por padrão, este campo é obrigatório.
 **Tipo Faturamento** | Informe o tipo de faturamento. Opções: Normal, VOL. Por padrão, este campo é obrigatório.
 **Pedido enviado por e-mail cliente/fornecedor** | Selecione se o pedido foi enviado por e-mail para o cliente/fornecedor.
 **Data Faturamento** | Informe a data do faturamento.
 **Nota Fiscal** | Informe a nota fiscal.
-**Comissionado** | Selecione o comissionado. Por padrão, este campo é obrigatório.
+**Comissionado** | Selecione o comissionado. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **% Comissão** | Informe o percentual de comissão. Por padrão, este campo é obrigatório.
-**Preposto1** | Selecione o preposto1.
+**Preposto1** | Selecione o preposto1. Veja [aqui](/cadastros/pessoa.md).
 **% Comissão** | Informe o percentual de comissão.
-**Preposto2** | Selecione o preposto2.
+**Preposto2** | Selecione o preposto2. Veja [aqui](/cadastros/pessoa.md).
 **% Comissão** | Informe o percentual de comissão.
-**Preposto3** | Selecione o preposto3.
+**Preposto3** | Selecione o preposto3. Veja [aqui](/cadastros/pessoa.md).
 **% Comissão** | Informe o percentual de comissão.
-**Preposto4** | Selecione o preposto4.
+**Preposto4** | Selecione o preposto4. Veja [aqui](/cadastros/pessoa.md).
 **% Comissão** | Informe o percentual de comissão.
 **% Comissão Total** | Informe o percentual total de  comissão.
 **Qtdade Total** | Informa a quantidade.
@@ -69,11 +69,11 @@ Campo | Descrição
 **Valor Financeiro** | Informa o valor financeiro.
 **% Geral** | Informe o percentual geral.
 **Valor Geral** | Informe o valor geral.
-**Transportadora** | Selecione a transportadora.
+**Transportadora** | Selecione a transportadora. Veja [aqui](/cadastros/pessoa.md).
 **Frete** | Selecione o frete.
-**Redespacho** | Selecione o redespacho.
+**Redespacho** | Selecione o redespacho. Veja [aqui](/cadastros/pessoa.md).
 **Frete Red.** | Selecione o frete redespacho.
-**Lista de Produtos** | Selecione a lista de produtos.
+**Lista de Produtos** | Selecione a lista de produtos. Veja [aqui](/produtos/produtolista.md).
 <br>
 
 ## Itens
@@ -105,7 +105,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Ocorrência** | Informa a ocorrência.
+**Ocorrência** | Informa a ocorrência. Veja [aqui](/cadastros/ocorrencias.md).
 **Data** | Informa a data.
 **Motivo** | Informa um motivo.
 <br>

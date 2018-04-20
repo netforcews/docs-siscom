@@ -27,22 +27,22 @@ Campo | Descrição
 --:|---
 **Número** | Informa o número. Por padrão, este campo é obrigatório.
 **Pedido Original** | Informe o pedido original..
-**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório.
+**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **Estado** | Informa o estado. Opções: Aberto, Cancelado, Faturado e Entregue, Fechado. Por padrão, este campo é obrigatório.
-**Cliente** | Selecione o cliente. Por padrão, este campo é obrigatório.
+**Cliente** | Selecione o cliente. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **Contato** | Informe o contato.
-**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório.
-**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório.
+**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/empresa.md).
 **Emissão** | Informa a data da emissão.
 **Prev.Entrega** | Informe a data da previsão de entrega.
-**Cond.Pagto** | Selecione a condição de pagamento. Por padrão, este campo é obrigatório.
+**Cond.Pagto** | Selecione a condição de pagamento. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/condicaopagamento.md).
 **Forma Pagto** | Informe o forma pagamento. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 **Tipo Venda** | Informe o tipo venda. Opções: Coleção, Desenvolvimento, Exportação, Saldo. Por padrão, este campo é obrigatório.
 **Tipo Faturamento** | Informe o tipo de faturamento. Opções: Normal, VOL. Por padrão, este campo é obrigatório.
 **Validade** | Informe a data da validade.
-**Transportadora** | Selecione a transportadora.
+**Transportadora** | Selecione a transportadora. Veja [aqui](/cadastros/pessoa.md).
 **Frete** | Selecione o frete.
-**Redespacho** | Selecione o redespacho.
+**Redespacho** | Selecione o redespacho. Veja [aqui](/cadastros/pessoa.md).
 **Frete Red.** | Selecione o frete redespacho.
 **Qtdade Total** | Informa a quantidade.
 **Valor Itens** | Informa o valor total dos  itens.
