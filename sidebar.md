@@ -6,7 +6,7 @@
 - [Cond.Pagamento](/cadastros/condicaopagamento.md)
 - [Empresas usuárias](/cadastros/empresapublico.md)
 - [Estados e Municípios](/cadastros/estado.md)
-- [Exportar e-mails](/cadastros/)
+- [Exportar e-mails](/cadastros/exp-filtro-pessoa.md)
 - [Grades de distribuição](/cadastros/grade.md)
 - [Grupo de clientes](/cadastros/grupoclientes.md)
 - [Linhas de produtos](/cadastros/linhasdeproduto.md)
