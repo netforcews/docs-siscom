@@ -11,7 +11,7 @@ Pela grade, podemos visualizar suas principais informações e fazer a manutenç
 
 Campo | Descrição
 --:|---
-**Marca** | Informa o nome fantasia (apelido).
+**Marca** | Informa um nome curto de como você conhece a pessoa internamente. Exemplo: Apple para Apple Computers INC.
 **Razão Social/Nome** | Informa o nome.
 **Telefone** | Informa o telefone.
 **CNPJ/CPF** | Informa o CNPJ ou CPF, conforme o tipo.
@@ -24,7 +24,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Marca** | Informe o nome fantasia (apelido). Por padrão, este campo é obrigatório.
+**Marca** | Informe um nome curto de como você conhece a pessoa internamente. Exemplo: Apple para Apple Computers INC. Por padrão, este campo é obrigatório.
 **CNPJ/CPF** | Informe o CNPJ ou CPF, conforme o tipo. Por padrão, este campo é obrigatório.
 **Tipo** | Selecione o tipo. Opções: Física, Jurídica. Por padrão, este campo é obrigatório.
 **IE** | Informe a Inscrição Estadual. Por padrão, este campo é obrigatório.
