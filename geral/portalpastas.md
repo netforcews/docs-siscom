@@ -31,7 +31,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Interface** | Selecione a interface.
+**Interface** | Selecione a interface. Veja [aqui](/geral/sisinterface.md).
 **Visão** | Selecione a visão.
 <br>
 
@@ -40,7 +40,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Portlet** | Selecione o portlet.
+**Portlet** | Selecione o portlet. Veja [aqui](/desenvolvimento/portlets.md).
 **Parametros** | Informe os parametros.
 <br>
 

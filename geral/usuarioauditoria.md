@@ -19,7 +19,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Data** | Informa a data.
-**Usuário** | Informa o usuário.
+**Usuário** | Informa o usuário. Veja [aqui](/desenvolvimento/usuario.md).
 **Objeto** | Informa o objeto. Por padrão, este campo é obrigatório.
 **Operação** | Informe a operação. Por padrão, este campo é obrigatório.
 **Dados** | Informa os dados.

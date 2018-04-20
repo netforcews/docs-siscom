@@ -22,10 +22,10 @@ Campo | Descrição
 --:|---
 **Número** | Informa o número.
 **Inclusão** | Informa a data da inclusão.
-**Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório.
+**Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/empresapublico.md).
 **Estado** | Selecione o estado. Opções: Cancelado, Concluído, Disponível, Edição. Por padrão, este campo é obrigatório.
-**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório.
-**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório.
+**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **Contato** | Informe o contato.
 **Telefone** | Informe o telefone.
 **Valor Total** | Informa o valor.

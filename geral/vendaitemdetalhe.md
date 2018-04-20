@@ -21,13 +21,13 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Código** | Informa o código. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório.
+**Código** | Informa o código. Por padrão, este campo é obrigatório. Veja [aqui](/produtos/produto.md).
+**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **Descrição** | Informa a descrição. Por padrão, este campo é obrigatório.
 **Complemento** | Informe o complemento.
 **Complemento2** | Informe o complemento 2.
-**Unidade** | Informa a unidade. Por padrão, este campo é obrigatório.
-**Linha** | Selecione a linha.
+**Unidade** | Informa a unidade. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/unidadesmedida.md).
+**Linha** | Selecione a linha. Veja [aqui](/cadastros/linhasdeproduto.md).
 **Qtdade** | Informa a quantidade . Por padrão, este campo é obrigatório.
 **Valor Venda** | Informa o valor. Por padrão, este campo é obrigatório.
 **% IPI** | Informa o percentual de IPI.

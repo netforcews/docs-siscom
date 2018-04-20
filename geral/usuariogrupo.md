@@ -15,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Grupo** | Selecione o grupo. Por padrão, este campo é obrigatório.
+**Grupo** | Selecione o grupo. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/segurancagrupo.md).
 <br>
 <br>
 <br>

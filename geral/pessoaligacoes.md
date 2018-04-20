@@ -17,8 +17,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório.
-**Representante** | Selecione o representante. Por padrão, este campo é obrigatório.
+**Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/empresa.md).
+**Representante** | Selecione o representante. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
 **% Comissao** | Informe o percentual de comissão.
 <br>
 <br>

@@ -18,7 +18,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Data** | Informe a data. Por padrão, este campo é obrigatório.
-**Usuário** | Informa o usuário.
+**Usuário** | Informa o usuário. Veja [aqui](/desenvolvimento/usuario.md).
 **Tipo** | Informe o tipo. Opções: Visita. Por padrão, este campo é obrigatório.
 **Texto** | Informe o texto. Por padrão, este campo é obrigatório.
 **Retorno** | Informe a data do retorno.
@@ -29,8 +29,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Notificação 1** | Selecione a notificação 1.
-**Notificação 2** | Selecione a notificação 2.
+**Notificação 1** | Selecione a notificação 1. Veja [aqui](/desenvolvimento/usuario.md).
+**Notificação 2** | Selecione a notificação 2. Veja [aqui](/desenvolvimento/usuario.md).
 <br>
 <br>
 <br>

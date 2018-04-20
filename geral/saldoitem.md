@@ -22,9 +22,9 @@ Campo | Descrição
 --:|---
 **Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
 **Resumo** | Informe o resumo.
-**Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório.
+**Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/unidadesmedida.md).
 **Qualidade** | Selecione a qualidade. Opções: Aproveitamento, Primeira, Segunda. Por padrão, este campo é obrigatório.
-**Linha** | Selecione a linha.
+**Linha** | Selecione a linha. Veja [aqui](/cadastros/linhasdeproduto.md).
 **Qtdade** | Informe a quantidade. Por padrão, este campo é obrigatório.
 **Valor** | Informe o valor. Por padrão, este campo é obrigatório.
 **Valor Total** | Informa o total.
