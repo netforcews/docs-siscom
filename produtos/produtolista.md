@@ -22,7 +22,7 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Fornecedor** | Selecione o fornecedor. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Disponível** | Selecione se ativo.
 <br>
 <br>

@@ -26,12 +26,12 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Código** | Informe a referência. Por padrão, este campo é obrigatório.
-**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Fornecedor** | Selecione o fornecedor. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
 **Descrição2** | Informe a descrição 2.
-**Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/unidadesmedida.md).
+**Unidade** | Selecione a unidade. Veja [aqui](/cadastros/unidadesmedida.md). Por padrão, este campo é obrigatório.
 **Linha** | Selecione a linha. Veja [aqui](/cadastros/linhasdeproduto.md).
-**Lista de produto** | Selecione a lista. Por padrão, este campo é obrigatório. Veja [aqui](/produtos/produtolista.md).
+**Lista de produto** | Selecione a lista. Veja [aqui](/produtos/produtolista.md). Por padrão, este campo é obrigatório.
 **Situação** | Selecione a situação. Opções: Ativo, Fora de linha. Por padrão, este campo é obrigatório.
 **Valor Custo** | Informe o valor de custo.
 **Valor Venda** | Informe o valor.
