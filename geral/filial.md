@@ -23,8 +23,8 @@ Campo | Descrição
 **Logradouro** | Informe o logradouro. Por padrão, este campo é obrigatório.
 **Bairro** | Informe o bairro. Por padrão, este campo é obrigatório.
 **CEP** | Informe o CEP. Por padrão, este campo é obrigatório.
-**Estado** | Selecione o estado. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/estado.md).
-**Município** | Selecione o município. Por padrão, este campo é obrigatório. Veja [aqui](/geral/municipio.md).
+**Estado** | Selecione o estado. Veja [aqui](/cadastros/estado.md). Por padrão, este campo é obrigatório.
+**Município** | Selecione o município. Veja [aqui](/geral/municipio.md). Por padrão, este campo é obrigatório.
 **Telefone** | Informe o telefone. Por padrão, este campo é obrigatório.
 **Fax** | Informe o fax.
 **E-mail** | Informe o e-mail.

@@ -17,8 +17,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Pessoa** | Selecione a pessoa. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
-**Campanha** | Selecione a campanha. Por padrão, este campo é obrigatório. Veja [aqui](/marketing/emmcampanhas.md).
+**Pessoa** | Selecione a pessoa. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
+**Campanha** | Selecione a campanha. Veja [aqui](/marketing/emmcampanhas.md). Por padrão, este campo é obrigatório.
 **Data** | Informa a data. Por padrão, este campo é obrigatório.
 <br>
 <br>

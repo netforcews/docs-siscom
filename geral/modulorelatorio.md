@@ -20,7 +20,7 @@ Campo | Descrição
 --:|---
 **Agrupador** | Informe o agrupador. Por padrão, este campo é obrigatório.
 **Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
-**Relatório** | Selecione o relatório. Por padrão, este campo é obrigatório. Veja [aqui](/geral/relatoriolkp.md).
+**Relatório** | Selecione o relatório. Veja [aqui](/geral/relatoriolkp.md). Por padrão, este campo é obrigatório.
 **Ativo** | Selecione se ativo.
 <br>
 <br>

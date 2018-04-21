@@ -53,8 +53,8 @@ Campo | Descrição
 **Desconto somente com aprovação** | Selecione se desconto somente com aprovação.
 **Informar desconto** | Selecione se deve informar desconto. Opções: Em Percentual, Em Valor. Por padrão, este campo é obrigatório.
 **Perminit previsão de entraga para finais de semana** | Selecione se permiite previsão de entraga para finais de semana.
-**Receita** | Selecione a conta de receita. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/planoconta.md).
-**Despesa** | Selecione a conta de despesa. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/planoconta.md).
+**Receita** | Selecione a conta de receita. Veja [aqui](/cadastros/planoconta.md). Por padrão, este campo é obrigatório.
+**Despesa** | Selecione a conta de despesa. Veja [aqui](/cadastros/planoconta.md). Por padrão, este campo é obrigatório.
 **A Receber** | Informe s forma para receber. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 **A Pagar** | Informe a forma para pagar. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 <br>

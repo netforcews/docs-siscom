@@ -22,7 +22,7 @@ Campo | Descrição
 **Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
 **Agrupador** | Informe o agrupador. Por padrão, este campo é obrigatório.
 **Nome** | Informe o nome. Por padrão, este campo é obrigatório.
-**Interface** | Selecione a interface. Por padrão, este campo é obrigatório. Veja [aqui](/geral/sisinterface.md).
+**Interface** | Selecione a interface. Veja [aqui](/geral/sisinterface.md). Por padrão, este campo é obrigatório.
 **Visão** | Selecione a visão. Opções: Formulário, Grid. Por padrão, este campo é obrigatório.
 **Codigointerno** | Informe o código interno.
 **Ativo** | Selecione se ativo.

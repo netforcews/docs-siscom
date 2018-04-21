@@ -15,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Filial** | Selecione a filial. Por padrão, este campo é obrigatório. Veja [aqui](/geral/filial.md).
+**Filial** | Selecione a filial. Veja [aqui](/geral/filial.md). Por padrão, este campo é obrigatório.
 <br>
 <br>
 <br>

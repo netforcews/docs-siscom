@@ -15,8 +15,8 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Dialogo** | Selecione o dialogo. Por padrão, este campo é obrigatório. Veja [aqui](/geral/msgdialog.md).
-**Usuário** | Selecione o usuário. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/usuario.md).
+**Dialogo** | Selecione o dialogo. Veja [aqui](/geral/msgdialog.md). Por padrão, este campo é obrigatório.
+**Usuário** | Selecione o usuário. Veja [aqui](/desenvolvimento/usuario.md). Por padrão, este campo é obrigatório.
 **Data** | Informe a data. Por padrão, este campo é obrigatório.
 **Texto** | Informe o texto. Por padrão, este campo é obrigatório.
 <br>

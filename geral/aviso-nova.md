@@ -15,7 +15,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Para** | Selecione o usuário. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/usuario.md).
+**Para** | Selecione o usuário. Veja [aqui](/desenvolvimento/usuario.md). Por padrão, este campo é obrigatório.
 **Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
 **Texto** | Informe um texto. Por padrão, este campo é obrigatório.
 <br>
