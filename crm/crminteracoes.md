@@ -22,7 +22,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Pessoa** | Selecione a pessoa. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Pessoa** | Selecione a pessoa. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Data** | Informe a data. Por padrão, este campo é obrigatório.
 **Usuário** | Informa o usuário. Veja [aqui](/desenvolvimento/usuario.md).
 **Tipo** | Informe o tipo. Opções: Visita. Por padrão, este campo é obrigatório.
