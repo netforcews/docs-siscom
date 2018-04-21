@@ -24,9 +24,9 @@ Campo | Descrição
 **Título** | Informe o título. Por padrão, este campo é obrigatório.
 **Situação** | Informa a situação. Opções: Aguardando Envio, Concluído, Edição, Enviando. Por padrão, este campo é obrigatório.
 **Inclusão** | Informa a data da inclusão.
-**Contexto** | Selecione o contexto. Por padrão, este campo é obrigatório. Veja [aqui](/marketing/emmcontextos.md).
-**Conta** | Selecione a conta. Por padrão, este campo é obrigatório. Veja [aqui](/e-mails/emailcontas.md).
-**Estilo** | Selecione o estilo. Por padrão, este campo é obrigatório. Veja [aqui](/marketing/emmestilos.md).
+**Contexto** | Selecione o contexto. Veja [aqui](/marketing/emmcontextos.md). Por padrão, este campo é obrigatório.
+**Conta** | Selecione a conta. Veja [aqui](/e-mails/emailcontas.md). Por padrão, este campo é obrigatório.
+**Estilo** | Selecione o estilo. Veja [aqui](/marketing/emmestilos.md). Por padrão, este campo é obrigatório.
 **Agendamento** | Informe a data do agendamento.
 **Assunto** | Informe o assunto. Por padrão, este campo é obrigatório.
 **Texto** | Informe o texto. Por padrão, este campo é obrigatório.
