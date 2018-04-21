@@ -19,7 +19,7 @@ Campo | Descrição
 --:|---
 **Ordem** | Informe a ordem. Por padrão, este campo é obrigatório.
 **Ativo** | Selecione se ativo.
-**Regra** | Selecione a regra. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/regrasnegociais.md).
+**Regra** | Selecione a regra. Veja [aqui](/desenvolvimento/regrasnegociais.md). Por padrão, este campo é obrigatório.
 <br>
 
 ## Comandos

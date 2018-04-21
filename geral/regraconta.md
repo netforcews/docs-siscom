@@ -16,7 +16,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Conta** | Selecione a conta. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/segurancaconta.md).
+**Conta** | Selecione a conta. Veja [aqui](/desenvolvimento/segurancaconta.md). Por padrão, este campo é obrigatório.
 **Ver** | Informa se permie ver.
 **Editar** | Selecione se permite editar.
 **Inserir** | Selecione se permite inserir.

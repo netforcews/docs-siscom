@@ -23,10 +23,10 @@ Campo | Descrição
 Campo | Descrição
 --:|---
 **Referência** | Informe a referência. Por padrão, este campo é obrigatório.
-**Fornecedor** | Informa o fornecedor. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Fornecedor** | Informa o fornecedor. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Descrição** | Informe a descrição.
 **Complemento** | Informe o complemento.
-**Unidade** | Selecione a unidade. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/unidadesmedida.md).
+**Unidade** | Selecione a unidade. Veja [aqui](/cadastros/unidadesmedida.md). Por padrão, este campo é obrigatório.
 **Linha** | Selecione a linha. Veja [aqui](/cadastros/linhasdeproduto.md).
 **Tamanho** | Informe o tamanho.
 **Cor** | Informe a cor.
