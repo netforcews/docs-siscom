@@ -27,15 +27,15 @@ Campo | Descrição
 --:|---
 **Número** | Informa o número. Por padrão, este campo é obrigatório.
 **Pedido Original** | Informe o pedido original..
-**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Fornecedor** | Selecione o fornecedor. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Estado** | Informa o estado. Opções: Aberto, Cancelado, Faturado e Entregue, Fechado. Por padrão, este campo é obrigatório.
-**Cliente** | Selecione o cliente. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Cliente** | Selecione o cliente. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Contato** | Informe o contato.
-**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
-**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/empresa.md).
+**Atendente** | Selecione o atendente. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
+**Empresa** | Informa a empresa. Veja [aqui](/desenvolvimento/empresa.md). Por padrão, este campo é obrigatório.
 **Emissão** | Informa a data da emissão.
 **Prev.Entrega** | Informe a data da previsão de entrega.
-**Cond.Pagto** | Selecione a condição de pagamento. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/condicaopagamento.md).
+**Cond.Pagto** | Selecione a condição de pagamento. Veja [aqui](/cadastros/condicaopagamento.md). Por padrão, este campo é obrigatório.
 **Forma Pagto** | Informe o forma pagamento. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 **Tipo Venda** | Informe o tipo venda. Opções: Coleção, Desenvolvimento, Exportação, Saldo. Por padrão, este campo é obrigatório.
 **Tipo Faturamento** | Informe o tipo de faturamento. Opções: Normal, VOL. Por padrão, este campo é obrigatório.

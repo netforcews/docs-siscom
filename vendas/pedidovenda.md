@@ -29,24 +29,24 @@ Campo | Descrição
 --:|---
 **Número** | Informa o número. Por padrão, este campo é obrigatório.
 **Pedido Original** | Informe o pedido original..
-**Fornecedor** | Selecione o fornecedor. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Fornecedor** | Selecione o fornecedor. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Estado** | Informa o estado. Opções: Aberto, Cancelado, Faturado e Entregue, Fechado. Por padrão, este campo é obrigatório.
-**Cliente** | Selecione o cliente. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Cliente** | Selecione o cliente. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Contato** | Informe o contato.
-**Atendente** | Selecione o atendente. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
-**Empresa** | Informa a empresa. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/empresa.md).
+**Atendente** | Selecione o atendente. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
+**Empresa** | Informa a empresa. Veja [aqui](/desenvolvimento/empresa.md). Por padrão, este campo é obrigatório.
 **Emissão** | Informa a data da emissão.
 **Prev.Faturamento** | Informe a data da previsão de faturamento. Por padrão, este campo é obrigatório.
 **Fechamento** | Informa a data do fechamento.
 **Prev.Entrega** | Informe a data da previsão de entrega.
-**Cond.Pagto** | Selecione a condição de pagamento. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/condicaopagamento.md).
+**Cond.Pagto** | Selecione a condição de pagamento. Veja [aqui](/cadastros/condicaopagamento.md). Por padrão, este campo é obrigatório.
 **Forma Pagto** | Informe o forma pagamento. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 **Tipo Venda** | Informe o tipo venda. Opções: Coleção, Desenvolvimento, Exportação, Saldo. Por padrão, este campo é obrigatório.
 **Tipo Faturamento** | Informe o tipo de faturamento. Opções: Normal, VOL. Por padrão, este campo é obrigatório.
 **Pedido enviado por e-mail cliente/fornecedor** | Selecione se o pedido foi enviado por e-mail para o cliente/fornecedor.
 **Data Faturamento** | Informe a data do faturamento.
 **Nota Fiscal** | Informe a nota fiscal.
-**Comissionado** | Selecione o comissionado. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Comissionado** | Selecione o comissionado. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **% Comissão** | Informe o percentual de comissão. Por padrão, este campo é obrigatório.
 **Preposto1** | Selecione o preposto1. Veja [aqui](/cadastros/pessoa.md).
 **% Comissão** | Informe o percentual de comissão.

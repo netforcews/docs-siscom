@@ -30,7 +30,7 @@ Campo | Descrição
 **Estado** | Informa o estado. Opções: Aberto, Ag. Confirmação, Confirmado. Por padrão, este campo é obrigatório.
 **Cliente** | Informe o cliente. Por padrão, este campo é obrigatório.
 **Fornecedor** | Informe o fornecedor. Por padrão, este campo é obrigatório.
-**Representante** | Selecione o representante. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Representante** | Selecione o representante. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **% Comissão** | Informe o percentual de comissão. Por padrão, este campo é obrigatório.
 **Redespacho** | Informe o redespacho.
 **Frete** | Selecione o frete. Opções: Destinatário (FOB) , Emitente (CIF) . Por padrão, este campo é obrigatório.
