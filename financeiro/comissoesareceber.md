@@ -30,8 +30,8 @@ Campo | Descrição
 **Compromisso** | Informe o compromisso. Por padrão, este campo é obrigatório.
 **Situação** | Informa a situação. Opções: Aberto, Cancelado, Quitado. Por padrão, este campo é obrigatório.
 **Número** | Informa o numero.
-**Usuário** | Informa o usuário. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/usuario.md).
-**Sacado** | Selecione o fornecedor/sacado. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Usuário** | Informa o usuário. Veja [aqui](/desenvolvimento/usuario.md). Por padrão, este campo é obrigatório.
+**Sacado** | Selecione o fornecedor/sacado. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Descrição** | Informe a descrição.
 **Emissão** | Informe a data da emissão. Por padrão, este campo é obrigatório.
 **Forma de Pgto** | Informe o forma de psgsmento. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.

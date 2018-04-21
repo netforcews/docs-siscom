@@ -29,16 +29,16 @@ Campo | Descrição
 **Compromisso** | Informe o compromisso. Por padrão, este campo é obrigatório.
 **Situação** | Informa a situação. Opções: Aberto, Cancelado, Quitado. Por padrão, este campo é obrigatório.
 **Número** | Informa o numero.
-**Usuário** | Informa o usuário. Por padrão, este campo é obrigatório. Veja [aqui](/desenvolvimento/usuario.md).
-**Cedente** | Selecione o fornecedor/sacado. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/pessoa.md).
+**Usuário** | Informa o usuário. Veja [aqui](/desenvolvimento/usuario.md). Por padrão, este campo é obrigatório.
+**Cedente** | Selecione o fornecedor/sacado. Veja [aqui](/cadastros/pessoa.md). Por padrão, este campo é obrigatório.
 **Descrição** | Informe a descrição.
 **Emissão** | Informe a data da emissão. Por padrão, este campo é obrigatório.
 **Forma de Pgto** | Informe o forma de psgsmento. Opções: Boleto, Cheque, Depósito em Conta, Duplicata, Recibo. Por padrão, este campo é obrigatório.
 **Vencimento** | Informe a data do vencimento. Por padrão, este campo é obrigatório.
 **Tipo Vencimento** | Selecione o tipo de vencimento. Opções: Previsto, Real. Por padrão, este campo é obrigatório.
-**Conta Contábil** | Selecione a conta contábil. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/planoconta.md).
+**Conta Contábil** | Selecione a conta contábil. Veja [aqui](/cadastros/planoconta.md). Por padrão, este campo é obrigatório.
 **Valor Nominal** | Informe o valor nominal. Por padrão, este campo é obrigatório.
-**Empresa** | Selecione a empresa. Por padrão, este campo é obrigatório. Veja [aqui](/cadastros/empresapublico.md).
+**Empresa** | Selecione a empresa. Veja [aqui](/cadastros/empresapublico.md). Por padrão, este campo é obrigatório.
 **Valor Base** | Informa o valor base.
 **N. Parcelas** | Informe o número de parcelas. Por padrão, este campo é obrigatório.
 **Intervalo (dias)** | Informe o intervalo em número de dias. Por padrão, este campo é obrigatório.
