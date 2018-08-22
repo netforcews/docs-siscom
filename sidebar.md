@@ -1,3 +1,4 @@
+- [**Atualizações**](/atualizacoes/atualizacoes.md)
 - [**F.A.Q.**](/faq/faq.md)
 
 **CADASTROS**
