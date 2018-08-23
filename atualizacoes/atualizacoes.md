@@ -38,8 +38,8 @@ Em contas a pagar, o campo **Cedente** não estava adicionando clientes e repres
 - Criado filtro "À Pagar" na grade de comissões à pagar com as mesmas condições do relatório.
 
 ### 2567 - Valor da comissão em reais e não em percentual como é atualmente		
-Deve-se verificar o que segue:
-a) Se houver algum pedido com esta situação, não fechado, deve-se salvar novamente o pedido;
+Deve-se verificar o que segue:   
+a) Se houver algum pedido com esta situação, não fechado, deve-se salvar novamente o pedido;   
 b) Se houver algum pedido com esta situação, fechado, mas com possibilidade de se reabrir, deve-se reabrir, salvar novamente e fechá-lo.   
 ```
 Para o cálculo:
@@ -84,5 +84,5 @@ Corrigido.
 A planilha foi alterada para que apresente informações por empresa. Desta forma serão enviados e-mails separados por empresa.
 
 ### 2723 - Problemas em baixa parcial e relatórios de comissões a pagar
-Foram corrigidos problemas em relatórios e processos em baixa parcial.
+Foram corrigidos problemas em relatórios e processos em baixa parcial.   
 Clique [aqui](http://siscom.leiame.org/master/geral/financeiro-baixa-coletiva) para acessar a definição de baixa parcial. 
