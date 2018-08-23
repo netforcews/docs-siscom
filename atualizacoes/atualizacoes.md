@@ -86,4 +86,3 @@ A planilha foi alterada para que apresente informações por empresa. Desta form
 ### 2723 - Problemas em baixa parcial e relatórios de comissões a pagar
 Foram corrigidos problemas em relatórios e processos em baixa parcial.
 Segue link com definição de baixa parcial: http://siscom.leiame.org/master/geral/financeiro-baixa-coletiva
-
