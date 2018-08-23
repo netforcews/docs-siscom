@@ -40,21 +40,21 @@ Em contas a pagar, o campo **Cedente** não estava adicionando clientes e repres
 ### 2567 - Valor da comissão em reais e não em percentual como é atualmente		
 Deve-se verificar o que segue:
 a) Se houver algum pedido com esta situação, não fechado, deve-se salvar novamente o pedido;
-b) Se houver algum pedido com esta situação, fechado, mas com possibilidade de se reabrir, deve-se reabrir, salvar novamente e fechá-lo.
-
-     Para o cálculo:
-     - 100 peças x R$ 9,00 = R$ 900,00
-         - Comissão total deve ser R$ 100,00
-         - Comissionado deve receber R$ 97,00		 
-		 - Preposto1 deve receber R$ 3,00
-		 Nesta situação temos o seguinte:
-		 - O percentual do comissionado é 10,7778%
-		 - O percentual do preposto1 é 0,3334%
-		 - O percentual total é 11,1112%
-		 Ao fechar o pedido:
-		 - Temos 1 titulo a receber de R$ 100,00 
-		 - Temos 2 títulos a pagar, um de R$ 97,00 e outro de R$ 3,00.
-
+b) Se houver algum pedido com esta situação, fechado, mas com possibilidade de se reabrir, deve-se reabrir, salvar novamente e fechá-lo.   
+```
+Para o cálculo:
+- 100 peças x R$ 9,00 = R$ 900,00
+- Comissão total deve ser R$ 100,00
+- Comissionado deve receber R$ 97,00		 
+- Preposto1 deve receber R$ 3,00
+Nesta situação temos o seguinte:
+- O percentual do comissionado é 10,7778%
+- O percentual do preposto1 é 0,3334%
+- O percentual total é 11,1112%
+Ao fechar o pedido:
+- Temos 1 titulo a receber de R$ 100,00 
+- Temos 2 títulos a pagar, um de R$ 97,00 e outro de R$ 3,00.
+```
 
 ### 2603 - Necessidade de campo para Informações Comerciais
 - No módulo **Cadastros**, opção **Todas as pessoas**, na tela de pessoas, aba **Observação**, há dois novos campos: **Informações Bancárias** e **Informações Comerciais**;
@@ -85,4 +85,4 @@ A planilha foi alterada para que apresente informações por empresa. Desta form
 
 ### 2723 - Problemas em baixa parcial e relatórios de comissões a pagar
 Foram corrigidos problemas em relatórios e processos em baixa parcial.
-Segue link com definição de baixa parcial: http://siscom.leiame.org/master/geral/financeiro-baixa-coletiva
+Clique [aqui](http://siscom.leiame.org/master/geral/financeiro-baixa-coletiva) para acessar a definição de baixa parcial. 
