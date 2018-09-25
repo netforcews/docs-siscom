@@ -25,7 +25,7 @@ Campo | Descrição
 
 Campo | Descrição
 --:|---
-**Conta** | Selecione a conta. Veja [aqui](/geral/lkpcontacorrente.md). Por padrão, este campo é obrigatório.
+**Conta** | Selecione a conta. Por padrão, este campo é obrigatório.
 **Conta Contábil** | Selecione a conta contábil. Veja [aqui](/cadastros/planoconta.md). Por padrão, este campo é obrigatório.
 **Data** | Informe a data. Por padrão, este campo é obrigatório.
 **Descrição** | Informe a descrição. Por padrão, este campo é obrigatório.
