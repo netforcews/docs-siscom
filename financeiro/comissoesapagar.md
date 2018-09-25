@@ -65,8 +65,8 @@ Campo | Descrição
 ## Comandos
 ### [Baixar](/geral/financeiro-baixa-coletiva.md)
 ### Estornar
-Estorna os lançamentos do(s) título(s) marcado(s).   
-Caso houver lançamentos em contas correntes, estes também serão estornados, desde que a configuração **Gerar lançamento automático em conta corrente a partir de movimentações financeiras** esteja selecionada.   
+Estorna o(s) lançamento(s) do(s) título(s) marcado(s).   
+Caso houver lançamento(s) em conta(s) corrente(s), este(s) também será(ão) estornado(s), desde que a configuração **Gerar lançamento automático em conta corrente a partir de movimentações financeiras** esteja selecionada. Caso contrário, deve-se fazer a manutenção de conta corrente manualmente.   
 Veja: [Configurações](/financeiro/config-financeiro.md)
 <br>
 
