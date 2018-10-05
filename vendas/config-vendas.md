@@ -15,6 +15,8 @@ Campo | Descrição
 **Repres.Empresa** | Selecione o representante da empresa. Por padrão, este campo é obrigatório.
 **Opção** | Selecione a opção. Opções: Na liquidez dos recebimentos, No faturamento. Por padrão, este campo é obrigatório.
 **Excluir itens do pedido ao alterar fornecedor** | Selecione se deve excluir itens do pedido ao alterar fornecedor.
+**Utilizar regras do cadastro de clientes** | Selecione se deve utilizar regras do cadastro de clientes.
+**Permitir alterar a data de emissão do pedido** | Selecione se deve permitir alterar a data de emissão do pedido.
 <br>
 
 ## PDF
@@ -30,6 +32,8 @@ Campo | Descrição
 **Exibir % de comissão** | Selecione se deve exibir o percentual de comissão.
 **Exibir foto das referências** | Selecione se deve exibir fotos das referências.
 **Exibir número do pedido no topo** | Selecione se deve exibir número do pedido no topo.
+**Exibir informações bancárias** | Selecione se o exibir informações bancárias.
+**Exibir informações comerciais** | Selecione se o exibir informações comerciais.
 **Cor observação** | Informe a cor observação. Por padrão, este campo é obrigatório.
 **Decimais QTD** | Informe a quantidade de decimais. Por padrão, este campo é obrigatório.
 **Ordenar Itens** | Selecione se deve ordenar itens. Opções: por Digitação, por Referência. Por padrão, este campo é obrigatório.
