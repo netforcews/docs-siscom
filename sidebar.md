@@ -93,6 +93,7 @@
 - [Vendas por fornecedores](/relatorios/30130.md)
 - [Gráfico vendas por comissionados](/relatorios/30150.md)
 - [Vendas por comissionados](/relatorios/30155.md)
+- [Vendas por comissionados #2](/relatorios/30157.md)
 - [Vendas por atendentes](/relatorios/30140.md)
 - [Resumo de vendas](/relatorios/30200.md)
 - [Crescimento anual de vendas](/relatorios/30300.md)
